@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Temukan Inspirasi Seputar Nutrisi dan_searchDo</name>
+   <tag></tag>
+   <elementGuidId>0dab8239-4eb8-43cc-8fe8-24166591e7bf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.search-after_banner_input > div.headers-menu_search > input.searchDo</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@type='text'])[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>3c7e3740-99c5-41d1-8961-0e8bc814e326</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>6ac21ff1-602e-43b0-8cd2-09041927bca1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>searchDo</value>
+      <webElementGuid>4b86cb08-b4ef-4f56-bd8c-894ae96387fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Cari inspirasinya disini</value>
+      <webElementGuid>b833a4e6-04f7-4b4a-a2fc-b00d448d75ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;pimcore_area_home-search pimcore_area_content&quot;]/div[@class=&quot;search-after_banner&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;search-after_banner_input&quot;]/div[@class=&quot;headers-menu_search&quot;]/input[@class=&quot;searchDo&quot;]</value>
+      <webElementGuid>7eb52c7e-a977-40b0-a69d-57d712e376aa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='text'])[3]</value>
+      <webElementGuid>7659f11a-6627-48ce-ae5e-74934d081bd3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/input</value>
+      <webElementGuid>cac32ac2-665b-4175-a85b-43c1b0833983</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @placeholder = 'Cari inspirasinya disini']</value>
+      <webElementGuid>6bf49b6c-b7b2-45f0-850d-feec72a45f07</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

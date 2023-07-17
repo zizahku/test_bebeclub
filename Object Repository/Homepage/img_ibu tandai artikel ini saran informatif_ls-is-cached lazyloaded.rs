@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_ibu tandai artikel ini saran informatif_ls-is-cached lazyloaded</name>
+   <tag></tag>
+   <elementGuidId>52193c21-d8a2-4457-9757-ade25be75d1d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[@alt='Anak menutup mulut saat sedang diberi makan.']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>3c71fdfb-d25e-4cae-8d2a-67d51a868f84</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>loading</name>
+      <type>Main</type>
+      <value>lazy</value>
+      <webElementGuid>e0846424-c88b-4799-94c6-35ac2f88ae83</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> ls-is-cached lazyloaded</value>
+      <webElementGuid>506f039a-694c-4377-aa63-a166b196647d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>249px</value>
+      <webElementGuid>8dd2c273-ef07-41ee-b95d-d9ff3ab744cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>149px</value>
+      <webElementGuid>f989c373-7c5b-42d5-8d33-ae6f39eb9a2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Anak menutup mulut saat sedang diberi makan.</value>
+      <webElementGuid>81ca07c8-1789-4eca-b802-8d6e42c66623</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Anak menutup mulut saat sedang diberi makan.</value>
+      <webElementGuid>75454445-205a-401e-b174-6824bd21f361</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-src</name>
+      <type>Main</type>
+      <value>https://d24eqpince6acm.cloudfront.net/articles/shutterstock_357076646.webp</value>
+      <webElementGuid>022f019d-bc53-4edd-bead-8c3887c03dbe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://d24eqpince6acm.cloudfront.net/articles/shutterstock_357076646.webp</value>
+      <webElementGuid>d0c97dcf-821a-434b-a731-87216d3f79ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;pimcore_area_home-new-article pimcore_area_content&quot;]/div[@class=&quot;article-new sect&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;article-new_content&quot;]/div[@class=&quot;slider-new-article swiper-container swiper-container-initialized swiper-container-horizontal swiper-container-pointer-events&quot;]/div[@class=&quot;swiper-wrapper&quot;]/div[@class=&quot;swiper-slide swiper-slide-next&quot;]/div[@class=&quot;card-thumb&quot;]/a[1]/div[@class=&quot;card-thumb_img&quot;]/picture[1]/img[@class=&quot;ls-is-cached lazyloaded&quot;]</value>
+      <webElementGuid>3e02d957-1089-4174-beb0-346677050da6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Anak menutup mulut saat sedang diberi makan.']</value>
+      <webElementGuid>6ac6485b-f9bb-42a1-83ed-8609c3f80be2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/a/div/picture/img</value>
+      <webElementGuid>9290f44d-ec75-4439-9659-c7f0d0d6c72f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = 'Anak menutup mulut saat sedang diberi makan.' and @title = 'Anak menutup mulut saat sedang diberi makan.' and @src = 'https://d24eqpince6acm.cloudfront.net/articles/shutterstock_357076646.webp']</value>
+      <webElementGuid>59ce83fe-91cb-450a-b174-7a0e1bdb54b0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

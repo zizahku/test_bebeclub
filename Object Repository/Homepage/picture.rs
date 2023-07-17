@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>picture</name>
+   <tag></tag>
+   <elementGuidId>b45b4e39-a893-4e5b-a457-c140fda8f159</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>picture</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[1]/preceding::picture[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>picture</value>
+      <webElementGuid>71b8f60a-bf0a-41f6-ab68-5039b6fb2b46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;headers-menu&quot;]/div[@class=&quot;headers-menu_iner&quot;]/div[@class=&quot;container_fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col&quot;]/div[@class=&quot;headers-menu_logo&quot;]/a[@class=&quot;headers-menu_brand&quot;]/picture[1]</value>
+      <webElementGuid>fc6fd402-5dd6-4d78-a80e-11544ec3db81</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[1]/preceding::picture[1]</value>
+      <webElementGuid>918cd460-71d8-4f0d-9e95-813da3c88129</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Register'])[1]/preceding::picture[1]</value>
+      <webElementGuid>95395c15-361f-4318-a999-67d4899b7747</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//picture</value>
+      <webElementGuid>a56568a3-c605-408d-92cd-e8b2a813cc08</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
