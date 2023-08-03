@@ -17,3 +17,26 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://bebeclub.co.id/')
+
+WebUI.mouseOver(findTestObject('Homepage/a_Tools'))
+
+//WebUI.rightClick(findTestObject('Homepage/a_Promo  Event'))
+
+// Menentukan locator untuk elemen yang ingin diklik kanan
+TestObject elementToRightClick = findTestObject('Homepage/a_Promo  Event')
+
+// Melakukan klik kanan pada elemen
+WebUI.click(elementToRightClick)
+
+// Menentukan locator untuk opsi "Open link in new tab"
+TestObject openInNewTabOption = findTestObject('Homepage/a_Promo  Event')
+
+// Menekan tombol "Ctrl" (atau "Command" di macOS) saat mengklik opsi untuk membuka dalam tab baru
+WebUI.sendKeys(openInNewTabOption, Keys.chord(Keys.CONTROL, Keys.RETURN))
+
+// Mendapatkan handles dari semua tab yang terbuka saat ini
+//List<String> tabHandles = WebUI.getDriver().getWindowHandles().toList()
+

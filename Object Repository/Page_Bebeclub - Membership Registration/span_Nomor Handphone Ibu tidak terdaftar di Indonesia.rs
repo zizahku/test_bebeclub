@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Nomor Handphone Ibu tidak terdaftar di Indonesia</name>
+   <tag></tag>
+   <elementGuidId>4134ad40-b6a4-4db9-9ab5-1e6f4bf5a95a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='phone_number-error']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;phone_number-error&quot;)[count(. | //span[@class = 'error' and @id = 'phone_number-error' and (text() = 'Nomor Handphone Ibu tidak terdaftar di Indonesia' or . = 'Nomor Handphone Ibu tidak terdaftar di Indonesia')]) = count(//span[@class = 'error' and @id = 'phone_number-error' and (text() = 'Nomor Handphone Ibu tidak terdaftar di Indonesia' or . = 'Nomor Handphone Ibu tidak terdaftar di Indonesia')])]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#phone_number-error</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e6caa215-5614-47a5-881c-c18578f2a125</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>error</value>
+      <webElementGuid>97a3731c-c7d7-4fad-a7a8-31e07b83c9e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>phone_number-error</value>
+      <webElementGuid>61ea2c68-1016-42e1-a73f-57bd4f71e1ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Nomor Handphone Ibu tidak terdaftar di Indonesia</value>
+      <webElementGuid>0a48a3c8-25e8-42f7-9051-a01fa9d5fcb2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;phone_number-error&quot;)</value>
+      <webElementGuid>11ef8c50-3098-4a9a-9ef5-5c07a6493add</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='phone_number-error']</value>
+      <webElementGuid>570f340c-93a5-4e21-90fb-cf32a5967cec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::span[1]</value>
+      <webElementGuid>665d06b3-15bb-47ff-8c87-243e1defe623</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/preceding::span[1]</value>
+      <webElementGuid>36f6a2b4-9a44-4958-8754-19e1efe55d78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Minimal 8 Karakter'])[1]/preceding::span[1]</value>
+      <webElementGuid>32d6cb46-5e5c-437b-9d38-f9edacacea2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Nomor Handphone Ibu tidak terdaftar di Indonesia']/parent::*</value>
+      <webElementGuid>b00eda1e-4123-41cc-b5fd-4b0b42d1ef99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[4]/span</value>
+      <webElementGuid>fd5fcb3c-6cb7-4a37-8e71-ad3067e0df9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'phone_number-error' and (text() = 'Nomor Handphone Ibu tidak terdaftar di Indonesia' or . = 'Nomor Handphone Ibu tidak terdaftar di Indonesia')]</value>
+      <webElementGuid>fbf3cbdb-5740-4c3e-82e3-cf650f5affdf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

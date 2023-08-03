@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="ISAT" time="26.78" tests="1" failures="0" errors="0">
+   <testsuite name="ISAT" tests="1" failures="0" errors="0" time="26.78" skipped="0" timestamp="2023-08-01 13:53:23" hostname="Sarah Nur Azizah - Sarah-Magnus" id="Test Suites/ISAT">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\Sarah Nur Azizah\\git\\test_bebeclub_branchzizah\\Reports\\20230801_135303\\ISAT\\20230801_135304"/>
+         <property name="logFiles" value="C:\\Users\\Sarah Nur Azizah\\git\\test_bebeclub_branchzizah\\Reports\\20230801_135303\\ISAT\\20230801_135304\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="Sarah Nur Azizah - Sarah-Magnus"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.6.0.208"/>
+         <property name="browser" value="Chrome 115.0.0.0"/>
+         <property name="hostAddress" value="10.10.10.204"/>
+         <property name="sessionId" value="3029a2f14f2bdbab81f3aa0b54c0d7fb"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/REGISTER/Prefix ID/0857 INDOSAT M3" time="26.453" classname="Test Cases/REGISTER/Prefix ID/0857 INDOSAT M3" status="PASSED">
+         <system-out><![CDATA[2023-08-01 13:53:23 - [TEST_CASE][PASSED] - Test Cases/REGISTER/Prefix ID/0857 INDOSAT M3: Test Cases/REGISTER/Prefix ID/0857 INDOSAT M3
+
+2023-08-01 13:53:24 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-08-01 13:53:24 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-08-01 13:53:24 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-08-01 13:53:27 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-08-01 13:53:27 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2023-08-01 13:53:27 - [MESSAGE][PASSED] - Current window maximized
+
+2023-08-01 13:53:27 - [TEST_STEP][PASSED] - navigateToUrl("https://bebeclub.eydendigital.co.id/membership/registration"): Navigate to 'https://bebeclub.eydendigital.co.id/membership/registration' successfully
+
+2023-08-01 13:53:37 - [MESSAGE][PASSED] - Navigate to 'https://bebeclub.eydendigital.co.id/membership/registration' successfully
+
+2023-08-01 13:53:37 - [TEST_STEP][PASSED] - click(findTestObject("Homepage/a_Register")): Object: 'Object Repository/Homepage/a_Register' is clicked on
+
+2023-08-01 13:53:38 - [MESSAGE][PASSED] - Object: 'Object Repository/Homepage/a_Register' is clicked on
+
+2023-08-01 13:53:38 - [TEST_STEP][PASSED] - setText(findTestObject("Page_Bebeclub - Membership Registration/input_Nama Depan_first-name-form"), "aziza"): Text 'aziza' is set on object 'Object Repository/Page_Bebeclub - Membership Registration/input_Nama Depan_first-name-form'
+
+2023-08-01 13:53:39 - [MESSAGE][PASSED] - Text 'aziza' is set on object 'Object Repository/Page_Bebeclub - Membership Registration/input_Nama Depan_first-name-form'
+
+2023-08-01 13:53:39 - [TEST_STEP][PASSED] - setText(findTestObject("Page_Bebeclub - Membership Registration/input_Nama Belakang_last-name-form"), "prefix"): Text 'prefix' is set on object 'Object Repository/Page_Bebeclub - Membership Registration/input_Nama Belakang_last-name-form'
+
+2023-08-01 13:53:40 - [MESSAGE][PASSED] - Text 'prefix' is set on object 'Object Repository/Page_Bebeclub - Membership Registration/input_Nama Belakang_last-name-form'
+
+2023-08-01 13:53:40 - [TEST_STEP][PASSED] - randomNum = generateRandomNumber(): null
+
+2023-08-01 13:53:40 - [TEST_STEP][PASSED] - random = new java.util.Random(): null
+
+2023-08-01 13:53:40 - [TEST_STEP][PASSED] - lastNineDigits = String.format("%09d", random.nextInt(1000000000)): null
+
+2023-08-01 13:53:40 - [TEST_STEP][PASSED] - randomNumber = "0857" + lastNineDigits: null
+
+2023-08-01 13:53:40 - [TEST_STEP][PASSED] - return randomNumber: null
+
+2023-08-01 13:53:40 - [TEST_STEP][PASSED] - setText(findTestObject("Page_Bebeclub - Membership Registration/input__number-form"), randomNum): Text '0857236154081' is set on object 'Object Repository/Page_Bebeclub - Membership Registration/input__number-form'
+
+2023-08-01 13:53:41 - [MESSAGE][PASSED] - Text '0857236154081' is set on object 'Object Repository/Page_Bebeclub - Membership Registration/input__number-form'
+
+2023-08-01 13:53:41 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Page_Bebeclub - Membership Registration/input_Password_pass-form"), "iFGeFYmXIrUhQZHvW7P22w=="): Text ****** has been set on object 'Object Repository/Page_Bebeclub - Membership Registration/input_Password_pass-form'
+
+2023-08-01 13:53:42 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Bebeclub - Membership Registration/input_Password_pass-form'
+
+2023-08-01 13:53:42 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Page_Bebeclub - Membership Registration/input_Konfirmasi Password_konfirmasipass-form"), "iFGeFYmXIrUhQZHvW7P22w=="): Text ****** has been set on object 'Object Repository/Page_Bebeclub - Membership Registration/input_Konfirmasi Password_konfirmasipass-form'
+
+2023-08-01 13:53:42 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Bebeclub - Membership Registration/input_Konfirmasi Password_konfirmasipass-form'
+
+2023-08-01 13:53:42 - [TEST_STEP][PASSED] - selectOptionByLabel(findTestObject("Page_Bebeclub - Membership Registration/select_Pilih Kondisi Ibu Saat Ini"), "Belum Hamil & Tidak Mempunyai Anak", false): All options with label 'Belum Hamil & Tidak Mempunyai Anak' are selected in object 'Object Repository/Page_Bebeclub - Membership Registration/select_Pilih Kondisi Ibu Saat Ini' 
+
+2023-08-01 13:53:43 - [MESSAGE][PASSED] - All options with label 'Belum Hamil & Tidak Mempunyai Anak' are selected in object 'Object Repository/Page_Bebeclub - Membership Registration/select_Pilih Kondisi Ibu Saat Ini' 
+
+2023-08-01 13:53:43 - [TEST_STEP][PASSED] - click(findTestObject("Page_Bebeclub - Membership Registration/button_Kirim Kode OTP")): Object: 'Object Repository/Page_Bebeclub - Membership Registration/button_Kirim Kode OTP' is clicked on
+
+2023-08-01 13:53:44 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Bebeclub - Membership Registration/button_Kirim Kode OTP' is clicked on
+
+2023-08-01 13:53:44 - [TEST_STEP][PASSED] - delay(4): Delayed 4 second(s)
+
+2023-08-01 13:53:48 - [MESSAGE][PASSED] - Delayed 4 second(s)
+
+2023-08-01 13:53:48 - [TEST_STEP][PASSED] - verifyTextPresent("Berhasil", false): Text 'Berhasil' is present on page 
+
+2023-08-01 13:53:49 - [MESSAGE][PASSED] - Text 'Berhasil' is present on page 
+
+2023-08-01 13:53:49 - [TEST_STEP][PASSED] - click(findTestObject("Page_Bebeclub - Membership Registration/img")): Object: 'Object Repository/Page_Bebeclub - Membership Registration/img' is clicked on
+
+2023-08-01 13:53:50 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Bebeclub - Membership Registration/img' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2023-08-01 13:53:23 - [TEST_SUITE][PASSED] - ISAT: Test Cases/REGISTER/Prefix ID/0857 INDOSAT M3]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

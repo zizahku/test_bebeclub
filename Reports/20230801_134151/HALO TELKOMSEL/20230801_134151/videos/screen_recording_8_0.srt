@@ -1,0 +1,76 @@
+1
+00:00:00,499 --> 00:00:02,319
+1. openBrowser("")
+
+2
+00:00:02,320 --> 00:00:02,442
+5. maximizeWindow()
+
+3
+00:00:02,443 --> 00:00:04,615
+9. navigateToUrl("https://bebeclub.eydendigital.co.id/membership/registration")
+
+4
+00:00:04,615 --> 00:00:05,278
+13. click(findTestObject("Homepage/a_Register"))
+
+5
+00:00:05,278 --> 00:00:05,566
+17. setText(findTestObject("Page_Bebeclub - Membership Registration/input_Nama Depan_first-name-form"), "aziza")
+
+6
+00:00:05,567 --> 00:00:05,777
+21. setText(findTestObject("Page_Bebeclub - Membership Registration/input_Nama Belakang_last-name-form"), "prefix")
+
+7
+00:00:05,799 --> 00:00:05,800
+25. randomNum = generateRandomNumber()
+
+8
+00:00:05,801 --> 00:00:05,802
+1. random = new java.util.Random()
+
+9
+00:00:05,803 --> 00:00:05,804
+5. lastNineDigits = String.format("%09d", random.nextInt(1000000000))
+
+10
+00:00:05,805 --> 00:00:05,806
+9. randomNumber = "0853" + lastNineDigits
+
+11
+00:00:05,808 --> 00:00:05,808
+13. return randomNumber
+
+12
+00:00:05,809 --> 00:00:06,065
+29. setText(findTestObject("Page_Bebeclub - Membership Registration/input__number-form"), randomNum)
+
+13
+00:00:06,066 --> 00:00:06,238
+33. setEncryptedText(findTestObject("Page_Bebeclub - Membership Registration/input_Password_pass-form"), "iFGeFYmXIrUhQZHvW7P22w==")
+
+14
+00:00:06,240 --> 00:00:06,460
+37. setEncryptedText(findTestObject("Page_Bebeclub - Membership Registration/input_Konfirmasi Password_konfirmasipass-form"), "iFGeFYmXIrUhQZHvW7P22w==")
+
+15
+00:00:06,461 --> 00:00:06,681
+41. selectOptionByLabel(findTestObject("Page_Bebeclub - Membership Registration/select_Pilih Kondisi Ibu Saat Ini"), "Belum Hamil & Tidak Mempunyai Anak", false)
+
+16
+00:00:06,681 --> 00:00:06,842
+45. click(findTestObject("Page_Bebeclub - Membership Registration/button_Kirim Kode OTP"))
+
+17
+00:00:06,843 --> 00:00:10,850
+49. delay(4)
+
+18
+00:00:10,852 --> 00:00:10,991
+53. verifyTextPresent("Berhasil", false)
+
+19
+00:00:10,992 --> 00:00:11,150
+57. click(findTestObject("Page_Bebeclub - Membership Registration/img"))
+
