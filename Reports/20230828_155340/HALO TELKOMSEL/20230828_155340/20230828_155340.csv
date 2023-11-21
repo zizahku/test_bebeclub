@@ -1,0 +1,167 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+HALO TELKOMSEL,Chrome 116.0.0.0,,,2023-08-28 15:53:49,2023-08-28 15:56:36,2m - 47.527s,FAILED
+,,,,,,,
+Test Cases/REGISTER/Prefix ID/0811 KARTU HALO,Chrome 116.0.0.0,Prefix indo,,2023-08-28 15:53:49,2023-08-28 15:54:11,22.280s,FAILED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-08-28 15:53:50,2023-08-28 15:53:53,2.903s,PASSED
+maximizeWindow(),Chrome 116.0.0.0,,,2023-08-28 15:53:53,2023-08-28 15:53:53,0.146s,PASSED
+"navigateToUrl(""https://bebeclub.eydendigital.co.id/membership/registration"")",Chrome 116.0.0.0,,,2023-08-28 15:53:53,2023-08-28 15:54:00,6.668s,PASSED
+"setText(findTestObject(""Membership Registration/input_Nama Depan_first-name-form""), ""aziza"")",Chrome 116.0.0.0,,,2023-08-28 15:54:00,2023-08-28 15:54:01,1.519s,PASSED
+"setText(findTestObject(""Membership Registration/input_Nama Belakang_last-name-form""), ""prefix"")",Chrome 116.0.0.0,,,2023-08-28 15:54:01,2023-08-28 15:54:02,0.931s,PASSED
+randomNum = generateRandomNumber(),Chrome 116.0.0.0,,,2023-08-28 15:54:02,2023-08-28 15:54:02,0.000s,PASSED
+random = new java.util.Random(),Chrome 116.0.0.0,,,2023-08-28 15:54:02,2023-08-28 15:54:02,0.008s,PASSED
+"lastNineDigits = String.format(""%09d"", random.nextInt(1000000000))",Chrome 116.0.0.0,,,2023-08-28 15:54:02,2023-08-28 15:54:02,0.000s,PASSED
+"randomNumber = ""0811"" + lastNineDigits",Chrome 116.0.0.0,,,2023-08-28 15:54:02,2023-08-28 15:54:02,0.000s,PASSED
+return randomNumber,Chrome 116.0.0.0,,,2023-08-28 15:54:02,2023-08-28 15:54:02,0.000s,PASSED
+"setText(findTestObject(""Membership Registration/input__number-form""), randomNum)",Chrome 116.0.0.0,,,2023-08-28 15:54:02,2023-08-28 15:54:03,1.160s,PASSED
+"setEncryptedText(findTestObject(""Membership Registration/input_Password_pass-form""), ""iFGeFYmXIrUhQZHvW7P22w=="")",Chrome 116.0.0.0,,,2023-08-28 15:54:03,2023-08-28 15:54:04,0.619s,PASSED
+"setEncryptedText(findTestObject(""Membership Registration/input_Konfirmasi Password_konfirmasipass-form""), ""iFGeFYmXIrUhQZHvW7P22w=="")",Chrome 116.0.0.0,,,2023-08-28 15:54:04,2023-08-28 15:54:04,0.713s,PASSED
+"selectOptionByLabel(findTestObject(""Membership Registration/select_Pilih Kondisi Ibu Saat Ini""), ""Belum Hamil & Tidak Mempunyai Anak"", false)",Chrome 116.0.0.0,,,2023-08-28 15:54:04,2023-08-28 15:54:05,0.940s,PASSED
+"click(findTestObject(""Membership Registration/button_Kirim Kode OTP""))",Chrome 116.0.0.0,,,2023-08-28 15:54:05,2023-08-28 15:54:06,0.626s,PASSED
+delay(4),Chrome 116.0.0.0,,,2023-08-28 15:54:06,2023-08-28 15:54:10,4.079s,PASSED
+"verifyTextPresent(""Berhasil"", false)",Chrome 116.0.0.0,,,2023-08-28 15:54:10,2023-08-28 15:54:11,0.505s,FAILED
+"click(findTestObject(""Membership Registration/img""))",Chrome 116.0.0.0,,,2023-08-28 15:54:11,2023-08-28 15:54:11,0.767s,FAILED
+,,,,,,,
+Test Cases/REGISTER/Prefix ID/0812 TELKOMSEL,Chrome 116.0.0.0,Prefix indo,,2023-08-28 15:54:11,2023-08-28 15:54:43,31.944s,FAILED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-08-28 15:54:12,2023-08-28 15:54:14,2.155s,PASSED
+maximizeWindow(),Chrome 116.0.0.0,,,2023-08-28 15:54:14,2023-08-28 15:54:14,0.157s,PASSED
+"navigateToUrl(""https://bebeclub.eydendigital.co.id/membership/registration"")",Chrome 116.0.0.0,,,2023-08-28 15:54:14,2023-08-28 15:54:31,16.377s,PASSED
+"setText(findTestObject(""Membership Registration/input_Nama Depan_first-name-form""), ""aziza"")",Chrome 116.0.0.0,,,2023-08-28 15:54:31,2023-08-28 15:54:33,1.927s,PASSED
+"setText(findTestObject(""Membership Registration/input_Nama Belakang_last-name-form""), ""prefix"")",Chrome 116.0.0.0,,,2023-08-28 15:54:33,2023-08-28 15:54:34,1.009s,PASSED
+randomNum = generateRandomNumber(),Chrome 116.0.0.0,,,2023-08-28 15:54:34,2023-08-28 15:54:34,0.000s,PASSED
+random = new java.util.Random(),Chrome 116.0.0.0,,,2023-08-28 15:54:34,2023-08-28 15:54:34,0.000s,PASSED
+"lastNineDigits = String.format(""%09d"", random.nextInt(1000000000))",Chrome 116.0.0.0,,,2023-08-28 15:54:34,2023-08-28 15:54:34,0.000s,PASSED
+"randomNumber = ""0812"" + lastNineDigits",Chrome 116.0.0.0,,,2023-08-28 15:54:34,2023-08-28 15:54:34,0.000s,PASSED
+return randomNumber,Chrome 116.0.0.0,,,2023-08-28 15:54:34,2023-08-28 15:54:34,0.000s,PASSED
+"setText(findTestObject(""Membership Registration/input__number-form""), randomNum)",Chrome 116.0.0.0,,,2023-08-28 15:54:34,2023-08-28 15:54:35,1.279s,PASSED
+"setEncryptedText(findTestObject(""Membership Registration/input_Password_pass-form""), ""iFGeFYmXIrUhQZHvW7P22w=="")",Chrome 116.0.0.0,,,2023-08-28 15:54:35,2023-08-28 15:54:36,0.669s,PASSED
+"setEncryptedText(findTestObject(""Membership Registration/input_Konfirmasi Password_konfirmasipass-form""), ""iFGeFYmXIrUhQZHvW7P22w=="")",Chrome 116.0.0.0,,,2023-08-28 15:54:36,2023-08-28 15:54:36,0.613s,PASSED
+"selectOptionByLabel(findTestObject(""Membership Registration/select_Pilih Kondisi Ibu Saat Ini""), ""Belum Hamil & Tidak Mempunyai Anak"", false)",Chrome 116.0.0.0,,,2023-08-28 15:54:36,2023-08-28 15:54:37,1.052s,PASSED
+"click(findTestObject(""Membership Registration/button_Kirim Kode OTP""))",Chrome 116.0.0.0,,,2023-08-28 15:54:37,2023-08-28 15:54:38,0.859s,PASSED
+delay(4),Chrome 116.0.0.0,,,2023-08-28 15:54:38,2023-08-28 15:54:42,4.009s,PASSED
+"verifyTextPresent(""Berhasil"", false)",Chrome 116.0.0.0,,,2023-08-28 15:54:42,2023-08-28 15:54:43,0.508s,FAILED
+"click(findTestObject(""Membership Registration/img""))",Chrome 116.0.0.0,,,2023-08-28 15:54:43,2023-08-28 15:54:43,0.836s,FAILED
+,,,,,,,
+Test Cases/REGISTER/Prefix ID/0813 TELKOMSEL,Chrome 116.0.0.0,Prefix indo,,2023-08-28 15:54:43,2023-08-28 15:55:04,20.651s,FAILED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-08-28 15:54:44,2023-08-28 15:54:46,2.318s,PASSED
+maximizeWindow(),Chrome 116.0.0.0,,,2023-08-28 15:54:46,2023-08-28 15:54:46,0.131s,PASSED
+"navigateToUrl(""https://bebeclub.eydendigital.co.id/membership/registration"")",Chrome 116.0.0.0,,,2023-08-28 15:54:46,2023-08-28 15:54:49,2.291s,PASSED
+"click(findTestObject(""Header/a_Register""))",Chrome 116.0.0.0,,,2023-08-28 15:54:49,2023-08-28 15:54:53,4.213s,PASSED
+"setText(findTestObject(""Membership Registration/input_Nama Depan_first-name-form""), ""aziza"")",Chrome 116.0.0.0,,,2023-08-28 15:54:53,2023-08-28 15:54:54,0.835s,PASSED
+"setText(findTestObject(""Membership Registration/input_Nama Belakang_last-name-form""), ""prefix"")",Chrome 116.0.0.0,,,2023-08-28 15:54:54,2023-08-28 15:54:55,0.900s,PASSED
+randomNum = generateRandomNumber(),Chrome 116.0.0.0,,,2023-08-28 15:54:55,2023-08-28 15:54:55,0.000s,PASSED
+random = new java.util.Random(),Chrome 116.0.0.0,,,2023-08-28 15:54:55,2023-08-28 15:54:55,0.000s,PASSED
+"lastNineDigits = String.format(""%09d"", random.nextInt(1000000000))",Chrome 116.0.0.0,,,2023-08-28 15:54:55,2023-08-28 15:54:55,0.000s,PASSED
+"randomNumber = ""0813"" + lastNineDigits",Chrome 116.0.0.0,,,2023-08-28 15:54:55,2023-08-28 15:54:55,0.005s,PASSED
+return randomNumber,Chrome 116.0.0.0,,,2023-08-28 15:54:55,2023-08-28 15:54:55,0.001s,PASSED
+"setText(findTestObject(""Membership Registration/input__number-form""), randomNum)",Chrome 116.0.0.0,,,2023-08-28 15:54:55,2023-08-28 15:54:56,1.220s,PASSED
+"setEncryptedText(findTestObject(""Membership Registration/input_Password_pass-form""), ""iFGeFYmXIrUhQZHvW7P22w=="")",Chrome 116.0.0.0,,,2023-08-28 15:54:56,2023-08-28 15:54:57,0.721s,PASSED
+"setEncryptedText(findTestObject(""Membership Registration/input_Konfirmasi Password_konfirmasipass-form""), ""iFGeFYmXIrUhQZHvW7P22w=="")",Chrome 116.0.0.0,,,2023-08-28 15:54:57,2023-08-28 15:54:57,0.630s,PASSED
+"selectOptionByLabel(findTestObject(""Membership Registration/select_Pilih Kondisi Ibu Saat Ini""), ""Belum Hamil & Tidak Mempunyai Anak"", false)",Chrome 116.0.0.0,,,2023-08-28 15:54:57,2023-08-28 15:54:58,0.928s,PASSED
+"click(findTestObject(""Membership Registration/button_Kirim Kode OTP""))",Chrome 116.0.0.0,,,2023-08-28 15:54:58,2023-08-28 15:54:59,0.648s,PASSED
+delay(4),Chrome 116.0.0.0,,,2023-08-28 15:54:59,2023-08-28 15:55:03,4.005s,PASSED
+"verifyTextPresent(""Berhasil"", false)",Chrome 116.0.0.0,,,2023-08-28 15:55:03,2023-08-28 15:55:03,0.532s,FAILED
+"click(findTestObject(""Membership Registration/img""))",Chrome 116.0.0.0,,,2023-08-28 15:55:03,2023-08-28 15:55:04,0.769s,FAILED
+,,,,,,,
+Test Cases/REGISTER/Prefix ID/0821 SIMPATI,Chrome 116.0.0.0,Prefix indo,,2023-08-28 15:55:04,2023-08-28 15:55:20,16.169s,FAILED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-08-28 15:55:05,2023-08-28 15:55:07,2.030s,PASSED
+maximizeWindow(),Chrome 116.0.0.0,,,2023-08-28 15:55:07,2023-08-28 15:55:07,0.128s,PASSED
+"navigateToUrl(""https://bebeclub.eydendigital.co.id/membership/registration"")",Chrome 116.0.0.0,,,2023-08-28 15:55:07,2023-08-28 15:55:09,1.990s,PASSED
+"setText(findTestObject(""Membership Registration/input_Nama Depan_first-name-form""), ""aziza"")",Chrome 116.0.0.0,,,2023-08-28 15:55:09,2023-08-28 15:55:10,0.999s,PASSED
+"setText(findTestObject(""Membership Registration/input_Nama Belakang_last-name-form""), ""prefix"")",Chrome 116.0.0.0,,,2023-08-28 15:55:10,2023-08-28 15:55:11,1.099s,PASSED
+randomNum = generateRandomNumber(),Chrome 116.0.0.0,,,2023-08-28 15:55:11,2023-08-28 15:55:11,0.000s,PASSED
+random = new java.util.Random(),Chrome 116.0.0.0,,,2023-08-28 15:55:11,2023-08-28 15:55:11,0.008s,PASSED
+"lastNineDigits = String.format(""%09d"", random.nextInt(1000000000))",Chrome 116.0.0.0,,,2023-08-28 15:55:11,2023-08-28 15:55:11,0.000s,PASSED
+"randomNumber = ""0821"" + lastNineDigits",Chrome 116.0.0.0,,,2023-08-28 15:55:11,2023-08-28 15:55:11,0.000s,PASSED
+return randomNumber,Chrome 116.0.0.0,,,2023-08-28 15:55:11,2023-08-28 15:55:11,0.008s,PASSED
+"setText(findTestObject(""Membership Registration/input__number-form""), randomNum)",Chrome 116.0.0.0,,,2023-08-28 15:55:11,2023-08-28 15:55:12,1.214s,PASSED
+"setEncryptedText(findTestObject(""Membership Registration/input_Password_pass-form""), ""iFGeFYmXIrUhQZHvW7P22w=="")",Chrome 116.0.0.0,,,2023-08-28 15:55:12,2023-08-28 15:55:13,0.637s,PASSED
+"setEncryptedText(findTestObject(""Membership Registration/input_Konfirmasi Password_konfirmasipass-form""), ""iFGeFYmXIrUhQZHvW7P22w=="")",Chrome 116.0.0.0,,,2023-08-28 15:55:13,2023-08-28 15:55:13,0.626s,PASSED
+"selectOptionByLabel(findTestObject(""Membership Registration/select_Pilih Kondisi Ibu Saat Ini""), ""Belum Hamil & Tidak Mempunyai Anak"", false)",Chrome 116.0.0.0,,,2023-08-28 15:55:13,2023-08-28 15:55:14,0.989s,PASSED
+"click(findTestObject(""Membership Registration/button_Kirim Kode OTP""))",Chrome 116.0.0.0,,,2023-08-28 15:55:14,2023-08-28 15:55:15,0.600s,PASSED
+delay(4),Chrome 116.0.0.0,,,2023-08-28 15:55:15,2023-08-28 15:55:19,4.014s,PASSED
+"verifyTextPresent(""Berhasil"", false)",Chrome 116.0.0.0,,,2023-08-28 15:55:19,2023-08-28 15:55:19,0.490s,FAILED
+"click(findTestObject(""Membership Registration/img""))",Chrome 116.0.0.0,,,2023-08-28 15:55:19,2023-08-28 15:55:20,0.754s,FAILED
+,,,,,,,
+Test Cases/REGISTER/Prefix ID/0822 SIMPATI,Chrome 116.0.0.0,Prefix indo,,2023-08-28 15:55:20,2023-08-28 15:55:38,17.534s,FAILED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-08-28 15:55:21,2023-08-28 15:55:23,2.072s,PASSED
+maximizeWindow(),Chrome 116.0.0.0,,,2023-08-28 15:55:23,2023-08-28 15:55:23,0.130s,PASSED
+"navigateToUrl(""https://bebeclub.eydendigital.co.id/membership/registration"")",Chrome 116.0.0.0,,,2023-08-28 15:55:23,2023-08-28 15:55:25,2.042s,PASSED
+"click(findTestObject(""Header/a_Register""))",Chrome 116.0.0.0,,,2023-08-28 15:55:25,2023-08-28 15:55:27,1.528s,PASSED
+"setText(findTestObject(""Membership Registration/input_Nama Depan_first-name-form""), ""aziza"")",Chrome 116.0.0.0,,,2023-08-28 15:55:27,2023-08-28 15:55:28,0.969s,PASSED
+"setText(findTestObject(""Membership Registration/input_Nama Belakang_last-name-form""), ""prefix"")",Chrome 116.0.0.0,,,2023-08-28 15:55:28,2023-08-28 15:55:28,0.924s,PASSED
+randomNum = generateRandomNumber(),Chrome 116.0.0.0,,,2023-08-28 15:55:28,2023-08-28 15:55:28,0.000s,PASSED
+random = new java.util.Random(),Chrome 116.0.0.0,,,2023-08-28 15:55:28,2023-08-28 15:55:28,0.000s,PASSED
+"lastNineDigits = String.format(""%09d"", random.nextInt(1000000000))",Chrome 116.0.0.0,,,2023-08-28 15:55:28,2023-08-28 15:55:28,0.000s,PASSED
+"randomNumber = ""0822"" + lastNineDigits",Chrome 116.0.0.0,,,2023-08-28 15:55:28,2023-08-28 15:55:28,0.000s,PASSED
+return randomNumber,Chrome 116.0.0.0,,,2023-08-28 15:55:28,2023-08-28 15:55:28,0.000s,PASSED
+"setText(findTestObject(""Membership Registration/input__number-form""), randomNum)",Chrome 116.0.0.0,,,2023-08-28 15:55:28,2023-08-28 15:55:30,1.226s,PASSED
+"setEncryptedText(findTestObject(""Membership Registration/input_Password_pass-form""), ""iFGeFYmXIrUhQZHvW7P22w=="")",Chrome 116.0.0.0,,,2023-08-28 15:55:30,2023-08-28 15:55:30,0.646s,PASSED
+"setEncryptedText(findTestObject(""Membership Registration/input_Konfirmasi Password_konfirmasipass-form""), ""iFGeFYmXIrUhQZHvW7P22w=="")",Chrome 116.0.0.0,,,2023-08-28 15:55:30,2023-08-28 15:55:31,0.705s,PASSED
+"selectOptionByLabel(findTestObject(""Membership Registration/select_Pilih Kondisi Ibu Saat Ini""), ""Belum Hamil & Tidak Mempunyai Anak"", false)",Chrome 116.0.0.0,,,2023-08-28 15:55:31,2023-08-28 15:55:32,0.816s,PASSED
+"click(findTestObject(""Membership Registration/button_Kirim Kode OTP""))",Chrome 116.0.0.0,,,2023-08-28 15:55:32,2023-08-28 15:55:32,0.537s,PASSED
+delay(4),Chrome 116.0.0.0,,,2023-08-28 15:55:32,2023-08-28 15:55:36,4.012s,PASSED
+"verifyTextPresent(""Berhasil"", false)",Chrome 116.0.0.0,,,2023-08-28 15:55:36,2023-08-28 15:55:37,0.570s,FAILED
+"click(findTestObject(""Membership Registration/img""))",Chrome 116.0.0.0,,,2023-08-28 15:55:37,2023-08-28 15:55:38,0.788s,FAILED
+,,,,,,,
+Test Cases/REGISTER/Prefix ID/0823 SIMPATI,Chrome 116.0.0.0,Prefix indo,,2023-08-28 15:55:38,2023-08-28 15:55:56,17.993s,FAILED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-08-28 15:55:38,2023-08-28 15:55:41,2.308s,PASSED
+maximizeWindow(),Chrome 116.0.0.0,,,2023-08-28 15:55:41,2023-08-28 15:55:41,0.134s,PASSED
+"navigateToUrl(""https://bebeclub.eydendigital.co.id/membership/registration"")",Chrome 116.0.0.0,,,2023-08-28 15:55:41,2023-08-28 15:55:43,2.358s,PASSED
+"click(findTestObject(""Header/a_Register""))",Chrome 116.0.0.0,,,2023-08-28 15:55:43,2023-08-28 15:55:44,1.300s,PASSED
+"setText(findTestObject(""Membership Registration/input_Nama Depan_first-name-form""), ""aziza"")",Chrome 116.0.0.0,,,2023-08-28 15:55:44,2023-08-28 15:55:46,1.146s,PASSED
+"setText(findTestObject(""Membership Registration/input_Nama Belakang_last-name-form""), ""prefix"")",Chrome 116.0.0.0,,,2023-08-28 15:55:46,2023-08-28 15:55:47,0.966s,PASSED
+randomNum = generateRandomNumber(),Chrome 116.0.0.0,,,2023-08-28 15:55:47,2023-08-28 15:55:47,0.000s,PASSED
+random = new java.util.Random(),Chrome 116.0.0.0,,,2023-08-28 15:55:47,2023-08-28 15:55:47,0.000s,PASSED
+"lastNineDigits = String.format(""%09d"", random.nextInt(1000000000))",Chrome 116.0.0.0,,,2023-08-28 15:55:47,2023-08-28 15:55:47,0.000s,PASSED
+"randomNumber = ""0823"" + lastNineDigits",Chrome 116.0.0.0,,,2023-08-28 15:55:47,2023-08-28 15:55:47,0.000s,PASSED
+return randomNumber,Chrome 116.0.0.0,,,2023-08-28 15:55:47,2023-08-28 15:55:47,0.000s,PASSED
+"setText(findTestObject(""Membership Registration/input__number-form""), randomNum)",Chrome 116.0.0.0,,,2023-08-28 15:55:47,2023-08-28 15:55:48,1.181s,PASSED
+"setEncryptedText(findTestObject(""Membership Registration/input_Password_pass-form""), ""iFGeFYmXIrUhQZHvW7P22w=="")",Chrome 116.0.0.0,,,2023-08-28 15:55:48,2023-08-28 15:55:48,0.601s,PASSED
+"setEncryptedText(findTestObject(""Membership Registration/input_Konfirmasi Password_konfirmasipass-form""), ""iFGeFYmXIrUhQZHvW7P22w=="")",Chrome 116.0.0.0,,,2023-08-28 15:55:48,2023-08-28 15:55:49,0.645s,PASSED
+"selectOptionByLabel(findTestObject(""Membership Registration/select_Pilih Kondisi Ibu Saat Ini""), ""Belum Hamil & Tidak Mempunyai Anak"", false)",Chrome 116.0.0.0,,,2023-08-28 15:55:49,2023-08-28 15:55:50,0.994s,PASSED
+"click(findTestObject(""Membership Registration/button_Kirim Kode OTP""))",Chrome 116.0.0.0,,,2023-08-28 15:55:50,2023-08-28 15:55:51,0.630s,PASSED
+delay(4),Chrome 116.0.0.0,,,2023-08-28 15:55:51,2023-08-28 15:55:55,4.003s,PASSED
+"verifyTextPresent(""Berhasil"", false)",Chrome 116.0.0.0,,,2023-08-28 15:55:55,2023-08-28 15:55:55,0.455s,FAILED
+"click(findTestObject(""Membership Registration/img""))",Chrome 116.0.0.0,,,2023-08-28 15:55:55,2023-08-28 15:55:56,0.715s,FAILED
+,,,,,,,
+Test Cases/REGISTER/Prefix ID/0852 KARTU AS,Chrome 116.0.0.0,Prefix indo,,2023-08-28 15:55:56,2023-08-28 15:56:18,22.105s,FAILED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-08-28 15:55:56,2023-08-28 15:55:59,2.303s,PASSED
+maximizeWindow(),Chrome 116.0.0.0,,,2023-08-28 15:55:59,2023-08-28 15:55:59,0.150s,PASSED
+"navigateToUrl(""https://bebeclub.eydendigital.co.id/membership/registration"")",Chrome 116.0.0.0,,,2023-08-28 15:55:59,2023-08-28 15:56:05,6.094s,PASSED
+"click(findTestObject(""Header/a_Register""))",Chrome 116.0.0.0,,,2023-08-28 15:56:05,2023-08-28 15:56:06,1.410s,PASSED
+"setText(findTestObject(""Membership Registration/input_Nama Depan_first-name-form""), ""aziza"")",Chrome 116.0.0.0,,,2023-08-28 15:56:06,2023-08-28 15:56:07,0.842s,PASSED
+"setText(findTestObject(""Membership Registration/input_Nama Belakang_last-name-form""), ""prefix"")",Chrome 116.0.0.0,,,2023-08-28 15:56:07,2023-08-28 15:56:08,0.894s,PASSED
+randomNum = generateRandomNumber(),Chrome 116.0.0.0,,,2023-08-28 15:56:08,2023-08-28 15:56:08,0.008s,PASSED
+random = new java.util.Random(),Chrome 116.0.0.0,,,2023-08-28 15:56:08,2023-08-28 15:56:08,0.000s,PASSED
+"lastNineDigits = String.format(""%09d"", random.nextInt(1000000000))",Chrome 116.0.0.0,,,2023-08-28 15:56:08,2023-08-28 15:56:08,0.002s,PASSED
+"randomNumber = ""0852"" + lastNineDigits",Chrome 116.0.0.0,,,2023-08-28 15:56:08,2023-08-28 15:56:08,0.000s,PASSED
+return randomNumber,Chrome 116.0.0.0,,,2023-08-28 15:56:08,2023-08-28 15:56:08,0.000s,PASSED
+"setText(findTestObject(""Membership Registration/input__number-form""), randomNum)",Chrome 116.0.0.0,,,2023-08-28 15:56:08,2023-08-28 15:56:09,1.235s,PASSED
+"setEncryptedText(findTestObject(""Membership Registration/input_Password_pass-form""), ""iFGeFYmXIrUhQZHvW7P22w=="")",Chrome 116.0.0.0,,,2023-08-28 15:56:09,2023-08-28 15:56:10,0.715s,PASSED
+"setEncryptedText(findTestObject(""Membership Registration/input_Konfirmasi Password_konfirmasipass-form""), ""iFGeFYmXIrUhQZHvW7P22w=="")",Chrome 116.0.0.0,,,2023-08-28 15:56:10,2023-08-28 15:56:11,0.565s,PASSED
+"selectOptionByLabel(findTestObject(""Membership Registration/select_Pilih Kondisi Ibu Saat Ini""), ""Belum Hamil & Tidak Mempunyai Anak"", false)",Chrome 116.0.0.0,,,2023-08-28 15:56:11,2023-08-28 15:56:12,1.014s,PASSED
+"click(findTestObject(""Membership Registration/button_Kirim Kode OTP""))",Chrome 116.0.0.0,,,2023-08-28 15:56:12,2023-08-28 15:56:12,0.545s,PASSED
+delay(4),Chrome 116.0.0.0,,,2023-08-28 15:56:12,2023-08-28 15:56:16,4.012s,PASSED
+"verifyTextPresent(""Berhasil"", false)",Chrome 116.0.0.0,,,2023-08-28 15:56:16,2023-08-28 15:56:17,0.885s,FAILED
+"click(findTestObject(""Membership Registration/img""))",Chrome 116.0.0.0,,,2023-08-28 15:56:17,2023-08-28 15:56:18,0.875s,FAILED
+,,,,,,,
+Test Cases/REGISTER/Prefix ID/0853 KARTU AS,Chrome 116.0.0.0,Prefix indo,,2023-08-28 15:56:18,2023-08-28 15:56:36,18.390s,FAILED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-08-28 15:56:18,2023-08-28 15:56:20,2.023s,PASSED
+maximizeWindow(),Chrome 116.0.0.0,,,2023-08-28 15:56:20,2023-08-28 15:56:21,0.146s,PASSED
+"navigateToUrl(""https://bebeclub.eydendigital.co.id/membership/registration"")",Chrome 116.0.0.0,,,2023-08-28 15:56:21,2023-08-28 15:56:23,2.174s,PASSED
+"click(findTestObject(""Header/a_Register""))",Chrome 116.0.0.0,,,2023-08-28 15:56:23,2023-08-28 15:56:24,1.681s,PASSED
+"setText(findTestObject(""Membership Registration/input_Nama Depan_first-name-form""), ""aziza"")",Chrome 116.0.0.0,,,2023-08-28 15:56:24,2023-08-28 15:56:25,0.882s,PASSED
+"setText(findTestObject(""Membership Registration/input_Nama Belakang_last-name-form""), ""prefix"")",Chrome 116.0.0.0,,,2023-08-28 15:56:25,2023-08-28 15:56:26,0.862s,PASSED
+randomNum = generateRandomNumber(),Chrome 116.0.0.0,,,2023-08-28 15:56:26,2023-08-28 15:56:26,0.000s,PASSED
+random = new java.util.Random(),Chrome 116.0.0.0,,,2023-08-28 15:56:26,2023-08-28 15:56:26,0.000s,PASSED
+"lastNineDigits = String.format(""%09d"", random.nextInt(1000000000))",Chrome 116.0.0.0,,,2023-08-28 15:56:26,2023-08-28 15:56:26,0.000s,PASSED
+"randomNumber = ""0853"" + lastNineDigits",Chrome 116.0.0.0,,,2023-08-28 15:56:26,2023-08-28 15:56:26,0.000s,PASSED
+return randomNumber,Chrome 116.0.0.0,,,2023-08-28 15:56:26,2023-08-28 15:56:26,0.000s,PASSED
+"setText(findTestObject(""Membership Registration/input__number-form""), randomNum)",Chrome 116.0.0.0,,,2023-08-28 15:56:26,2023-08-28 15:56:27,1.125s,PASSED
+"setEncryptedText(findTestObject(""Membership Registration/input_Password_pass-form""), ""iFGeFYmXIrUhQZHvW7P22w=="")",Chrome 116.0.0.0,,,2023-08-28 15:56:27,2023-08-28 15:56:28,0.612s,PASSED
+"setEncryptedText(findTestObject(""Membership Registration/input_Konfirmasi Password_konfirmasipass-form""), ""iFGeFYmXIrUhQZHvW7P22w=="")",Chrome 116.0.0.0,,,2023-08-28 15:56:28,2023-08-28 15:56:29,0.554s,PASSED
+"selectOptionByLabel(findTestObject(""Membership Registration/select_Pilih Kondisi Ibu Saat Ini""), ""Belum Hamil & Tidak Mempunyai Anak"", false)",Chrome 116.0.0.0,,,2023-08-28 15:56:29,2023-08-28 15:56:29,0.937s,PASSED
+"click(findTestObject(""Membership Registration/button_Kirim Kode OTP""))",Chrome 116.0.0.0,,,2023-08-28 15:56:29,2023-08-28 15:56:30,0.667s,PASSED
+delay(4),Chrome 116.0.0.0,,,2023-08-28 15:56:30,2023-08-28 15:56:34,4.012s,PASSED
+"verifyTextPresent(""Berhasil"", false)",Chrome 116.0.0.0,,,2023-08-28 15:56:34,2023-08-28 15:56:35,1.154s,FAILED
+"click(findTestObject(""Membership Registration/img""))",Chrome 116.0.0.0,,,2023-08-28 15:56:35,2023-08-28 15:56:36,0.995s,FAILED

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Lupa Kata Sandi</name>
+   <tag></tag>
+   <elementGuidId>780bfd4f-b43a-4ed6-a89a-65af5d3cdf41</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='loginPasswordAction']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#loginPasswordAction</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ea8033da-fe85-4a0c-ae12-f0a76b0f3a04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/membership/forgot-password</value>
+      <webElementGuid>c7f0f716-c70f-43c4-acb7-36669c62c5e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn --primary-reverse ctaforgetpassword</value>
+      <webElementGuid>9664cd09-dbe5-4a06-8f12-ab5d42791d89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>loginPasswordAction</value>
+      <webElementGuid>8e7cae15-4d76-42db-a6f6-365ccdb9a163</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Lupa Kata Sandi</value>
+      <webElementGuid>52bbd11a-eaee-468b-95a9-07814e8893de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form-login-password&quot;)/div[@class=&quot;button-box forgetpasswordarea&quot;]/a[@id=&quot;loginPasswordAction&quot;]</value>
+      <webElementGuid>d1e01c31-d466-4d35-8b5e-e2a5b5a6d322</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='loginPasswordAction']</value>
+      <webElementGuid>a2f8f7e9-fe83-463b-bc7f-02e6b353c72f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form-login-password']/div[3]/a</value>
+      <webElementGuid>ac4bdddf-2886-40af-a5d2-a21b50bb37c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Lupa Kata Sandi')]</value>
+      <webElementGuid>31665266-023d-4231-ba82-a26961f1f75d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password minimal 8 karakter'])[1]/following::a[1]</value>
+      <webElementGuid>25bd3add-8d38-4c1a-8eb0-fffe6929ab7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/following::a[1]</value>
+      <webElementGuid>972d6126-09c2-4fab-aed5-a23cec9a43c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[3]/preceding::a[1]</value>
+      <webElementGuid>f87c7571-76e5-451e-9af1-fbba91353ce1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login Tanpa Password'])[1]/preceding::a[1]</value>
+      <webElementGuid>d0b7fec6-15e7-49d9-981a-eddd8fecc801</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Lupa Kata Sandi']/parent::*</value>
+      <webElementGuid>daa4c94a-e813-45ec-a0e4-51da07bf87c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/membership/forgot-password')]</value>
+      <webElementGuid>475f8389-8f41-4f05-b4a2-26d7875f3b5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[3]/a</value>
+      <webElementGuid>28cc6682-24cb-4ceb-9d8c-1c80fb3d21f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/membership/forgot-password' and @id = 'loginPasswordAction' and (text() = 'Lupa Kata Sandi' or . = 'Lupa Kata Sandi')]</value>
+      <webElementGuid>8ab6d45a-e5b5-4e66-894d-4c1d0127d7d5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

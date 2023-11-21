@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>close greeting popup</name>
+   <tag></tag>
+   <elementGuidId>d1417f82-7f54-4b6a-9346-44c3bc7e5815</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[@alt='close']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img[alt=&quot;close&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>a5d12369-0d93-4906-a46e-a4eb07134603</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/assets/images/x.png</value>
+      <webElementGuid>e04aea27-8d68-4915-bc41-012ee0ba5a7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>close</value>
+      <webElementGuid>c6e1e832-451c-43c8-8e8f-038724702be2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;pimcore_area_bebe-journey-account-popup pimcore_area_content&quot;]/div[@class=&quot;modal-general welcome show&quot;]/div[@class=&quot;modal-general_iner&quot;]/div[@class=&quot;modal-general_close&quot;]/img[1]</value>
+      <webElementGuid>abd40eda-6342-4acf-a3ef-f8b04dffb895</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='close']</value>
+      <webElementGuid>e951c8b2-781c-45f1-9276-9c06be39f143</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/img</value>
+      <webElementGuid>f46228bc-8c0a-4d8b-b812-0de02fce7be6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/assets/images/x.png' and @alt = 'close']</value>
+      <webElementGuid>176dc9b0-7cf0-464a-b37d-dd67b52bee44</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

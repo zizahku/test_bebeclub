@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Temukan Inspirasi Seputar Nutrisi dan Stimulasi untuk Tumbuh Hebat Bersama</name>
+   <tag></tag>
+   <elementGuidId>aa9f80d0-d8bf-44e8-aad5-9cd2fb8ed019</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#docs-internal-guid-d727bbf1-7fff-4290-f393-3a4dbeec0514</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//b[@id='docs-internal-guid-d727bbf1-7fff-4290-f393-3a4dbeec0514']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>ec414845-5c76-4f5d-a16e-7fa0da31c4d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>docs-internal-guid-d727bbf1-7fff-4290-f393-3a4dbeec0514</value>
+      <webElementGuid>1c5e8064-556a-4d31-8dc9-fa9e83c70768</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Temukan Inspirasi Seputar Nutrisi dan Stimulasi untuk Tumbuh Hebat Bersama</value>
+      <webElementGuid>1777e156-16e3-490a-b970-3aca1615c7f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;docs-internal-guid-d727bbf1-7fff-4290-f393-3a4dbeec0514&quot;)</value>
+      <webElementGuid>92923ba5-e388-4707-9116-d2f84a017fd6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//b[@id='docs-internal-guid-d727bbf1-7fff-4290-f393-3a4dbeec0514']</value>
+      <webElementGuid>643f2e66-3cb4-4954-9b73-8a45f8b1a7f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bebeclub Expert'])[2]/following::b[1]</value>
+      <webElementGuid>52b12131-a38e-45ec-8d97-be28e9428e3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Grogreat+ Time'])[2]/following::b[1]</value>
+      <webElementGuid>35c917de-612c-4b59-a1b3-242251c60fc5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bebelac'])[1]/preceding::b[1]</value>
+      <webElementGuid>1b65d6cf-d968-4a0e-add2-cf344727e63e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Stimulasi untuk Tumbuh Hebat Bersama']/parent::*</value>
+      <webElementGuid>d066f1ea-616d-4d7c-9365-f130eab9f38d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//b</value>
+      <webElementGuid>a396ff96-1af9-428f-aea9-7bc3a2fbea29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[@id = 'docs-internal-guid-d727bbf1-7fff-4290-f393-3a4dbeec0514' and (text() = 'Temukan Inspirasi Seputar Nutrisi dan Stimulasi untuk Tumbuh Hebat Bersama' or . = 'Temukan Inspirasi Seputar Nutrisi dan Stimulasi untuk Tumbuh Hebat Bersama')]</value>
+      <webElementGuid>e0e5ed6e-4583-4ddb-90f7-33d82ee37bf9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

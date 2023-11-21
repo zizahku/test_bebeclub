@@ -25,9 +25,9 @@ WebUI.maximizeWindow()
 
 WebUI.navigateToUrl('https://bebeclub.eydendigital.co.id/membership/registration')
 
-WebUI.setText(findTestObject('Page_Bebeclub - Membership Registration/input_Nama Depan_first-name-form'), 'azia')
+WebUI.setText(findTestObject('null'), 'azia')
 
-WebUI.setText(findTestObject('Page_Bebeclub - Membership Registration/input_Nama Belakang_last-name-form'), 'prefix')
+WebUI.setText(findTestObject('null'), 'prefix')
 
 // Fungsi untuk menghasilkan nomor acak dengan kondisi tertentu
 // Pilih digit-digital sisanya hingga mencapai panjang 10 karakter (total panjang 12 karakter)
@@ -40,21 +40,21 @@ String randomPhoneNumber = generateRandomPhoneNumber()
 println("Nomor telepon acak dengan kondisi: $randomPhoneNumber")
 
 // Ganti "idField" dengan ID elemen field yang ingin diisi dengan angka acak
-WebUI.setText(findTestObject('Page_Bebeclub - Membership Registration/input__number-form'), randomPhoneNumber)
+WebUI.setText(findTestObject('Membership Registration/input__number-form'), randomPhoneNumber)
 
-WebUI.setEncryptedText(findTestObject('Page_Bebeclub - Membership Registration/input_Password_pass-form'), 'iFGeFYmXIrUhQZHvW7P22w==')
+WebUI.setEncryptedText(findTestObject('Membership Registration/input_Password_pass-form'), 'iFGeFYmXIrUhQZHvW7P22w==')
 
-WebUI.setEncryptedText(findTestObject('Page_Bebeclub - Membership Registration/input_Konfirmasi Password_konfirmasipass-form'), 
+WebUI.setEncryptedText(findTestObject('Membership Registration/input_Konfirmasi Password_konfirmasipass-form'), 
     'iFGeFYmXIrUhQZHvW7P22w==')
 
-WebUI.selectOptionByLabel(findTestObject('Page_Bebeclub - Membership Registration/select_Pilih Kondisi Ibu Saat Ini'), 'Belum Hamil & Tidak Mempunyai Anak', 
+WebUI.selectOptionByLabel(findTestObject('Membership Registration/select_Pilih Kondisi Ibu Saat Ini'), 'Belum Hamil & Tidak Mempunyai Anak', 
     false //WebUI.getAlertText()
     )
 
-WebUI.verifyTextPresent('tidak terdaftar', false //WebUI.click(findTestObject('Page_Bebeclub - Membership Registration/button_Kirim Kode OTP'))
+WebUI.verifyTextPresent('tidak terdaftar', false //WebUI.click(findTestObject('Membership Registration/button_Kirim Kode OTP'))
     )
 
-WebUI.verifyElementNotClickable(findTestObject('Page_Bebeclub - Membership Registration/button_Kirim Kode OTP'))
+WebUI.verifyElementNotClickable(findTestObject('Membership Registration/button_Kirim Kode OTP'))
 
 String generateRandomPhoneNumber() {
     def random = new Random()
