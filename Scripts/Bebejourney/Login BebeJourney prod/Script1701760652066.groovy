@@ -31,4 +31,4 @@ WebUI.setText(findTestObject('Object Repository/Page_Bebe Journey - Tools Dukung
     '085719131755')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Page_Bebe Journey - Tools Dukung Si Kecil T_272c89/input_Kata Sandi_password'), 
-    'p4y+y39Ir5Oy1MY8jPt0uQ==')  
+    'p4y+y39Ir5Oy1MY8jPt0uQ==')   
