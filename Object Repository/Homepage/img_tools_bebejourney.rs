@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>img_Beragam Fitur dari Expert_logo-tools ls_ab4f93</name>
+   <name>img_tools_bebejourney</name>
    <tag></tag>
    <elementGuidId>4a751b2d-b72b-41ba-b519-3f6bf3f60974</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>(//img[@alt='tools logo bebeclub'])[4]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>div.swiper-slide.swiper-slide-duplicate.swiper-slide-prev > a > div.tools-card > div.tools-card_img-logo > img.logo-tools.ls-is-cached.lazyloaded</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//img[@alt='tools logo bebeclub'])[4]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

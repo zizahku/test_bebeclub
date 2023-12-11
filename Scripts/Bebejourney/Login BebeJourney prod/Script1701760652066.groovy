@@ -17,18 +17,17 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('') 
+WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://bebeclub.co.id/')
 
 WebUI.maximizeWindow()
 
-WebUI.click(findTestObject('Object Repository/Page_Inspirasi Nutrisi Dan Stimulasi Anak T_ad3787/img_Beragam Fitur dari Expert_logo-tools ls_ab4f93'))
+WebUI.click(findTestObject('Object Repository/Homepage/img_tools_bebejourney'))
 
-WebUI.click(findTestObject('Object Repository/Page_Bebe Journey - Tools Dukung Si Kecil T_272c89/a_Yuk, cek di sini'))
+WebUI.click(findTestObject('Bebe Journey page/Banner click - Yuk, Cek di sini'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Bebe Journey - Tools Dukung Si Kecil T_272c89/input_Nomor Handphone_username'), 
-    '085719131755')
+WebUI.setText(findTestObject('Bebe Journey page/Form Nomor Handphone'), '085719131755')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_Bebe Journey - Tools Dukung Si Kecil T_272c89/input_Kata Sandi_password'), 
-    'p4y+y39Ir5Oy1MY8jPt0uQ==')   
+WebUI.setEncryptedText(findTestObject('Bebe Journey page/Form Kata Sandi_password'), 'p4y+y39Ir5Oy1MY8jPt0uQ==')
+
