@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input__number-form</name>
+   <name>Nama Lengkap</name>
    <tag></tag>
-   <elementGuidId>0487d9be-be2a-42de-977e-09a42b5e868a</elementGuidId>
+   <elementGuidId>7ff96b28-db34-44dd-817c-af67b4f50bc1</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#phone_number</value>
+         <key>XPATH</key>
+         <value>//input[@name='full-name-form']</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='phone_number']</value>
+         <key>CSS</key>
+         <value>input[name=&quot;full-name-form&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,86 +22,78 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>6d29f3ab-e4f1-4a26-91a6-76b80bcfa98c</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>pattern</name>
-      <type>Main</type>
-      <value>[0-9]*</value>
-      <webElementGuid>b1b016ac-d0b3-4f3a-9c4a-e3b9239496d9</webElementGuid>
+      <webElementGuid>71153a5d-2003-43b5-ab2d-700b648e86a5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>number</value>
-      <webElementGuid>c2b198e4-1901-427a-a85f-491e8ae604fc</webElementGuid>
+      <value>text</value>
+      <webElementGuid>f605c5ce-0719-411a-8074-79dc3e315e04</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>number-form</value>
-      <webElementGuid>0721f85a-c06f-4e94-8b85-93c82ba316f9</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>phone_number</value>
-      <webElementGuid>199d5ce8-bebb-4223-acfe-f61930ad14cc</webElementGuid>
+      <value>full-name-form</value>
+      <webElementGuid>5d48550e-dbbc-4ed7-a533-35cd81e8f75c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>maxlength</name>
       <type>Main</type>
-      <value>13</value>
-      <webElementGuid>a43959b4-7d4a-4947-b225-033ba8deae01</webElementGuid>
+      <value>50</value>
+      <webElementGuid>a096a48b-a903-4929-8f3e-355594ae7008</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>placeholder</name>
       <type>Main</type>
-      <value>Masukkan No Ponsel Anda</value>
-      <webElementGuid>ee7715c9-11d4-4792-ae9e-d26743698cfc</webElementGuid>
+      <value>Masukkan Nama Lengkap Anda Disini</value>
+      <webElementGuid>4c05ef2c-467f-4dff-aea4-17eb6233a718</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>off</value>
+      <webElementGuid>1e746ecb-59cf-4ede-a616-4f689a86171a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;phone_number&quot;)</value>
-      <webElementGuid>980e555a-481b-4334-866a-b07a75d4e9aa</webElementGuid>
+      <value>/html[1]/body[1]/div[@class=&quot;section-register&quot;]/div[@class=&quot;regist-identity&quot;]/div[@class=&quot;regist-identity_iner&quot;]/form[@class=&quot;form-regist&quot;]/div[@class=&quot;regist-identity_bodyform&quot;]/div[@class=&quot;regist-identity_bodyform_item&quot;]/input[1]</value>
+      <webElementGuid>a9e2d72c-4e06-43f7-9f51-ce7a7bdecfa0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='phone_number']</value>
-      <webElementGuid>83f98e47-b941-4144-968a-592f732093f4</webElementGuid>
+      <value>//input[@name='full-name-form']</value>
+      <webElementGuid>335ed05b-a002-4378-ba47-5545b509f525</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[3]/input</value>
-      <webElementGuid>1cdb8fd8-8f3f-43f0-b84e-3090cca7647e</webElementGuid>
+      <value>//form/div[2]/div/input</value>
+      <webElementGuid>685cd91c-00ec-4269-98c8-2bd548fba8a3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'number' and @name = 'number-form' and @id = 'phone_number' and @placeholder = 'Masukkan No Ponsel Anda']</value>
-      <webElementGuid>3674fec4-aa6e-45d1-b23a-802ea946ac14</webElementGuid>
+      <value>//input[@type = 'text' and @name = 'full-name-form' and @placeholder = 'Masukkan Nama Lengkap Anda Disini']</value>
+      <webElementGuid>42dc6686-c770-469c-8cbd-4333375c1c02</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

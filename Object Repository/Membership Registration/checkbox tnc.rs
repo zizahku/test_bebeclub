@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Kirim Kode OTP_syarat-form</name>
+   <name>checkbox tnc</name>
    <tag></tag>
    <elementGuidId>d0590bd3-a668-49d6-b20b-3b54a4c529f5</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#syarat-form</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//input[@id='syarat-form']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#syarat-form</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

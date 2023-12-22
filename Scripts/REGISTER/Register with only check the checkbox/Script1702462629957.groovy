@@ -16,43 +16,16 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
-import java.util.Random as Random
 
-WebUI.openBrowser('')
+String randomNum = generateRandomNumber()
 
-WebUI.maximizeWindow()
-
-WebUI.navigateToUrl('https://bebeclub.eydendigital.co.id/membership/registration')
+WebUI.openBrowser(GlobalVariable.URL)
 
 WebUI.click(findTestObject('Header/a_Register'))
 
-WebUI.setText(findTestObject('null'), 'aziza')
+WebUI.check(findTestObject('Membership Registration/checkbox tnc'))
 
-WebUI.setText(findTestObject('null'), 'prefix')
-
-// Generate the last 9 digits randomly
-// Combine the last nine digits with the prefix "0877"
-// Isi field dalam form dengan angka acak
-String randomNum = generateRandomNumber()
-
-// Ganti "idField" dengan ID elemen field yang ingin diisi dengan angka acak
-WebUI.setText(findTestObject('Membership Registration/Nomor Handphone'), randomNum)
-
-WebUI.setEncryptedText(findTestObject('Membership Registration/Password'), 'iFGeFYmXIrUhQZHvW7P22w==')
-
-WebUI.setEncryptedText(findTestObject('Membership Registration/input_Konfirmasi Password_konfirmasipass-form'), 
-    'iFGeFYmXIrUhQZHvW7P22w==')
-
-WebUI.selectOptionByLabel(findTestObject('Membership Registration/Pilih Kondisi Ibu Saat Ini'), 'Belum Hamil & Tidak Mempunyai Anak', 
-    false)
-
-WebUI.click(findTestObject('Membership Registration/button_Kirim Kode OTP'))
-
-WebUI.delay(4)
-
-WebUI.verifyTextPresent('Berhasil', false)
-
-WebUI.click(findTestObject('Membership Registration/img'))
+WebUI.delay(10)
 
 String generateRandomNumber() {
     Random random = new Random()

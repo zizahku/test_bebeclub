@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>LOGIN</name>
+   <name>REGISTER NEGATIVE CASE</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,26 +10,33 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>false</rerunImmediately>
-   <testSuiteGuid>d9be6ec1-5271-42ab-970b-cda4f347247e</testSuiteGuid>
+   <testSuiteGuid>2ccfd147-d1ac-49e7-bb3d-469966dfa76c</testSuiteGuid>
    <testCaseLink>
-      <guid>4b0b6391-63dc-48b0-950b-26fe6b47894d</guid>
+      <guid>6a4c4a67-965b-46b4-aa52-067a9a391ab0</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/LOGIN/Login OTP via BBJ</testCaseId>
+      <testCaseId>Test Cases/REGISTER/Register using invalid password</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>56ca4aea-fa08-4b6d-a745-482cad56362b</guid>
+      <guid>d024c781-5efe-4fe4-8a1f-04646f1969ff</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/LOGIN/Login OTP via header</testCaseId>
+      <testCaseId>Test Cases/REGISTER/Register using registered phone number</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>ca25e599-a6a7-4ba0-9bba-2bf4f2f42cd4</guid>
+      <guid>52692788-d0d4-4277-89f0-7a9ac695c801</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/LOGIN/Login via header</testCaseId>
+      <testCaseId>Test Cases/REGISTER/Register with only check the checkbox</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>d0e6cbd6-fd01-4109-8d69-30514fa3b62f</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/REGISTER/Register without fill out the form</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

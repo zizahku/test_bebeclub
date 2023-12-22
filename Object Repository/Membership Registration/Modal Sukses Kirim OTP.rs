@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>div_Kode OTP Berhasil Dikirim_modal-sukses-otp-form_close</name>
+   <name>Modal Sukses Kirim OTP</name>
    <tag></tag>
    <elementGuidId>69cdf97b-e038-4cab-b8fa-57b739edf9c9</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div.modal-sukses-otp-form_close</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>(.//*[normalize-space(text()) and normalize-space(.)='Kode OTP Berhasil Dikirim'])[1]/following::div[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.modal-sukses-otp-form_close</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

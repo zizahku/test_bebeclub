@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Password_pass-form</name>
+   <name>Password</name>
    <tag></tag>
    <elementGuidId>f62b8724-9b16-43da-afec-094152600766</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>input[name=&quot;pass-form&quot;]</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//input[@name='pass-form']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input[name=&quot;pass-form&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

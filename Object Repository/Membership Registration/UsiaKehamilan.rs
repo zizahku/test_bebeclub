@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>SelectUsiaKehamilan</name>
+   <name>UsiaKehamilan</name>
    <tag></tag>
    <elementGuidId>153ffb31-3988-4096-8e50-d95f534a581e</elementGuidId>
    <selectorCollection>

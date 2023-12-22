@@ -25,6 +25,9 @@ WebUI.click(findTestObject('Login Page/buttonLoginTanpaPassword'))
 
 WebUI.setText(findTestObject('Login Tanpa Password/form_Nomor HP'), '085784018007')
 
+'this step is captcha, we will make it delay for 10 second'
+WebUI.delay(10)
+
 WebUI.click(findTestObject('Login Tanpa Password/button_Kirim Kode OTP'))
 
 WebUI.verifyTextPresent('OTP Telah Dikirimkan Ke Nomor Handphone Ibu', false)

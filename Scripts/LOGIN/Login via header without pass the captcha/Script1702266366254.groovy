@@ -17,34 +17,15 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-String randomNum = generateRandomNumber()
 WebUI.openBrowser(GlobalVariable.URL)
 
-WebUI.click(findTestObject('Header/a_Register'))
+WebUI.click(findTestObject('Header/a_Login'))
 
-WebUI.setText(findTestObject('Membership Registration/Nama Lengkap'), 'zizah')
+WebUI.setText(findTestObject('Login Page/form input nomor hp'), '085784018007')
 
-WebUI.setText(findTestObject('Membership Registration/Nomor Handphone'), randomNum)
+WebUI.setEncryptedText(findTestObject('Login Page/form password'), 'iFGeFYmXIrUhQZHvW7P22w==')
 
-WebUI.setEncryptedText(findTestObject('Membership Registration/Password'), 'iFGeFYmXIrUhQZHvW7P22w==')
+WebUI.click(findTestObject('Login Page/buttonLogin'))
 
-WebUI.selectOptionByLabel(findTestObject('Membership Registration/Pilih Kondisi Ibu Saat Ini'), 'Sedang Hamil & Memiliki Anak', 
-    false)
+WebUI.verifyTextPresent('Captcha is required', false)
 
-WebUI.selectOptionByLabel(findTestObject('Membership Registration/UsiaKehamilan'), '12 Minggu', false)
-
-WebUI.setText(findTestObject('Membership Registration/DOB Anak'), '2023-02-01')
-
-WebUI.check(findTestObject('Membership Registration/checkbox tnc'))
-
-WebUI.delay(10)
-
-String generateRandomNumber() {
-	Random random = new Random()
-
-	String lastNineDigits = String.format('%09d', random.nextInt(1000000000))
-
-	String randomNumber = '0899' + lastNineDigits
-
-	return randomNumber
-}

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Nama Lengkap_full-name-form</name>
+   <name>DOB Anak</name>
    <tag></tag>
-   <elementGuidId>7ff96b28-db34-44dd-817c-af67b4f50bc1</elementGuidId>
+   <elementGuidId>282708a7-b33c-4b3c-95e4-0c9a7b2eec7c</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@name='full-name-form']</value>
+         <value>//input[@id='reg-calendar']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>input[name=&quot;full-name-form&quot;]</value>
+         <value>#reg-calendar</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>71153a5d-2003-43b5-ab2d-700b648e86a5</webElementGuid>
+      <webElementGuid>acd13f80-a9dd-40bf-9b8d-21a510813929</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,31 +30,39 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>f605c5ce-0719-411a-8074-79dc3e315e04</webElementGuid>
+      <webElementGuid>93d08226-b31d-4ae0-9e22-98a97f3c9650</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>reg-calendar</value>
+      <webElementGuid>b34b6143-ce28-4688-b7b6-a1718c45e39c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>full-name-form</value>
-      <webElementGuid>5d48550e-dbbc-4ed7-a533-35cd81e8f75c</webElementGuid>
+      <value>datepickers-form</value>
+      <webElementGuid>31364d7a-a2cb-43cf-a4e2-3eb03a602c24</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>maxlength</name>
+      <name>class</name>
       <type>Main</type>
-      <value>50</value>
-      <webElementGuid>a096a48b-a903-4929-8f3e-355594ae7008</webElementGuid>
+      <value>is-valid</value>
+      <webElementGuid>1d65f15f-02b1-44e3-a551-020a3a889c8a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>placeholder</name>
       <type>Main</type>
-      <value>Masukkan Nama Lengkap Anda Disini</value>
-      <webElementGuid>4c05ef2c-467f-4dff-aea4-17eb6233a718</webElementGuid>
+      <value>Contoh: 2019-02-22</value>
+      <webElementGuid>e0d722c6-92cb-4c8e-b5c7-190831b3300e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,38 +70,46 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>1e746ecb-59cf-4ede-a616-4f689a86171a</webElementGuid>
+      <webElementGuid>5c75c2d1-49e8-4a9f-a812-49ffb31b217a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[1]/div[@class=&quot;section-register&quot;]/div[@class=&quot;regist-identity&quot;]/div[@class=&quot;regist-identity_iner&quot;]/form[@class=&quot;form-regist&quot;]/div[@class=&quot;regist-identity_bodyform&quot;]/div[@class=&quot;regist-identity_bodyform_item&quot;]/input[1]</value>
-      <webElementGuid>a9e2d72c-4e06-43f7-9f51-ce7a7bdecfa0</webElementGuid>
+      <value>id(&quot;reg-calendar&quot;)</value>
+      <webElementGuid>1873b7b9-a09b-4f7f-8ea2-e9aae6c39ca8</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@name='full-name-form']</value>
-      <webElementGuid>335ed05b-a002-4378-ba47-5545b509f525</webElementGuid>
+      <value>//input[@id='reg-calendar']</value>
+      <webElementGuid>9cd62e9e-f006-48d2-ab48-817efe436042</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tanggal_lahir_anak_regist-form']/input</value>
+      <webElementGuid>c9ae1c85-429c-4baf-a9cf-5710e878f206</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//form/div[2]/div/input</value>
-      <webElementGuid>685cd91c-00ec-4269-98c8-2bd548fba8a3</webElementGuid>
+      <value>//div[4]/div[4]/input</value>
+      <webElementGuid>8514230f-9b10-458f-941e-d697b86c19db</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'text' and @name = 'full-name-form' and @placeholder = 'Masukkan Nama Lengkap Anda Disini']</value>
-      <webElementGuid>42dc6686-c770-469c-8cbd-4333375c1c02</webElementGuid>
+      <value>//input[@type = 'text' and @id = 'reg-calendar' and @name = 'datepickers-form' and @placeholder = 'Contoh: 2019-02-22']</value>
+      <webElementGuid>55860c95-d271-43ee-a2ca-7f2b1055b355</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

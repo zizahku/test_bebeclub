@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>select_Pilih Kondisi Ibu Saat Ini</name>
+   <name>Pilih Kondisi Ibu Saat Ini</name>
    <tag></tag>
    <elementGuidId>26fbb74e-95ac-4d98-a058-99aff7311370</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#statusibu-form</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//select[@id='statusibu-form']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#statusibu-form</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

@@ -17,34 +17,19 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-String randomNum = generateRandomNumber()
 WebUI.openBrowser(GlobalVariable.URL)
 
-WebUI.click(findTestObject('Header/a_Register'))
+'user tap the button login and will navigate to login page'
+WebUI.click(findTestObject('Header/a_Login'))
 
-WebUI.setText(findTestObject('Membership Registration/Nama Lengkap'), 'zizah')
+'user input the login credential (phone number)'
+WebUI.setText(findTestObject('Login Page/form input nomor hp'), '085784018007')
 
-WebUI.setText(findTestObject('Membership Registration/Nomor Handphone'), randomNum)
-
-WebUI.setEncryptedText(findTestObject('Membership Registration/Password'), 'iFGeFYmXIrUhQZHvW7P22w==')
-
-WebUI.selectOptionByLabel(findTestObject('Membership Registration/Pilih Kondisi Ibu Saat Ini'), 'Sedang Hamil & Memiliki Anak', 
-    false)
-
-WebUI.selectOptionByLabel(findTestObject('Membership Registration/UsiaKehamilan'), '12 Minggu', false)
-
-WebUI.setText(findTestObject('Membership Registration/DOB Anak'), '2023-02-01')
-
-WebUI.check(findTestObject('Membership Registration/checkbox tnc'))
-
+'this step is captcha, we will make it delay for 10 second'
 WebUI.delay(10)
 
-String generateRandomNumber() {
-	Random random = new Random()
+'ensure the button login is unclickable'
+WebUI.verifyElementNotClickable(findTestObject('Login Page/buttonLogin'))
 
-	String lastNineDigits = String.format('%09d', random.nextInt(1000000000))
+WebUI.verifyTextPresent('Password harus diisi', false)
 
-	String randomNumber = '0899' + lastNineDigits
-
-	return randomNumber
-}

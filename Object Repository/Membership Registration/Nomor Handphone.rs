@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>formDOBAnak</name>
+   <name>Nomor Handphone</name>
    <tag></tag>
-   <elementGuidId>282708a7-b33c-4b3c-95e4-0c9a7b2eec7c</elementGuidId>
+   <elementGuidId>0487d9be-be2a-42de-977e-09a42b5e868a</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='reg-calendar']</value>
+         <value>//input[@id='phone_number']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#reg-calendar</value>
+         <value>#phone_number</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,94 +22,86 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>acd13f80-a9dd-40bf-9b8d-21a510813929</webElementGuid>
+      <webElementGuid>6d29f3ab-e4f1-4a26-91a6-76b80bcfa98c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>pattern</name>
+      <type>Main</type>
+      <value>[0-9]*</value>
+      <webElementGuid>b1b016ac-d0b3-4f3a-9c4a-e3b9239496d9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>text</value>
-      <webElementGuid>93d08226-b31d-4ae0-9e22-98a97f3c9650</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>reg-calendar</value>
-      <webElementGuid>b34b6143-ce28-4688-b7b6-a1718c45e39c</webElementGuid>
+      <value>number</value>
+      <webElementGuid>c2b198e4-1901-427a-a85f-491e8ae604fc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>datepickers-form</value>
-      <webElementGuid>31364d7a-a2cb-43cf-a4e2-3eb03a602c24</webElementGuid>
+      <value>number-form</value>
+      <webElementGuid>0721f85a-c06f-4e94-8b85-93c82ba316f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>phone_number</value>
+      <webElementGuid>199d5ce8-bebb-4223-acfe-f61930ad14cc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>class</name>
+      <name>maxlength</name>
       <type>Main</type>
-      <value>is-valid</value>
-      <webElementGuid>1d65f15f-02b1-44e3-a551-020a3a889c8a</webElementGuid>
+      <value>13</value>
+      <webElementGuid>a43959b4-7d4a-4947-b225-033ba8deae01</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>placeholder</name>
       <type>Main</type>
-      <value>Contoh: 2019-02-22</value>
-      <webElementGuid>e0d722c6-92cb-4c8e-b5c7-190831b3300e</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>autocomplete</name>
-      <type>Main</type>
-      <value>off</value>
-      <webElementGuid>5c75c2d1-49e8-4a9f-a812-49ffb31b217a</webElementGuid>
+      <value>Masukkan No Ponsel Anda</value>
+      <webElementGuid>ee7715c9-11d4-4792-ae9e-d26743698cfc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;reg-calendar&quot;)</value>
-      <webElementGuid>1873b7b9-a09b-4f7f-8ea2-e9aae6c39ca8</webElementGuid>
+      <value>id(&quot;phone_number&quot;)</value>
+      <webElementGuid>980e555a-481b-4334-866a-b07a75d4e9aa</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='reg-calendar']</value>
-      <webElementGuid>9cd62e9e-f006-48d2-ab48-817efe436042</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
-      <type>Main</type>
-      <value>//div[@id='tanggal_lahir_anak_regist-form']/input</value>
-      <webElementGuid>c9ae1c85-429c-4baf-a9cf-5710e878f206</webElementGuid>
+      <value>//input[@id='phone_number']</value>
+      <webElementGuid>83f98e47-b941-4144-968a-592f732093f4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[4]/div[4]/input</value>
-      <webElementGuid>8514230f-9b10-458f-941e-d697b86c19db</webElementGuid>
+      <value>//div[3]/input</value>
+      <webElementGuid>1cdb8fd8-8f3f-43f0-b84e-3090cca7647e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'text' and @id = 'reg-calendar' and @name = 'datepickers-form' and @placeholder = 'Contoh: 2019-02-22']</value>
-      <webElementGuid>55860c95-d271-43ee-a2ca-7f2b1055b355</webElementGuid>
+      <value>//input[@type = 'number' and @name = 'number-form' and @id = 'phone_number' and @placeholder = 'Masukkan No Ponsel Anda']</value>
+      <webElementGuid>3674fec4-aa6e-45d1-b23a-802ea946ac14</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
