@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Artikel dr Irma</name>
+   <tag></tag>
+   <elementGuidId>5e3438e6-8b5f-46bb-8188-3a0c8ad04a5a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='381646']/article/div[2]/a/h3</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#381646 > article.card > div.card__content > a > h3.card__title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>7b5ba688-550c-4ade-a84e-e921f103f8b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>card__title</value>
+      <webElementGuid>d96f5f17-a412-4bc3-9ac0-2e63f4324ac2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Benarkah Si Kecil Temperamen? Cek Ciri-Cirinya yang Bisa Diketahui Sejak Dini</value>
+      <webElementGuid>ed374456-d857-4cf6-a6df-2ee91d454726</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;381646&quot;)/article[@class=&quot;card&quot;]/div[@class=&quot;card__content&quot;]/a[1]/h3[@class=&quot;card__title&quot;]</value>
+      <webElementGuid>a8604f77-2f4a-49d5-8f0e-abad8c8ace93</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='381646']/article/div[2]/a/h3</value>
+      <webElementGuid>426a5ac7-7585-4fb2-81dd-32ccc2b9fb1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tumbuh Kembang'])[11]/following::h3[1]</value>
+      <webElementGuid>c232362a-d8f8-40d7-ade6-23b2aacc5b7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dr. dr. Ray Wagiu Basrowi, MKK'])[1]/following::h3[1]</value>
+      <webElementGuid>c7b7c1b1-8d87-49eb-8ddf-a40b477a2026</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tim Penulis'])[7]/preceding::h3[1]</value>
+      <webElementGuid>2f5ea470-9d4f-4154-9a5a-e30a5ad33263</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Benarkah Si Kecil Temperamen? Cek Ciri-Cirinya yang Bisa Diketahui Sejak Dini']/parent::*</value>
+      <webElementGuid>8f49987d-aab4-47f6-a5b1-cb481cb6d0fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/article/div[2]/a/h3</value>
+      <webElementGuid>be76979a-bd61-4823-8a6b-5fc508ea6c7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'Benarkah Si Kecil Temperamen? Cek Ciri-Cirinya yang Bisa Diketahui Sejak Dini' or . = 'Benarkah Si Kecil Temperamen? Cek Ciri-Cirinya yang Bisa Diketahui Sejak Dini')]</value>
+      <webElementGuid>bc9ab971-4b5d-4a5f-b425-f661c9656d78</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

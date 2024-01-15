@@ -16,27 +16,33 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
+import org.openqa.selenium.By as By
 
 WebUI.openBrowser(GlobalVariable.URL)
 
-WebUI.mouseOver(findTestObject('Header/a_Tools'))
+WebUI.verifyElementClickable(findTestObject('Tim Ahli Landing Page/Arrow Kiri Artikel Terbaru'))
 
-WebUI.click(findTestObject('Header/Dropdown Tools - Bebejourney'))
+WebUI.click(findTestObject('Footer/Peta situs'))
 
-WebUI.click(findTestObject('Bebe Journey page/Banner click - Yuk, Cek di sini'))
+WebUI.verifyTextPresent('Peta Situs', false)
 
-WebUI.setText(findTestObject('Bebe Journey page/Form Nomor Handphone'), '085784018007')
+WebUI.click(findTestObject('Footer/Kebijakan Privasi'))
 
-WebUI.setEncryptedText(findTestObject('Bebe Journey page/Form Kata Sandi_password'), 'iFGeFYmXIrUhQZHvW7P22w==')
+WebUI.verifyTextPresent('Kebijakan Privasi', false)
 
-'step for fill out captcha'
-WebUI.delay(10)
+WebUI.click(findTestObject('Footer/Kontak Kami'))
 
-WebUI.click(findTestObject('Bebe Journey page/Button Login'))
+WebUI.verifyTextPresent('Kontak Kami', false)
 
-WebUI.verifyTextPresent('Selamat Datang', false)
+WebUI.click(findTestObject('Footer/Syarat  Ketentuan'))
 
-WebUI.click(findTestObject('Bebe Journey page/close greeting popup'))
+WebUI.verifyTextPresent('Syarat dan Ketentuan', false)
 
-WebUI.verifyTextPresent('zizah', false)
+WebUI.click(findTestObject('Footer/Tim Ahli'))
+
+WebUI.verifyTextPresent('Tim Penulis', false)
+
+WebUI.click(findTestObject('Footer/Tim Penulis'))
+
+WebUI.verifyTextPresent('Tim Ahli', false)
 

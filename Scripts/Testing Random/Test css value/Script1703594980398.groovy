@@ -16,27 +16,24 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
+import com.kms.katalon.core.webui.driver.DriverFactory
+import org.openqa.selenium.By
 
-WebUI.openBrowser(GlobalVariable.URL)
+// Temukan elemen yang ingin kamu verifikasi
+WebElement element = DriverFactory.getWebDriver().findElement(By.id("exampleElement"))
 
-WebUI.mouseOver(findTestObject('Header/a_Tools'))
+// Ambil nilai warna font menggunakan getCssValue
+String fontColor = element.getCSSValue("color")
 
-WebUI.click(findTestObject('Header/Dropdown Tools - Bebejourney'))
+// Nilai warna font yang diharapkan
+String expectedFontColor = "rgb(255, 0, 0)" // Ganti dengan nilai warna yang diharapkan
 
-WebUI.click(findTestObject('Bebe Journey page/Banner click - Yuk, Cek di sini'))
-
-WebUI.setText(findTestObject('Bebe Journey page/Form Nomor Handphone'), '085784018007')
-
-WebUI.setEncryptedText(findTestObject('Bebe Journey page/Form Kata Sandi_password'), 'iFGeFYmXIrUhQZHvW7P22w==')
-
-'step for fill out captcha'
-WebUI.delay(10)
-
-WebUI.click(findTestObject('Bebe Journey page/Button Login'))
-
-WebUI.verifyTextPresent('Selamat Datang', false)
-
-WebUI.click(findTestObject('Bebe Journey page/close greeting popup'))
-
-WebUI.verifyTextPresent('zizah', false)
-
+// Verifikasi bahwa nilai warna font sesuai dengan yang diharapkan
+if (fontColor.equals(expectedFontColor)) {
+	println("Verifikasi berhasil: Warna font sesuai dengan yang diharapkan.")
+} else {
+	println("Verifikasi gagal: Warna font tidak sesuai dengan yang diharapkan.")
+	// Tambahan: Cetak nilai aktual dan yang diharapkan untuk debug
+	println("Nilai Aktual   : " + fontColor)
+	println("Nilai Diharapkan: " + expectedFontColor)
+}

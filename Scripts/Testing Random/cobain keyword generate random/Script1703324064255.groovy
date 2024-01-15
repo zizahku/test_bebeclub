@@ -17,26 +17,17 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+String randomPhoneNumber = CustomKeywords.'randomCharacter.CustomKeywords.generateRandomPhoneNumber'()
+
 WebUI.openBrowser(GlobalVariable.URL)
 
-WebUI.mouseOver(findTestObject('Header/a_Tools'))
+WebUI.click(findTestObject('Header/a_Register'))
 
-WebUI.click(findTestObject('Header/Dropdown Tools - Bebejourney'))
+WebUI.setText(findTestObject('Membership Registration/Nama Lengkap'), 'zizah')
 
-WebUI.click(findTestObject('Bebe Journey page/Banner click - Yuk, Cek di sini'))
+WebUI.setText(findTestObject('Membership Registration/Nomor Handphone'), randomPhoneNumber)
 
-WebUI.setText(findTestObject('Bebe Journey page/Form Nomor Handphone'), '085784018007')
+String randomAddress = CustomKeywords.'randomCharacter.CustomKeywords.generateRandomAddress'()
 
-WebUI.setEncryptedText(findTestObject('Bebe Journey page/Form Kata Sandi_password'), 'iFGeFYmXIrUhQZHvW7P22w==')
-
-'step for fill out captcha'
-WebUI.delay(10)
-
-WebUI.click(findTestObject('Bebe Journey page/Button Login'))
-
-WebUI.verifyTextPresent('Selamat Datang', false)
-
-WebUI.click(findTestObject('Bebe Journey page/close greeting popup'))
-
-WebUI.verifyTextPresent('zizah', false)
+WebUI.setText(findTestObject('Membership Registration/Password'), randomAddress)
 

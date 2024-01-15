@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Artikel dr Ray Wagiu</name>
+   <tag></tag>
+   <elementGuidId>84d2627c-d7ea-4327-a027-2045f74168a7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='385726']/article/div[2]/a/h3</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#385726 > article.card > div.card__content > a > h3.card__title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>76762586-b65f-43ac-8203-f4aee96ff2c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>card__title</value>
+      <webElementGuid>d65e90ba-33a3-43a6-8d18-60f407f92919</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kenali Weight Faltering, Gagal Tumbuh yang Berisiko Stunting pada Bayi</value>
+      <webElementGuid>5f8b8c50-53ac-4a6c-bcee-b7199a249206</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;385726&quot;)/article[@class=&quot;card&quot;]/div[@class=&quot;card__content&quot;]/a[1]/h3[@class=&quot;card__title&quot;]</value>
+      <webElementGuid>7be37cff-2ffb-43c9-b52a-e43ef2fc4302</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='385726']/article/div[2]/a/h3</value>
+      <webElementGuid>2d9c4ad6-7a1d-471a-95f2-dc04887f7344</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tumbuh Kembang'])[10]/following::h3[1]</value>
+      <webElementGuid>e8916440-5d3d-431a-af8d-f4774472b10b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tim Penulis'])[5]/following::h3[1]</value>
+      <webElementGuid>6a6c8c4c-a5b7-420e-a7d7-4babf4e1a319</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tim Penulis'])[6]/preceding::h3[1]</value>
+      <webElementGuid>191f5cb3-ddf0-44be-88a0-491ebb1c46f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Kenali Weight Faltering, Gagal Tumbuh yang Berisiko Stunting pada Bayi']/parent::*</value>
+      <webElementGuid>655c37a1-38b4-40ed-b445-0a66dc651c16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/article/div[2]/a/h3</value>
+      <webElementGuid>1e7e3960-7db7-4627-8128-5f3e862850c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'Kenali Weight Faltering, Gagal Tumbuh yang Berisiko Stunting pada Bayi' or . = 'Kenali Weight Faltering, Gagal Tumbuh yang Berisiko Stunting pada Bayi')]</value>
+      <webElementGuid>3948f10f-e76b-43f3-a730-3106515a2986</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
