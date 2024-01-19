@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Tools_down</name>
+   <tag></tag>
+   <elementGuidId>a8dbf75e-b6dc-46b3-8199-f81b2bac6c3b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[4]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>27baecaf-ecb3-415f-ba1a-a3b80e065059</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>down</value>
+      <webElementGuid>f894ec3d-b5b0-4793-bdd1-4af7a18a6329</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;headers-menu&quot;]/div[@class=&quot;headers-menu_mobile show-sm&quot;]/div[1]/div[@class=&quot;headers-menu_mobile_link menu-nav&quot;]/div[@class=&quot;menu-nav-item have-sub&quot;]/span[@class=&quot;down&quot;]</value>
+      <webElementGuid>db0f3bd0-ee17-4099-b3fc-168924ad9f55</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/span</value>
+      <webElementGuid>2598c04c-aeb3-4a90-bf50-aa45511c7397</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

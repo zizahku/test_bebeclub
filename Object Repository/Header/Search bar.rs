@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>5382415b-11a9-40ec-8898-05130e611ba1</webElementGuid>
+      <webElementGuid>79fe437f-cd83-4247-9438-a39d55985df5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>f729a0a6-726e-488f-8c5f-17483a09efd6</webElementGuid>
+      <webElementGuid>38008857-0838-45ca-904c-7aa84fa12b25</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>searchDo</value>
-      <webElementGuid>1d434baa-e67e-4984-8a81-00929da3b2cd</webElementGuid>
+      <webElementGuid>0b832bf5-0d72-4c7d-8bea-537eaf87c696</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Cari artikel yang Ibu butuhkan</value>
-      <webElementGuid>2ea6ce53-1d50-44ab-91d1-0d5eb9a48fd6</webElementGuid>
+      <webElementGuid>dc7bc5be-7fca-4fc4-b286-22b49fe8370d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,15 +54,15 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/div[@class=&quot;headers-menu&quot;]/div[@class=&quot;headers-menu_iner&quot;]/div[@class=&quot;container_fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6 hidden-sm&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;headers-menu_search&quot;]/input[@class=&quot;searchDo&quot;]</value>
-      <webElementGuid>33230644-f22f-49aa-8481-4b6220801b33</webElementGuid>
+      <webElementGuid>d6f2a5c9-52cc-4374-9a4e-c961b4443204</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@type='text']</value>
-      <webElementGuid>edeef79c-b04e-4a39-b45c-b3d4a6223fff</webElementGuid>
+      <webElementGuid>a12655c9-1e8a-4079-9318-8e14a179a7fd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/input</value>
-      <webElementGuid>ec21e6c1-3d7d-40d6-a9de-fd5cd08766c5</webElementGuid>
+      <webElementGuid>13de85d9-18e9-46eb-9f16-c344bac4e1e9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,6 +78,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @placeholder = 'Cari artikel yang Ibu butuhkan']</value>
-      <webElementGuid>84685fae-969c-4bc3-97da-90d8cbe575a3</webElementGuid>
+      <webElementGuid>c9861f91-09ec-4e56-a39a-ce7a130f5f88</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

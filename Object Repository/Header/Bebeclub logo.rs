@@ -11,7 +11,6 @@
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>65b5f037-892f-49a3-88d1-65f54b89e287</webElementGuid>
+      <webElementGuid>860a9c34-12a8-4e21-a2ee-8db0d205211c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +29,7 @@
       <name>data-src</name>
       <type>Main</type>
       <value>https://d24eqpince6acm.cloudfront.net/assets/images/logo/logo.png</value>
-      <webElementGuid>fabbbe29-7cbc-431e-96d5-cef291508107</webElementGuid>
+      <webElementGuid>779b03fc-059d-43b8-849b-74a2de8a7fa2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value> ls-is-cached lazyloaded</value>
-      <webElementGuid>77a02d2a-24a1-4e0f-a33b-9d2bdc4f46c3</webElementGuid>
+      <webElementGuid>779d72b8-6a8d-4323-b5cd-10530b380691</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +45,7 @@
       <name>alt</name>
       <type>Main</type>
       <value>bebelac</value>
-      <webElementGuid>bb9f98b0-6299-4a2b-aa4b-f3d493e45db4</webElementGuid>
+      <webElementGuid>2a135249-b6b7-4cf4-9704-4eba453a70f6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +53,7 @@
       <name>title</name>
       <type>Main</type>
       <value>bebelac</value>
-      <webElementGuid>183ffabb-03c3-435c-8360-473d9eee16c8</webElementGuid>
+      <webElementGuid>432046be-e24d-445d-a92b-7a449a7fcefb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +61,7 @@
       <name>width</name>
       <type>Main</type>
       <value>133px</value>
-      <webElementGuid>925cb347-6e46-4671-8813-e18b709a1d66</webElementGuid>
+      <webElementGuid>566092d2-60e5-43ab-a890-ae5feaca11ec</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +69,7 @@
       <name>height</name>
       <type>Main</type>
       <value>35px</value>
-      <webElementGuid>541ee328-8d9f-4a69-9685-051e46caeb22</webElementGuid>
+      <webElementGuid>064102be-0771-493d-bbaa-8d8181ffb216</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -78,7 +77,7 @@
       <name>src</name>
       <type>Main</type>
       <value>https://d24eqpince6acm.cloudfront.net/assets/images/logo/logo.png</value>
-      <webElementGuid>15a4e8cf-fba9-4478-b97a-afa1d7b4625c</webElementGuid>
+      <webElementGuid>d7e235df-7f20-44f5-b363-a883edadaf83</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +85,7 @@
       <name>data-pagespeed-url-hash</name>
       <type>Main</type>
       <value>1980770380</value>
-      <webElementGuid>d45459ee-e39b-44a0-a7dd-520fdf5cfc04</webElementGuid>
+      <webElementGuid>9ea8c93b-d51c-43ab-b8f9-309ee3ebeb18</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -94,7 +93,7 @@
       <name>onload</name>
       <type>Main</type>
       <value>pagespeed.CriticalImages.checkImageForCriticality(this);</value>
-      <webElementGuid>314c4453-b5ed-47f4-b4d3-276ba9d7a77a</webElementGuid>
+      <webElementGuid>9258e1c1-ce3b-4d00-8f42-e5c50fe3e607</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -102,15 +101,15 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/div[@class=&quot;headers-menu&quot;]/div[@class=&quot;headers-menu_iner&quot;]/div[@class=&quot;container_fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col&quot;]/div[@class=&quot;headers-menu_logo&quot;]/a[@class=&quot;headers-menu_brand&quot;]/picture[1]/img[@class=&quot;ls-is-cached lazyloaded&quot;]</value>
-      <webElementGuid>4cc3e225-e762-43fc-9383-346fb1e5a5e6</webElementGuid>
+      <webElementGuid>439680c5-6dc6-4b55-8a8f-42c1c440c6ce</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:img</name>
       <type>Main</type>
       <value>//img[@alt='bebelac']</value>
-      <webElementGuid>47881baf-c1e9-4881-a627-a3e6f4204f7d</webElementGuid>
+      <webElementGuid>73bf317c-95b6-478d-a724-80ce24a29ef2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +117,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//img</value>
-      <webElementGuid>ae0e6cf2-1f7e-40e6-b876-4cd6cef06a9e</webElementGuid>
+      <webElementGuid>2c317047-5024-48a0-8915-d1b009410042</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +125,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@alt = 'bebelac' and @title = 'bebelac' and @src = 'https://d24eqpince6acm.cloudfront.net/assets/images/logo/logo.png']</value>
-      <webElementGuid>a408e90a-0201-462e-95a2-3bfd741e53c8</webElementGuid>
+      <webElementGuid>8ab11330-ad0d-4758-af76-398e964a2071</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

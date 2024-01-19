@@ -11,7 +11,6 @@
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>3c6ef3f1-2691-4468-93ca-9f1e45169c89</webElementGuid>
+      <webElementGuid>fe4821ea-c839-4bc8-ae96-41cd4a0994b7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +29,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/produk/bebelac-3</value>
-      <webElementGuid>9087f7f1-1302-43f8-a815-dd41f3568dbe</webElementGuid>
+      <webElementGuid>8f4e76a3-0418-4fa9-8a59-fb0891a1fc90</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Bebelac 3</value>
-      <webElementGuid>136069b7-3a52-4695-88ec-d9dc4770d832</webElementGuid>
+      <webElementGuid>4f6e0e97-ef25-4968-8840-ebd4111f1919</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,15 +45,15 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/div[@class=&quot;headers-menu&quot;]/div[@class=&quot;headers-menu_iner&quot;]/div[@class=&quot;container_fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col&quot;]/div[@class=&quot;headers-menu_logo&quot;]/div[@class=&quot;headers-menu_items&quot;]/ul[@class=&quot;headers-menu_items_nav&quot;]/li[@class=&quot;headers-menu_items_li have-sub&quot;]/ul[@class=&quot;headers-menu_items_sub&quot;]/li[1]/a[1]</value>
-      <webElementGuid>448cbd57-1a6d-4689-81ed-2e34fa5ae696</webElementGuid>
+      <webElementGuid>94d2283c-67fc-417a-b2bb-cd67bdf4f5fb</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Bebelac 3')]</value>
-      <webElementGuid>b7c9d80d-1ccd-4a9a-b859-b398827e5860</webElementGuid>
+      <webElementGuid>0a84c096-3bb8-45b1-81ad-d70cfce89959</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Produk'])[1]/following::a[1]</value>
-      <webElementGuid>9503d863-0c38-4bd2-a0b9-e8a623af3479</webElementGuid>
+      <webElementGuid>4055970f-edcb-4130-aff1-76b4d1dce920</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Upload Struk'])[1]/following::a[2]</value>
-      <webElementGuid>54728405-4028-4b08-99ee-cd90c6bd48a7</webElementGuid>
+      <webElementGuid>e796bff3-a0c9-4bb8-bde2-daf000d870d8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Bebelac 4'])[1]/preceding::a[1]</value>
-      <webElementGuid>a752db3b-56ec-46ea-a169-6cae0df8f475</webElementGuid>
+      <webElementGuid>b27f54e9-c1da-47b7-97a6-9276e0314344</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Bebelac Gold'])[1]/preceding::a[2]</value>
-      <webElementGuid>2cf0040c-a424-41bd-b72c-dc43c690e65a</webElementGuid>
+      <webElementGuid>0e81956e-83c1-4c52-aca3-a2b33964b017</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Bebelac 3']/parent::*</value>
-      <webElementGuid>fef52175-810f-4c6b-bc7c-845fdf14133a</webElementGuid>
+      <webElementGuid>4f0939a6-db45-429e-8e19-407af23fe866</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +101,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/produk/bebelac-3')]</value>
-      <webElementGuid>59c10286-37fe-435b-a485-e3ed8e3f6e0c</webElementGuid>
+      <webElementGuid>296d3af8-d76e-476c-9051-6941d7eb9c7f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +109,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[4]/ul/li/a</value>
-      <webElementGuid>52d0f2df-9fd0-4ec0-b517-25ffa97e3eb0</webElementGuid>
+      <webElementGuid>8e38a03d-7772-4d40-b6b0-cb1d1caf6ec2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +117,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '/produk/bebelac-3' and (text() = 'Bebelac 3' or . = 'Bebelac 3')]</value>
-      <webElementGuid>32382e39-15bf-4bdc-8cbf-edeb5ef3112c</webElementGuid>
+      <webElementGuid>191ba800-b0a9-4b4c-90b7-fc454e6451d4</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

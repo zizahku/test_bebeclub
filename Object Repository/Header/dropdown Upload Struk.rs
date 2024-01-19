@@ -11,7 +11,6 @@
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>b21e3ba1-0750-47bc-a13b-e3331b6dfff0</webElementGuid>
+      <webElementGuid>d42b10ff-70fb-49fb-8ce8-051d7e2b15c1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +29,7 @@
       <name>href</name>
       <type>Main</type>
       <value>https://bebeclub.co.id/membership/upload-struk</value>
-      <webElementGuid>e5c1bf3b-78db-47d4-9ce8-319cab79866a</webElementGuid>
+      <webElementGuid>fef14a0a-a2cb-4593-8dd9-6b1fcd5272d3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Upload Struk</value>
-      <webElementGuid>9660e6b0-7589-46a0-adec-db72d3065a8c</webElementGuid>
+      <webElementGuid>08322bdc-7a99-4f73-9bf1-d1dbceda547d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,15 +45,15 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/div[@class=&quot;headers-menu&quot;]/div[@class=&quot;headers-menu_iner&quot;]/div[@class=&quot;container_fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col&quot;]/div[@class=&quot;headers-menu_logo&quot;]/div[@class=&quot;headers-menu_items&quot;]/ul[@class=&quot;headers-menu_items_nav&quot;]/li[@class=&quot;headers-menu_items_li have-sub&quot;]/ul[@class=&quot;headers-menu_items_sub&quot;]/li[1]/a[1]</value>
-      <webElementGuid>5bd6bc0e-b197-4962-b9ac-8b51f0af8ffd</webElementGuid>
+      <webElementGuid>f018fe46-561f-4bdd-b821-26f06700c37d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Upload Struk')]</value>
-      <webElementGuid>d3ca5f10-fc42-4d26-8164-2a90c9a34f69</webElementGuid>
+      <webElementGuid>1b5fed31-48fe-420f-b0c7-e516370e54dd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Members'])[1]/following::a[1]</value>
-      <webElementGuid>818ac803-4324-4881-a56f-9bbfdd547591</webElementGuid>
+      <webElementGuid>c69ddbea-b7ec-41ae-a684-2ddc81ed790c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Promo &amp; Event'])[1]/following::a[2]</value>
-      <webElementGuid>1e459bf3-f7ff-40c2-84f2-dcece294e046</webElementGuid>
+      <webElementGuid>40ce1051-51e9-4a40-bdb0-5d3abf5f5cc7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Produk'])[1]/preceding::a[1]</value>
-      <webElementGuid>2721c8cc-21c3-42e3-9e99-e1d11696d081</webElementGuid>
+      <webElementGuid>e613abed-bfae-4249-9c07-5dba8f060608</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Bebelac 3'])[1]/preceding::a[2]</value>
-      <webElementGuid>564f799f-4d26-4c9b-a288-80a0737f4749</webElementGuid>
+      <webElementGuid>22d546c8-dd4e-44f4-a299-07f188701788</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Upload Struk']/parent::*</value>
-      <webElementGuid>8a34c890-71f8-46b4-88f5-24078eac4f5c</webElementGuid>
+      <webElementGuid>356b8822-f89a-4f93-abb1-e5fd17414470</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +101,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'https://bebeclub.co.id/membership/upload-struk')]</value>
-      <webElementGuid>3d17a4f5-f0cf-497e-87bc-40d8a2062b82</webElementGuid>
+      <webElementGuid>7d79cf6a-0b53-4418-a1c2-a5af6afaa0c6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +109,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[3]/ul/li/a</value>
-      <webElementGuid>3751994d-c2cd-4b03-b8ea-3aa973485e66</webElementGuid>
+      <webElementGuid>87ce6198-7f38-4076-b191-dd43ca74963f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +117,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'https://bebeclub.co.id/membership/upload-struk' and (text() = 'Upload Struk' or . = 'Upload Struk')]</value>
-      <webElementGuid>dece553d-15b9-42b3-a4f3-8ebfc3e0e195</webElementGuid>
+      <webElementGuid>d4008c1c-3e8f-406d-a76e-68fa3a51e074</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>search icon</name>
+   <name>div_Register_icon-menu-mobile</name>
    <tag></tag>
-   <elementGuidId>81873d22-4932-49eb-90eb-8f6dbb01e2bb</elementGuidId>
+   <elementGuidId>8f65cc0c-c6f3-4f0f-ad03-fa73f04bec1b</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div/div/div[2]/div/div/div</value>
+         <key>CSS</key>
+         <value>div.icon-menu-mobile</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>div.headers-menu_search_icon</value>
+         <key>XPATH</key>
+         <value>//div/div/div/div/div/div/div/div</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,30 +22,30 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>49d4f58e-df92-424c-bfbf-c26d46d0346a</webElementGuid>
+      <webElementGuid>49526e8e-f899-4569-a3b7-6fcb940d4691</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>headers-menu_search_icon</value>
-      <webElementGuid>6a2d0684-7377-4f9f-bba3-d350c713ca6b</webElementGuid>
+      <value>icon-menu-mobile</value>
+      <webElementGuid>b69b3e6c-1f5c-4186-addb-b05d19564b0f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[1]/div[@class=&quot;headers-menu&quot;]/div[@class=&quot;headers-menu_iner&quot;]/div[@class=&quot;container_fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6 hidden-sm&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;headers-menu_search&quot;]/div[@class=&quot;headers-menu_search_icon&quot;]</value>
-      <webElementGuid>3725b81d-21f4-490b-8bcb-f0c45ecf3a64</webElementGuid>
+      <value>/html[1]/body[1]/div[@class=&quot;headers-menu&quot;]/div[@class=&quot;headers-menu_iner&quot;]/div[@class=&quot;container_fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col&quot;]/div[@class=&quot;headers-menu_logo&quot;]/div[@class=&quot;show-sm&quot;]/div[@class=&quot;icon-menu-mobile&quot;]</value>
+      <webElementGuid>bc235c6b-77dd-40c5-83a6-af93c155f5b0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div/div/div[2]/div/div/div</value>
-      <webElementGuid>d7c4bfe5-dd28-4081-a42f-275c4f0734ed</webElementGuid>
+      <value>//div/div/div/div/div/div/div/div</value>
+      <webElementGuid>21daf73e-0b9e-4db8-b911-0bb714ab3f7e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

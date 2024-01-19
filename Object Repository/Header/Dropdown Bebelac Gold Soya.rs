@@ -11,7 +11,6 @@
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>51e2a4f0-f757-448e-8c68-553b3ec054b8</webElementGuid>
+      <webElementGuid>de9c6856-373a-48dc-acbf-cc203c087498</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +29,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/produk/bebelac-gold-soya</value>
-      <webElementGuid>21da8fdd-6774-4d78-b230-1eff79a5b82f</webElementGuid>
+      <webElementGuid>1c938254-7b22-4702-9e69-dc2343e96eeb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Bebelac Gold Soya</value>
-      <webElementGuid>b75cef10-740c-4f1e-9f9e-167fcaa4d280</webElementGuid>
+      <webElementGuid>ea94ad04-38d4-436e-b326-31ed70032724</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,15 +45,15 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/div[@class=&quot;headers-menu&quot;]/div[@class=&quot;headers-menu_iner&quot;]/div[@class=&quot;container_fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col&quot;]/div[@class=&quot;headers-menu_logo&quot;]/div[@class=&quot;headers-menu_items&quot;]/ul[@class=&quot;headers-menu_items_nav&quot;]/li[@class=&quot;headers-menu_items_li have-sub&quot;]/ul[@class=&quot;headers-menu_items_sub&quot;]/li[4]/a[1]</value>
-      <webElementGuid>55b596b2-176e-423e-8322-51b54631ff9c</webElementGuid>
+      <webElementGuid>704566d8-149b-46ce-9969-9bb52184fe70</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Bebelac Gold Soya')]</value>
-      <webElementGuid>665b8051-e516-4fd0-afd6-451f244af58d</webElementGuid>
+      <webElementGuid>d6a104c9-a3d1-41c8-860f-98b43258a3f3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Bebelac Gold'])[1]/following::a[1]</value>
-      <webElementGuid>4002a17f-de03-4d7b-8fa3-ef4cd67cc4b5</webElementGuid>
+      <webElementGuid>1c2286c1-5d64-482b-963e-c27fa223db04</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Bebelac 4'])[1]/following::a[2]</value>
-      <webElementGuid>105e49b6-8c8c-4964-965a-5201b2f85254</webElementGuid>
+      <webElementGuid>9940a0d1-1b32-468d-8ca7-f387a54866aa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Hebatnya Bebelac'])[1]/preceding::a[1]</value>
-      <webElementGuid>9d966578-50d4-425d-b113-1fe8313f4fad</webElementGuid>
+      <webElementGuid>cec8f2fa-f50f-49ad-a632-1f6def303f45</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[2]/preceding::a[2]</value>
-      <webElementGuid>f66ff219-0b94-42d6-a87d-2f0751df0150</webElementGuid>
+      <webElementGuid>54afbeea-7aaf-472c-b2bb-a123f0f275b9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Bebelac Gold Soya']/parent::*</value>
-      <webElementGuid>8246e989-b164-48ce-8928-e401ee18aacd</webElementGuid>
+      <webElementGuid>9f70223f-cec1-416d-af25-de7610c7a96c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +101,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/produk/bebelac-gold-soya')]</value>
-      <webElementGuid>5a98285e-9f85-4029-aa9e-8919b53b349e</webElementGuid>
+      <webElementGuid>a58c6ae0-30aa-4001-b636-7419d1e7046c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +109,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[4]/ul/li[4]/a</value>
-      <webElementGuid>e31054b7-91ff-46cf-941b-910102d9ef41</webElementGuid>
+      <webElementGuid>bde23254-5164-41a2-a289-4fa0bd51daf2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +117,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '/produk/bebelac-gold-soya' and (text() = 'Bebelac Gold Soya' or . = 'Bebelac Gold Soya')]</value>
-      <webElementGuid>74f8e3c7-b5eb-4dce-aebc-8fccd02f78fb</webElementGuid>
+      <webElementGuid>51252046-3dbe-4409-bb6d-5a6961ff58c2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

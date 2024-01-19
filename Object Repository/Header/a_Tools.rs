@@ -6,12 +6,12 @@
    <elementGuidId>1617f74e-7ca6-42cb-8004-f737e81fb92a</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>li.headers-menu_items_li.have-sub > a</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//a[contains(text(),'Tools')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.headers-menu_items_li.have-sub > a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>ae0b614e-4ecd-4f04-8bac-eef7e49850c9</webElementGuid>
+      <webElementGuid>9875b94f-9320-4331-ab3d-7c183a9d06f3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/tools</value>
-      <webElementGuid>966b5f7c-2950-43dc-8c9f-8514b4d632ed</webElementGuid>
+      <webElementGuid>60d077a2-6565-48a3-9268-1a7375175955</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Tools</value>
-      <webElementGuid>fc0c5b98-2fd2-4cd7-9886-a6c370136a9e</webElementGuid>
+      <webElementGuid>3def4ef3-c70e-4b93-b793-d46685397642</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,15 +46,15 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/div[@class=&quot;headers-menu&quot;]/div[@class=&quot;headers-menu_iner&quot;]/div[@class=&quot;container_fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col&quot;]/div[@class=&quot;headers-menu_logo&quot;]/div[@class=&quot;headers-menu_items&quot;]/ul[@class=&quot;headers-menu_items_nav&quot;]/li[@class=&quot;headers-menu_items_li have-sub&quot;]/a[1]</value>
-      <webElementGuid>74a9f5be-a0da-4b4b-8dc9-1bded78973c4</webElementGuid>
+      <webElementGuid>7d33fbcf-dc62-4370-b124-6dd3ef295911</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Tools')]</value>
-      <webElementGuid>7cd3a5d7-a255-48ff-8ca7-9ca7f484fc9b</webElementGuid>
+      <webElementGuid>dd56f298-17a3-4ae2-94d4-f6d6e34c868e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Register'])[1]/following::a[1]</value>
-      <webElementGuid>8b5177b2-4494-427f-ae14-7de76fa9bebf</webElementGuid>
+      <webElementGuid>0ce050c8-b947-4e0c-8fb4-46a8c782c7ad</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[1]/following::a[2]</value>
-      <webElementGuid>ff13cb63-ac43-49cd-a060-03746d5ad2ba</webElementGuid>
+      <webElementGuid>245a1657-64f2-4404-90e0-805361d1bf79</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tummypedia'])[1]/preceding::a[1]</value>
-      <webElementGuid>156d6166-091d-4e5c-9b70-321f3b446baf</webElementGuid>
+      <webElementGuid>89b6c7cd-2bd8-4149-9dfa-fa97c3e9b1b6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='BebeStory'])[1]/preceding::a[2]</value>
-      <webElementGuid>a4799ce4-1f42-41e5-a9c2-25a3c43dfedb</webElementGuid>
+      <webElementGuid>89a87f58-ea02-4e11-a378-dba9a3b88917</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Tools']/parent::*</value>
-      <webElementGuid>d244c963-cad8-4aeb-b45e-4d5eebb9b1d7</webElementGuid>
+      <webElementGuid>0db6a916-8e9b-4955-a05d-0c49e5b60f13</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/tools')]</value>
-      <webElementGuid>c3c8e160-a859-41ba-92c6-065aa8110cc4</webElementGuid>
+      <webElementGuid>fb8668cf-f584-426b-af5c-5bc6e84eefeb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li/a</value>
-      <webElementGuid>1d550a66-eafe-4bc5-ad16-bd6abd6f11cf</webElementGuid>
+      <webElementGuid>1219ef31-4d37-411f-88ae-f88a1d759aed</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '/tools' and (text() = 'Tools' or . = 'Tools')]</value>
-      <webElementGuid>43f32b3e-8310-4721-9b02-cf14bed8c4a9</webElementGuid>
+      <webElementGuid>c9e3f372-43bc-45b7-a869-dd299d029bda</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Dropdown Tools - Bebejourney</name>
+   <name>a_Bebejourney</name>
    <tag></tag>
-   <elementGuidId>35b06c44-d169-4ddc-a095-2e82166bcba9</elementGuidId>
+   <elementGuidId>1e8d8f5b-d3b7-41ea-92a0-ed5406d83c90</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>8c03d3d8-7611-4156-81d4-709581b5128f</webElementGuid>
+      <webElementGuid>26f7967d-2a42-49fd-9dc2-36f408aacba8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/tools/bebe-journey</value>
-      <webElementGuid>9693ed9c-8c24-4702-ad6b-328ef44e724b</webElementGuid>
+      <webElementGuid>b250bb1b-303d-43a1-a4a9-164bc17dcc7c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Bebejourney</value>
-      <webElementGuid>a5ad2c0d-4fbd-4ff3-b55e-fc2caae5d373</webElementGuid>
+      <webElementGuid>7ff51996-3826-4236-ba3f-059ed17f9e43</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,15 +46,15 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/div[@class=&quot;headers-menu&quot;]/div[@class=&quot;headers-menu_iner&quot;]/div[@class=&quot;container_fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col&quot;]/div[@class=&quot;headers-menu_logo&quot;]/div[@class=&quot;headers-menu_items&quot;]/ul[@class=&quot;headers-menu_items_nav&quot;]/li[@class=&quot;headers-menu_items_li have-sub&quot;]/ul[@class=&quot;headers-menu_items_sub&quot;]/li[3]/a[1]</value>
-      <webElementGuid>ebe8119b-93a9-47ac-bcfd-7eb892d35c27</webElementGuid>
+      <webElementGuid>22c4c84f-830b-4f5c-ba30-e77eef43db3f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Bebejourney')]</value>
-      <webElementGuid>5ba78b1c-860e-4c05-b7f9-8a5aa6043764</webElementGuid>
+      <webElementGuid>534b1565-beb7-4c92-9a64-668280b60f42</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='BebeStory'])[1]/following::a[1]</value>
-      <webElementGuid>cb4aab96-5b91-4ee2-8907-d0c312e77912</webElementGuid>
+      <webElementGuid>068b67f7-7f26-41c0-93a4-f582863624b9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tummypedia'])[1]/following::a[2]</value>
-      <webElementGuid>209b9b97-9915-4d17-a39a-414c316b8259</webElementGuid>
+      <webElementGuid>b2062468-d134-4ed6-a50a-4764ee6e1780</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Allergy Checker'])[1]/preceding::a[1]</value>
-      <webElementGuid>7cbdd3da-b3ae-4ea8-94af-ee3e7318503a</webElementGuid>
+      <webElementGuid>845716b4-948d-4536-b2d4-41fea007950e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Promo &amp; Event'])[1]/preceding::a[2]</value>
-      <webElementGuid>44220e06-dfbe-47fa-9a5c-c2f8fb845f43</webElementGuid>
+      <webElementGuid>b1479273-bd82-4420-b9eb-76ac83a67d62</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Bebejourney']/parent::*</value>
-      <webElementGuid>2f1fc765-2cda-4213-8731-d3cb3128451b</webElementGuid>
+      <webElementGuid>5824e339-93a9-4aa4-8dba-ce82acf5a544</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/tools/bebe-journey')]</value>
-      <webElementGuid>607511ab-3898-499e-a811-617173e178eb</webElementGuid>
+      <webElementGuid>1b704fff-5e4d-4c13-a5ef-fd403779f3e5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li/ul/li[3]/a</value>
-      <webElementGuid>e67ccad7-af93-4e6c-a2c2-e156d0fccdee</webElementGuid>
+      <webElementGuid>6f1e89ee-0cdd-4862-ad19-a9d92cc4d9c6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,30 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '/tools/bebe-journey' and (text() = 'Bebejourney' or . = 'Bebejourney')]</value>
-      <webElementGuid>cdc2136f-f499-4fc9-a281-9fffacfb200b</webElementGuid>
+      <webElementGuid>f98c4b74-6160-4708-a79b-82e6a304da01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tummypedia'])[1]/following::a[1]</value>
+      <webElementGuid>56eebb60-766f-401a-93e9-185126aff40e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bebestory'])[1]/following::a[2]</value>
+      <webElementGuid>a44ed660-1983-4486-8227-77f8d2601fc4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/ul/li[3]/a</value>
+      <webElementGuid>75bc4075-7251-4a9f-b8af-36e06daaeaa8</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

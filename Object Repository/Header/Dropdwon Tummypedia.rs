@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>bba61acd-3712-4074-9cd2-bcbfa731ee5c</webElementGuid>
+      <webElementGuid>8dbaec5c-804b-405b-8f67-d7a3d168f161</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/tools/tummypedia</value>
-      <webElementGuid>c58afda2-e4bd-448b-a2cf-41579d975486</webElementGuid>
+      <webElementGuid>442066bc-078d-47ce-9468-725052eed444</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Tummypedia</value>
-      <webElementGuid>71c324a0-eaf9-4684-a084-e3e7fe089024</webElementGuid>
+      <webElementGuid>a61bf6b5-36fc-431e-9e6e-4f1c9f6c720c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,15 +46,15 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/div[@class=&quot;headers-menu&quot;]/div[@class=&quot;headers-menu_iner&quot;]/div[@class=&quot;container_fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col&quot;]/div[@class=&quot;headers-menu_logo&quot;]/div[@class=&quot;headers-menu_items&quot;]/ul[@class=&quot;headers-menu_items_nav&quot;]/li[@class=&quot;headers-menu_items_li have-sub&quot;]/ul[@class=&quot;headers-menu_items_sub&quot;]/li[1]/a[1]</value>
-      <webElementGuid>aaf34d01-082d-4b87-af50-58f9bd18b75a</webElementGuid>
+      <webElementGuid>90879caa-f552-49e2-bf25-77f6bf189623</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Tummypedia')]</value>
-      <webElementGuid>362f0841-9912-4f98-a68b-7b7f0b578ce5</webElementGuid>
+      <webElementGuid>34888027-9077-4889-b1db-245dab4a03c8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tools'])[1]/following::a[1]</value>
-      <webElementGuid>0bb157e2-0462-4bab-9913-ae7f9955647b</webElementGuid>
+      <webElementGuid>18afa99b-995c-45d9-9225-296eeb3425b6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Register'])[1]/following::a[2]</value>
-      <webElementGuid>d22032c4-3ec3-4b96-b38e-b8907aebba1a</webElementGuid>
+      <webElementGuid>ba33e24b-68b4-4c24-94cf-d84721234ca7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='BebeStory'])[1]/preceding::a[1]</value>
-      <webElementGuid>f482bdf2-e0a2-4cfb-9e1f-ad28bd3a65d7</webElementGuid>
+      <webElementGuid>629fb361-bb21-4252-8e10-fba9fb9a0c01</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Bebejourney'])[1]/preceding::a[2]</value>
-      <webElementGuid>f6e075ac-e527-42f8-ad41-35b41ab28148</webElementGuid>
+      <webElementGuid>6d1a2185-15ae-4128-a278-7417f978d123</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Tummypedia']/parent::*</value>
-      <webElementGuid>e737f3ad-8f87-4d41-9e8c-ecf7d4b795fc</webElementGuid>
+      <webElementGuid>8e7fdf89-a1d7-495e-8f6f-6ce58b419557</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/tools/tummypedia')]</value>
-      <webElementGuid>212385c7-050c-4ebe-9d17-09ec7b96809d</webElementGuid>
+      <webElementGuid>88809651-824c-42c1-a522-e7996e890e84</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li/ul/li/a</value>
-      <webElementGuid>5f17c298-4d23-4d5b-8f13-577ace15a50b</webElementGuid>
+      <webElementGuid>f8b498a7-b4a8-4c03-82a6-d7513aef3865</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '/tools/tummypedia' and (text() = 'Tummypedia' or . = 'Tummypedia')]</value>
-      <webElementGuid>807dc7c4-f488-4dfd-88bb-7e4b8a3b28dd</webElementGuid>
+      <webElementGuid>52c5bb12-259a-4320-b3cd-6e30d0de7d49</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

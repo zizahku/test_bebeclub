@@ -6,11 +6,11 @@
    <elementGuidId>43a48c98-94e7-4dc7-b841-19bcfed00799</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//a[contains(text(),'Members')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>e8870d58-b6bd-4b51-85c4-f4a87c1883bf</webElementGuid>
+      <webElementGuid>190f0e8c-2d7d-4ad1-912a-028c57c0d18d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -29,7 +29,7 @@
       <name>href</name>
       <type>Main</type>
       <value>https://bebeclub.co.id/membership</value>
-      <webElementGuid>fa201d15-27c2-4eb8-9eea-e6a4bb544cdf</webElementGuid>
+      <webElementGuid>4f29be0f-b3ed-439d-afc8-7b2b92fc74db</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Members</value>
-      <webElementGuid>bb42086b-0ee3-4695-8213-4c3629a0b52f</webElementGuid>
+      <webElementGuid>3b93bc89-8e27-4482-b99d-0b22c6f5021d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,15 +45,15 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/div[@class=&quot;headers-menu&quot;]/div[@class=&quot;headers-menu_iner&quot;]/div[@class=&quot;container_fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col&quot;]/div[@class=&quot;headers-menu_logo&quot;]/div[@class=&quot;headers-menu_items&quot;]/ul[@class=&quot;headers-menu_items_nav&quot;]/li[@class=&quot;headers-menu_items_li have-sub&quot;]/a[1]</value>
-      <webElementGuid>8e64e7b3-f4b4-4fe6-87d7-d8ad1d4d45c3</webElementGuid>
+      <webElementGuid>a82c5c89-5b3f-43bf-b9a3-a9ca3476accf</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Members')]</value>
-      <webElementGuid>6ce08614-e564-42d4-ac9b-6f5a6d33c85e</webElementGuid>
+      <webElementGuid>64db1e67-1940-4fc5-8209-25d24e1eda01</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Promo &amp; Event'])[1]/following::a[1]</value>
-      <webElementGuid>462ea4cf-16a9-4684-83b7-d24a42566d5c</webElementGuid>
+      <webElementGuid>f7e391cf-1f7a-4775-9ce7-ed10a945588b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Allergy Checker'])[1]/following::a[2]</value>
-      <webElementGuid>44441b1c-4a90-430d-91e3-25648e213897</webElementGuid>
+      <webElementGuid>1357fec7-803d-458d-8f28-31a72079e194</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Upload Struk'])[1]/preceding::a[1]</value>
-      <webElementGuid>cd924633-66fb-4261-a371-40abdf356d7e</webElementGuid>
+      <webElementGuid>262273eb-4870-44be-8a80-177d35b0f3b8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Produk'])[1]/preceding::a[2]</value>
-      <webElementGuid>10d37dcf-5945-41bd-a409-373e8c4dd508</webElementGuid>
+      <webElementGuid>e4b75f1c-f7b5-4e0b-958c-081413ba2a49</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Members']/parent::*</value>
-      <webElementGuid>cdd31171-b424-4523-bbc3-3f42f5ab1bb1</webElementGuid>
+      <webElementGuid>6ffa47dc-e6d6-41b6-ac33-80c1730ba50f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'https://bebeclub.co.id/membership')]</value>
-      <webElementGuid>cc52d127-3138-48b6-a11b-949918ae0592</webElementGuid>
+      <webElementGuid>6f955f3a-a6e6-406e-a7fb-08e61433dcd5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[3]/a</value>
-      <webElementGuid>c4601f49-8639-4a51-b1dd-92c2a72d7091</webElementGuid>
+      <webElementGuid>dc9b9e64-f177-4a8f-a8c2-d6f1aeba70fc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,6 +117,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'https://bebeclub.co.id/membership' and (text() = 'Members' or . = 'Members')]</value>
-      <webElementGuid>f17f878c-e580-4e15-8468-18cd863ef9b6</webElementGuid>
+      <webElementGuid>7e225b30-3bd5-4d79-81e7-7b3459518047</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
