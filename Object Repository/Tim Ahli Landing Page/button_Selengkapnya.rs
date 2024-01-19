@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Selengkapnya</name>
+   <tag></tag>
+   <elementGuidId>f579c138-8208-4de7-bde2-43bd593a1004</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@onclick='readMore(this)']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn-more-less-view</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>71039e9c-5e66-4982-9fdf-b02028b03874</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:</value>
+      <webElementGuid>5338b6f3-ea98-4c9e-842a-27b9761c1796</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-more-less-view</value>
+      <webElementGuid>c06768bd-d71c-4969-9ee9-91e88989a3b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>readMore(this)</value>
+      <webElementGuid>6a795e48-1b8e-4e9d-8989-16393365ab52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Selengkapnya
+
+</value>
+      <webElementGuid>12133240-2191-4b97-b1a2-1b5a1fae07b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;eeat-editorial&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12 headline&quot;]/div[@class=&quot;morelessview&quot;]/button[@class=&quot;btn-more-less-view&quot;]</value>
+      <webElementGuid>f5f9347b-5339-471e-96ea-067e3dde7f2f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@onclick='readMore(this)']</value>
+      <webElementGuid>d4bcaf09-c720-4e35-b031-a0a28818ebdd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='eeat-editorial']/div[2]/div/div/div[4]/button</value>
+      <webElementGuid>f5eb619d-b190-4c2a-a131-8142d7d66bc2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Memastikan tim internal Bebeclub ikut serta dalam setiap proses yang telah disebutkan di atas.'])[1]/following::button[1]</value>
+      <webElementGuid>b140dac5-26c1-4ad2-9d64-9ca14900e0ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Setiap artikel memiliki tanggal dan waktu penerbitan.'])[1]/following::button[1]</value>
+      <webElementGuid>b3a76705-fcf1-4262-840b-f1ca208cb8bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Artikel Terbaru'])[1]/preceding::button[1]</value>
+      <webElementGuid>55e84869-f5a0-4a4b-9d6d-da17192ad7bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tumbuh Kembang'])[3]/preceding::button[1]</value>
+      <webElementGuid>3dfe48f3-46f0-4fde-8630-0680cf676c16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Selengkapnya']/parent::*</value>
+      <webElementGuid>68f8d3c6-1d9c-4c02-a9b2-f5bfadf311b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>c7e46502-7237-4910-8662-2fa284118bd8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@href = 'javascript:' and (text() = 'Selengkapnya
+
+' or . = 'Selengkapnya
+
+')]</value>
+      <webElementGuid>7c81193f-43f1-4f6d-b115-0676bdcb0d36</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

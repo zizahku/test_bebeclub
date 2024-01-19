@@ -29,9 +29,14 @@ WebUI.setText(findTestObject('Bebe Journey page/Form Nomor Handphone'), '0857840
 
 WebUI.setEncryptedText(findTestObject('Bebe Journey page/Form Kata Sandi_password'), 'iFGeFYmXIrUhQZHvW7P22w==')
 
+'step for fill out captcha'
+WebUI.delay(10)
+
 WebUI.click(findTestObject('Bebe Journey page/Button Login'))
 
 WebUI.verifyTextPresent('Selamat Datang', false)
 
 WebUI.click(findTestObject('Bebe Journey page/close greeting popup'))
+
+WebUI.verifyTextPresent('zizah', false)
 

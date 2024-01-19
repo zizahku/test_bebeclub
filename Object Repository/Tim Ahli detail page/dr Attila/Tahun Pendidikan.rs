@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Tahun Pendidikan</name>
+   <tag></tag>
+   <elementGuidId>ee9d23c9-1da5-47c1-ad7b-b50a52f93cb6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#years-font</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='years-font']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9d14ca72-bb20-4d82-9b86-88309613330a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>years-font</value>
+      <webElementGuid>b3ada978-0cfe-4e7e-b3bd-9ae110a4b4b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-4 col-md-4 col-lg-4 col-sm-4 col-xs-4 jarak</value>
+      <webElementGuid>cdfe89f7-09b8-4cd3-a37e-e0cbb7490ddd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+1998
+</value>
+      <webElementGuid>18c4c1c6-721b-4754-a093-5408fad54d34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;hero-contributor&quot;]/div[@class=&quot;hero-contributor__container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 col-xs-12 col-sm-12 col-md-6 col-lg-6&quot;]/div[@class=&quot;mt-2 mb-2&quot;]/div[@class=&quot;row&quot;]/div[@id=&quot;years-font&quot;]</value>
+      <webElementGuid>7881a4d6-6c36-4d86-bd17-cb9ab182a820</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='years-font']</value>
+      <webElementGuid>7bf23a23-339c-472e-a9a3-67a802c858c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pendidikan'])[1]/following::div[3]</value>
+      <webElementGuid>a7e16db4-4624-4789-abdc-562ac082a0d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Profil Profesional >'])[1]/following::div[7]</value>
+      <webElementGuid>e6be3560-862d-41d3-a65e-b50e4052680e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pengalaman'])[1]/preceding::div[12]</value>
+      <webElementGuid>4220f59c-8624-454f-b6aa-1525ef1331d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Artikel Lain'])[1]/preceding::div[26]</value>
+      <webElementGuid>6fe90037-5649-4c6d-815b-12481041e39c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='1998']/parent::*</value>
+      <webElementGuid>fc2e3092-92d7-4b16-a1a8-8f56cf37148c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div/div/div/div</value>
+      <webElementGuid>804e9224-bdaf-405b-b1b3-8e90bcf9fcf5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'years-font' and (text() = '
+1998
+' or . = '
+1998
+')]</value>
+      <webElementGuid>e8dfba33-241e-4173-aed3-fb4904eae9d2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

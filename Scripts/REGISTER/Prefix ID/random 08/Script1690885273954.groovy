@@ -40,14 +40,14 @@ String randomPhoneNumber = generateRandomPhoneNumber()
 println("Nomor telepon acak dengan kondisi: $randomPhoneNumber")
 
 // Ganti "idField" dengan ID elemen field yang ingin diisi dengan angka acak
-WebUI.setText(findTestObject('Membership Registration/input__number-form'), randomPhoneNumber)
+WebUI.setText(findTestObject('Membership Registration/Nomor Handphone'), randomPhoneNumber)
 
-WebUI.setEncryptedText(findTestObject('Membership Registration/input_Password_pass-form'), 'iFGeFYmXIrUhQZHvW7P22w==')
+WebUI.setEncryptedText(findTestObject('Membership Registration/Password'), 'iFGeFYmXIrUhQZHvW7P22w==')
 
 WebUI.setEncryptedText(findTestObject('Membership Registration/input_Konfirmasi Password_konfirmasipass-form'), 
     'iFGeFYmXIrUhQZHvW7P22w==')
 
-WebUI.selectOptionByLabel(findTestObject('Membership Registration/select_Pilih Kondisi Ibu Saat Ini'), 'Belum Hamil & Tidak Mempunyai Anak', 
+WebUI.selectOptionByLabel(findTestObject('Membership Registration/Pilih Kondisi Ibu Saat Ini'), 'Belum Hamil & Tidak Mempunyai Anak', 
     false //WebUI.getAlertText()
     )
 

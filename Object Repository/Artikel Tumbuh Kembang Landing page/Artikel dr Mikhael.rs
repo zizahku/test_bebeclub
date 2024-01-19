@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Artikel dr Mikhael</name>
+   <tag></tag>
+   <elementGuidId>da27bd9a-4625-41c5-bfcd-e25cbf3f0eb5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='372410']/article/div[2]/a/h3</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#372410 > article.card > div.card__content > a > h3.card__title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>2871ebd4-948f-4cd4-8a5d-108d8caf2e7a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>card__title</value>
+      <webElementGuid>c4b40130-32ec-4201-a9e8-57ce7e458a33</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ingin Anak Cepat Tinggi? Coba 6 Tips Sehat untuk Si Kecil Ini!</value>
+      <webElementGuid>6f217866-f61f-4ef3-a420-b5583f2ab117</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;372410&quot;)/article[@class=&quot;card&quot;]/div[@class=&quot;card__content&quot;]/a[1]/h3[@class=&quot;card__title&quot;]</value>
+      <webElementGuid>76971fdd-0bc6-4358-8ea9-5ff9bac902e0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='372410']/article/div[2]/a/h3</value>
+      <webElementGuid>527e0494-7917-44a4-bbf7-aa73325cd9e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tumbuh Kembang'])[13]/following::h3[1]</value>
+      <webElementGuid>d2783743-0e32-4eec-b8ef-b798ff7bf899</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dr. dr. Ray Wagiu Basrowi, MKK'])[2]/following::h3[1]</value>
+      <webElementGuid>0eb1a5c7-0010-491c-8f43-efb1a9b33897</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tim Penulis'])[9]/preceding::h3[1]</value>
+      <webElementGuid>0dc6560f-e54d-404d-8d54-6900852b172b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Ingin Anak Cepat Tinggi? Coba 6 Tips Sehat untuk Si Kecil Ini!']/parent::*</value>
+      <webElementGuid>ef69ad31-872d-488e-82f6-6c8a37386157</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/article/div[2]/a/h3</value>
+      <webElementGuid>1d17adde-d6f7-44f9-b43d-24b3aae4f5c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'Ingin Anak Cepat Tinggi? Coba 6 Tips Sehat untuk Si Kecil Ini!' or . = 'Ingin Anak Cepat Tinggi? Coba 6 Tips Sehat untuk Si Kecil Ini!')]</value>
+      <webElementGuid>0d6c6829-7a72-41c6-8d27-b06a4136e6ac</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

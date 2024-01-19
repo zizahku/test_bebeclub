@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login via header without fill out form</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>84b54065-1af3-48ee-8652-ee56dec7bdfa</testCaseGuid>
+</TestCaseEntity>

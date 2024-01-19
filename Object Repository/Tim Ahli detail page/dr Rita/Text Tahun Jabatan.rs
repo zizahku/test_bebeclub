@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Text Tahun Jabatan</name>
+   <tag></tag>
+   <elementGuidId>28512743-34e1-4ab6-b681-d9f0a7a71e72</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.mt-2.mb-4 > div.row > #years-font</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@id='years-font'])[5]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1874fab6-c83c-4250-a682-22a01adb8640</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>years-font</value>
+      <webElementGuid>7067fc48-4328-48c7-b825-5290b32afea5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-4 col-md-4 col-lg-4 col-sm-4 col-xs-4 jarak</value>
+      <webElementGuid>d3983e80-0be8-4cc6-8d3e-55039643bd6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+2023
+</value>
+      <webElementGuid>df7f0ff7-ddd0-4751-9dd9-bfd8f1df5a12</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;hero-contributor&quot;]/div[@class=&quot;hero-contributor__container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 col-xs-12 col-sm-12 col-md-6 col-lg-6 jarak-reviewer&quot;]/div[@class=&quot;mt-2 mb-4&quot;]/div[@class=&quot;row&quot;]/div[@id=&quot;years-font&quot;]</value>
+      <webElementGuid>6456d55d-58b4-409c-930e-316c4877fa63</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//div[@id='years-font'])[5]</value>
+      <webElementGuid>0e23dd4a-544f-4a86-9a80-0b1ca9b9aa6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pengalaman'])[1]/following::div[3]</value>
+      <webElementGuid>4dc842da-fdf8-415a-b95f-25f772121338</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pendidikan'])[1]/following::div[14]</value>
+      <webElementGuid>4da6cb9a-c82c-4ccf-b04c-91206993cf8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Artikel Lain'])[1]/preceding::div[13]</value>
+      <webElementGuid>ddca4302-3551-444e-8e8c-9975bf0ba6ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nutrisi'])[3]/preceding::div[17]</value>
+      <webElementGuid>d1fa24c7-8d94-4fd5-84e7-2c27fd5797a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='2023']/parent::*</value>
+      <webElementGuid>e986d803-99a9-4838-82c2-b50605f064cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div</value>
+      <webElementGuid>fef5020d-8c81-4c74-9be0-c4c436ddea3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'years-font' and (text() = '
+2023
+' or . = '
+2023
+')]</value>
+      <webElementGuid>6e50f74e-dd33-44e7-af76-7d38d39d2517</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

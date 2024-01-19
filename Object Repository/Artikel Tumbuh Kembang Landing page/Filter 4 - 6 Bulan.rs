@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Filter 4 - 6 Bulan</name>
+   <tag></tag>
+   <elementGuidId>f806a48b-c5a9-4aa2-9968-15aacfacd4ab</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[@id='ageRange']/div)[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>503ec5c8-e20c-4914-9798-2080564c1644</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ageRange-container</value>
+      <webElementGuid>5c28b77b-9611-4bd2-be35-22f95f61d744</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>                                                                                                              4 - 6 Bulan                              </value>
+      <webElementGuid>11d2032b-c939-473d-a983-aa6db0abc2a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;pimcore_area_landing-article-list pimcore_area_content&quot;]/div[@class=&quot;article-milestone&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;new-milestone&quot;]/div[@class=&quot;milestone-new swiper-container swiper-container-initialized swiper-container-horizontal swiper-container-pointer-events&quot;]/div[@class=&quot;swiper-wrapper&quot;]/a[@id=&quot;ageRange&quot;]/div[@class=&quot;ageRange-container&quot;]</value>
+      <webElementGuid>a51b31cc-0344-4728-a4e5-b62f28b3d8c2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//a[@id='ageRange']/div)[2]</value>
+      <webElementGuid>2dc7e803-7b14-4cfe-a9e1-39ff882c0740</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='perkembangan'])[1]/following::div[6]</value>
+      <webElementGuid>d64c58a6-7f33-44a2-a280-6c64dfe28213</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tumbuh Kembang'])[5]/preceding::div[21]</value>
+      <webElementGuid>0d965613-75e6-46bd-abb9-ba31e3d8b9d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Berapa Berat Badan Ideal Anak 1 Tahun?'])[1]/preceding::div[22]</value>
+      <webElementGuid>2f3b460b-6930-4813-8727-d5bed56753b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]/div</value>
+      <webElementGuid>606580da-efa8-4d31-8967-8f9b88542210</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '                                                                                                              4 - 6 Bulan                              ' or . = '                                                                                                              4 - 6 Bulan                              ')]</value>
+      <webElementGuid>227e0b23-8d41-4cb0-a4b6-75aa33b15ed3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

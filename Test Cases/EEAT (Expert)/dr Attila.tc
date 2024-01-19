@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Ensure the head of expert team
+
+
+1. Entry point by Tim Ahli landing page (icon profil)
+
+
+2. Entry point by landing page (text profil)
+
+
+3. Entry point by Artikel
+
+
+4. Ensure breadcrumb Beranda is clickable and will redirect to Beranda
+
+
+5. Ensure breadcrumb Tim Ahli is clickable and will navigate to Tim Ahli Landing page
+
+
+6. Verify text Kepala Staff Ahli (font size, color, font type)
+
+
+7. Verify Nama Kepala Staff (font size, color, font type)
+8. Verify Profil Professional (font size, color, font type, clickable)
+
+9. Verify Profile Summary
+
+10. Verify Pengalaman (font size, color)
+
+11. Verify isi pengalaman (font size, color, font type)
+
+12. Verify Pendidikan (font size, color)
+
+13. Verify isi Pendidikan (font size, color, font type)
+
+14. Verify text artikel lain yang ditinjau dr wagiu (font size, font color, font type, line)
+
+15. Verify artikel yang sudah direview
+
+16. Verify button Lihat Selengkapnya
+
+17. Verify Artikel status 200</description>
+   <name>dr Attila</name>
+   <tag>Daily Check</tag>
+   <comment></comment>
+   <testCaseGuid>cecc1d5e-3d80-4f91-8248-3f63a5c45d9c</testCaseGuid>
+</TestCaseEntity>

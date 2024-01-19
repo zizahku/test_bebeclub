@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Profil Image Head (Clickable)</name>
+   <tag></tag>
+   <elementGuidId>f8351d51-74b0-4620-8d6a-b94f4b25dbf5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[@alt='Dr. dr. Ray Wagiu Basrowi, MKK, Kepala Staf Ahli Bebeclub']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.mt-3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>c06fc3e2-6a55-4c97-9aca-8c2e519d8c21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mt-3</value>
+      <webElementGuid>1f322c9f-7def-480f-a6c6-936776bce9c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://d24eqpince6acm.cloudfront.net/_default_upload_bucket/10001830%201.png</value>
+      <webElementGuid>c7a04130-29e0-454e-b32c-e7f9c3a48c33</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Dr. dr. Ray Wagiu Basrowi, MKK, Kepala Staf Ahli Bebeclub</value>
+      <webElementGuid>0e68de82-4c03-43da-9ab0-6d87e45ee5c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Dr. dr. Ray Wagiu Basrowi, MKK, Kepala Staf Ahli Bebeclub</value>
+      <webElementGuid>e5ef44e1-d46a-4583-a2fc-b64eb18dd804</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-pagespeed-url-hash</name>
+      <type>Main</type>
+      <value>76759829</value>
+      <webElementGuid>8c1dcc40-51ae-4427-a447-77bfad5579ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onload</name>
+      <type>Main</type>
+      <value>pagespeed.CriticalImages.checkImageForCriticality(this);</value>
+      <webElementGuid>8d3e3c1a-85d2-4ddd-b97c-3e150d872bce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/main[1]/div[@class=&quot;pimcore_area_eeat-team-reviewer pimcore_area_content&quot;]/section[@class=&quot;hero-contributor&quot;]/div[@class=&quot;col-md-12 headline mt-3 headline-reviewer&quot;]/div[@class=&quot;hero-contributor__img text-center&quot;]/a[1]/img[@class=&quot;mt-3&quot;]</value>
+      <webElementGuid>5bfeb543-26e3-4a71-830b-109799ceb472</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Dr. dr. Ray Wagiu Basrowi, MKK, Kepala Staf Ahli Bebeclub']</value>
+      <webElementGuid>89e63f03-b3d2-47c9-af2c-e7f57913c661</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/a/img</value>
+      <webElementGuid>e0e8f39e-e069-4cae-954a-feabd1ee8b06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://d24eqpince6acm.cloudfront.net/_default_upload_bucket/10001830%201.png' and @alt = 'Dr. dr. Ray Wagiu Basrowi, MKK, Kepala Staf Ahli Bebeclub' and @title = 'Dr. dr. Ray Wagiu Basrowi, MKK, Kepala Staf Ahli Bebeclub']</value>
+      <webElementGuid>96217ca7-bcf8-433c-afc8-aeb05a408b25</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

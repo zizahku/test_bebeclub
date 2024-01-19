@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Filter 3 Tahun ke Atas</name>
+   <tag></tag>
+   <elementGuidId>604edd9e-9594-42bb-b525-2a734aca776f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[@id='ageRange']/div)[7]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>79e26672-d4d1-42fe-97eb-0a19ad5ef0ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ageRange-container</value>
+      <webElementGuid>fe50c9eb-76ca-4a46-9c8d-22a4abf5b9ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>                                                                                                              3 Tahun ke Atas                              </value>
+      <webElementGuid>aeef7a84-2f10-49f7-941e-5640e97332d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;pimcore_area_landing-article-list pimcore_area_content&quot;]/div[@class=&quot;article-milestone&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;new-milestone&quot;]/div[@class=&quot;milestone-new swiper-container swiper-container-initialized swiper-container-horizontal swiper-container-pointer-events&quot;]/div[@class=&quot;swiper-wrapper&quot;]/a[@id=&quot;ageRange&quot;]/div[@class=&quot;ageRange-container&quot;]</value>
+      <webElementGuid>09c4e747-fcbf-4bc1-8fa6-204699b13f89</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//a[@id='ageRange']/div)[7]</value>
+      <webElementGuid>8fd1ec7d-3fa6-4fe4-89fa-6b0ba37437af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='perkembangan'])[1]/following::div[16]</value>
+      <webElementGuid>5c89aae8-15e3-49da-84d5-f08f3a0fb14d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tumbuh Kembang'])[5]/preceding::div[11]</value>
+      <webElementGuid>691ffdeb-284f-4140-aaa3-8a1f3a154a82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Berapa Berat Badan Ideal Anak 1 Tahun?'])[1]/preceding::div[12]</value>
+      <webElementGuid>7944f68f-b42e-41af-af89-cbcd02c42f64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[7]/div</value>
+      <webElementGuid>487f0ddf-9979-4ece-b3db-5fe1b11a1d40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '                                                                                                              3 Tahun ke Atas                              ' or . = '                                                                                                              3 Tahun ke Atas                              ')]</value>
+      <webElementGuid>19a74c58-c0a9-404f-b051-9e74b22736ac</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

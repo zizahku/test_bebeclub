@@ -1,6 +1,7 @@
-
-/bin/
-/Libs/
-/.settings/
-/.classpath
-.svn/
+**/bin/
+**/Libs/
+**/.settings/
+**/.classpath
+**/.svn/
+**/Reports/
+**/settings/internal/com.kms.katalon.composer.testcase.properties

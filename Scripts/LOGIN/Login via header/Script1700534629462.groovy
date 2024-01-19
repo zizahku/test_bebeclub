@@ -25,6 +25,9 @@ WebUI.setText(findTestObject('Login Page/form input nomor hp'), '085784018007')
 
 WebUI.setEncryptedText(findTestObject('Login Page/form password'), 'iFGeFYmXIrUhQZHvW7P22w==')
 
+'this step is captcha, we will make it delay for 10 second'
+WebUI.delay(10)
+
 WebUI.click(findTestObject('Login Page/buttonLogin'))
 
 WebUI.verifyTextPresent('Login Berhasil', false)
