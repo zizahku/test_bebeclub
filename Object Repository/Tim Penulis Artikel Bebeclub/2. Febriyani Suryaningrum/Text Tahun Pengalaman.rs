@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Text Tahun Pengalaman</name>
+   <tag></tag>
+   <elementGuidId>31cb9d56-a16f-4e67-b44a-4b2ac7b654ff</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@id='years-font'])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.mt-2.mb-5 > div.row > #years-font</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>38973621-122c-4529-a38c-626feccfdfa8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>years-font</value>
+      <webElementGuid>063a1823-74ed-4ed9-a991-aa02e8ee35bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-4 col-md-4 col-lg-4 col-sm-4 col-xs-4 jarak</value>
+      <webElementGuid>71aab790-2940-459b-a4c6-acddbbdd5040</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+2018
+</value>
+      <webElementGuid>2e7c0153-f938-4cae-a3d8-e1fa6cc45e3e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;hero-contributor&quot;]/div[@class=&quot;hero-contributor__container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 col-xs-12 col-sm-12 col-md-6 col-lg-6 jarak-reviewer&quot;]/div[@class=&quot;mt-2 mb-5&quot;]/div[@class=&quot;row&quot;]/div[@id=&quot;years-font&quot;]</value>
+      <webElementGuid>0d9587e3-8384-48f4-b5f7-a328b08a45be</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//div[@id='years-font'])[2]</value>
+      <webElementGuid>5aa7bb97-4008-4d83-8791-12332eb5a724</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pengalaman'])[1]/following::div[3]</value>
+      <webElementGuid>a948d3b8-886f-454e-bc00-75fb055e204c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pendidikan'])[1]/following::div[8]</value>
+      <webElementGuid>81f39118-0b46-4a57-97a9-25e30627391b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ibu Perlu Tahu'])[3]/preceding::div[15]</value>
+      <webElementGuid>df625a74-23d0-41a6-b959-b6fb9e0571e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='2018']/parent::*</value>
+      <webElementGuid>9a031bcb-066d-45f8-8a7a-9fa4167bd485</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div</value>
+      <webElementGuid>0759efce-8a8f-4a98-9fa3-369529a5a373</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'years-font' and (text() = '
+2018
+' or . = '
+2018
+')]</value>
+      <webElementGuid>ede0fdf3-8205-4dc2-96e0-f789b90e61c9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Text Tempat Kerja</name>
+   <tag></tag>
+   <elementGuidId>becab6e8-d38b-4d3f-a218-a74c98f72099</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Pengalaman'])[1]/following::em[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>em</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>em</value>
+      <webElementGuid>8f470a34-9c31-4e36-b359-ce34c57e296e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Detikcom</value>
+      <webElementGuid>80b750ed-0ae9-4b15-ae5a-0b1960d7e665</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;hero-contributor&quot;]/div[@class=&quot;hero-contributor__container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 col-xs-12 col-sm-12 col-md-6 col-lg-6 jarak-reviewer&quot;]/div[@class=&quot;mt-2 mb-5&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-8 col-md-8 col-lg-8 col-sm-8 col-xs-8 jarak&quot;]/i[1]/p[1]/em[1]</value>
+      <webElementGuid>ec1b52ad-1776-4740-a048-9cb3b2b1d0d8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pengalaman'])[1]/following::em[1]</value>
+      <webElementGuid>19bd15e3-4e84-4eee-9d97-704767071292</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pendidikan'])[1]/following::em[1]</value>
+      <webElementGuid>eea90817-ab2d-4fff-8969-0c3d5b254c92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Umum'])[1]/preceding::em[1]</value>
+      <webElementGuid>8617a39a-e73b-4076-b3d9-fa02e77a0232</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Detikcom']/parent::*</value>
+      <webElementGuid>8ba1fbac-0a69-4ff3-9f80-dc401ed3d3c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//em</value>
+      <webElementGuid>f18178bd-6078-4505-81f2-372e5f9f9091</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//em[(text() = 'Detikcom' or . = 'Detikcom')]</value>
+      <webElementGuid>db69e5ce-d161-4e93-9f60-305b2003e0f7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

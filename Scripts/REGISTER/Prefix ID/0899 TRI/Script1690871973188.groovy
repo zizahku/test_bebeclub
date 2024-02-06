@@ -22,13 +22,10 @@ WebUI.openBrowser('')
 
 WebUI.maximizeWindow()
 
-WebUI.navigateToUrl('https://bebeclub.eydendigital.co.id/membership/registration')
+WebUI.navigateToUrl('https://www.nutriclub.co.id/account/register')
 
-WebUI.click(findTestObject('Header/a_Register'))
-
-WebUI.setText(findTestObject('null'), 'aziza')
-
-WebUI.setText(findTestObject('null'), 'prefix')
+WebUI.setText(findTestObject('Page_Daftar Membership Nutriclub, Dapatkan Poin dan Keuntungannya/input_Nama Lengkap_Fullname'), 
+    'aziza')
 
 // Generate the last 9 digits randomly
 // Combine the last nine digits with the prefix "0877"
@@ -36,30 +33,34 @@ WebUI.setText(findTestObject('null'), 'prefix')
 String randomNum = generateRandomNumber()
 
 // Ganti "idField" dengan ID elemen field yang ingin diisi dengan angka acak
-WebUI.setText(findTestObject('Membership Registration/Nomor Handphone'), randomNum)
+WebUI.setText(findTestObject('Page_Daftar Membership Nutriclub, Dapatkan Poin dan Keuntungannya/input_No. Handphone (Terhubung Whatsapp)_member_mobilephone'), 
+    randomNum)
 
-WebUI.setEncryptedText(findTestObject('Membership Registration/Password'), 'iFGeFYmXIrUhQZHvW7P22w==')
+WebUI.setText(findTestObject('Page_Daftar Membership Nutriclub, Dapatkan Poin dan Keuntungannya/input_Password_member_password'), 
+    'Password1' //WebUI.setEncryptedText(findTestObject('Membership Registration/input_Konfirmasi Password_konfirmasipass-form'), 
+    ) //    'iFGeFYmXIrUhQZHvW7P22w==')
+//
+//WebUI.selectOptionByLabel(findTestObject('Membership Registration/Pilih Kondisi Ibu Saat Ini'), 'Belum Hamil & Tidak Mempunyai Anak', 
+//    false)
+//
+//WebUI.click(findTestObject('Membership Registration/button_Kirim Kode OTP'))
+//
+//WebUI.delay(4)
+//
+//WebUI.verifyTextPresent('Berhasil', false)
+//
+//WebUI.click(findTestObject('Membership Registration/img'))
 
-WebUI.setEncryptedText(findTestObject('Membership Registration/input_Konfirmasi Password_konfirmasipass-form'), 
-    'iFGeFYmXIrUhQZHvW7P22w==')
+WebUI.click(findTestObject('Page_Daftar Membership Nutriclub, Dapatkan Poin dan Keuntungannya/input_Kondisi Mama saat ini_parent-status'))
 
-WebUI.selectOptionByLabel(findTestObject('Membership Registration/Pilih Kondisi Ibu Saat Ini'), 'Belum Hamil & Tidak Mempunyai Anak', 
-    false)
-
-WebUI.click(findTestObject('Membership Registration/button_Kirim Kode OTP'))
-
-WebUI.delay(4)
-
-WebUI.verifyTextPresent('Berhasil', false)
-
-WebUI.click(findTestObject('Membership Registration/img'))
+WebUI.click(findTestObject('Page_Daftar Membership Nutriclub, Dapatkan Poin dan Keuntungannya/li_Tidak Hamil  Memiliki Anak'))
 
 String generateRandomNumber() {
     Random random = new Random()
 
     String lastNineDigits = String.format('%09d', random.nextInt(1000000000))
 
-    String randomNumber = '0899' + lastNineDigits
+    String randomNumber = '0822' + lastNineDigits
 
     return randomNumber
 }

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Sedang Hamil</name>
+   <tag></tag>
+   <elementGuidId>5f920579-45d3-42ee-a2c0-9d7efb66a9fa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@value='7']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li[value=&quot;7&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>b9fe0a9e-71cb-4601-8f74-f0b174b96c33</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>7</value>
+      <webElementGuid>a3a5b604-3985-4a8f-87a8-8aa052deef66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sedang Hamil</value>
+      <webElementGuid>1191d80d-407d-4a64-be3a-bf38b6ce572e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;select-status&quot;)/li[1]</value>
+      <webElementGuid>67730086-8d27-4a45-a41c-94aea8d14915</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//li[@value='7']</value>
+      <webElementGuid>16778c48-ed2a-4b1c-ad3e-92adb7926dfe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='select-status']/li</value>
+      <webElementGuid>315e4fdb-abc9-4759-a752-538608674c5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kondisi Mama saat ini'])[1]/following::li[1]</value>
+      <webElementGuid>5df862af-0318-4766-8a60-be74cfa027fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::li[1]</value>
+      <webElementGuid>2de71604-408e-4f36-b4c9-2b79e87c86c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sedang Hamil &amp; Memiliki Anak'])[1]/preceding::li[1]</value>
+      <webElementGuid>34d9c5df-3a92-4646-8faa-443f287be33e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tidak Hamil &amp; Memiliki Anak'])[1]/preceding::li[2]</value>
+      <webElementGuid>8344792c-114d-4e26-9f05-3b320db05769</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Sedang Hamil']/parent::*</value>
+      <webElementGuid>389c2564-4501-40f3-a787-74858fb083e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/ul/li</value>
+      <webElementGuid>6c8ca1e7-6936-429e-9784-b502ab91670c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Sedang Hamil' or . = 'Sedang Hamil')]</value>
+      <webElementGuid>f260b943-9484-49be-93c3-513b6c34d766</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

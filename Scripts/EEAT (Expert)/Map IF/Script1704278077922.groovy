@@ -85,7 +85,7 @@ List<TestObject> expectedFontInfo = [['26px', 'rgba(47, 45, 150, 1)'], ['18px', 
     , ['12px', 'rgba(79, 79, 79, 1)'], ['12px', 'rgba(47, 45, 150, 1)'], ['16px', 'rgba(47, 45, 150, 1)'], ['16px', 'rgba(47, 45, 150, 1)']
     , ['16px', 'rgba(47, 45, 150, 1)'], ['16px', 'rgba(47, 45, 150, 1)'], ['16px', 'rgba(47, 45, 150, 1)']]
 
-//Print the size of fontInfoList to check if it's properly populated
+////Print the size of fontInfoList to check if it's properly populated
 //println("Size of fontInfoList: ${fontInfoList.size()}")
 //// Print the font information for each element in fontInfoList
 //for (int i = 0; i < fontInfoList.size(); i++) {
@@ -96,7 +96,7 @@ List<TestObject> expectedFontInfo = [['26px', 'rgba(47, 45, 150, 1)'], ['18px', 
 //}
 // //Print the contents of expectedFontInfo to check if it's properly initialized
 //println("Expected Font Info: ${expectedFontInfo}")
-// Assertion loop
+ //Assertion loop
 for (int i = 0; i < fontInfoList.size(); i++) {
     List<TestObject> expectedValues = expectedFontInfo[i]
 

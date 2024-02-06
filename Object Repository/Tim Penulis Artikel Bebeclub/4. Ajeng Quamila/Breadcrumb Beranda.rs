@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Breadcrumb Beranda</name>
+   <tag></tag>
+   <elementGuidId>c5568d85-3fa8-49ae-bd1d-db4f69a8deed</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Beranda')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.contributor-breadcrumb > ul > li > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b59075ed-6828-490f-9b65-e3a02992789f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/</value>
+      <webElementGuid>d8e0948a-150d-49fa-9adb-ec4f0f5ad988</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Beranda</value>
+      <webElementGuid>df578c77-3dea-4976-9812-bb223e3107a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;hero-contributor&quot;]/div[@class=&quot;container breacrumb_container&quot;]/div[@class=&quot;contributor-breadcrumb&quot;]/ul[1]/li[1]/a[1]</value>
+      <webElementGuid>f59db6a2-5afd-4448-9515-ef7bf4dbf3bf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Beranda')]</value>
+      <webElementGuid>f662ee15-29ba-4e8a-958b-d1dde2f8511f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Resep'])[2]/following::a[1]</value>
+      <webElementGuid>66e780a9-35f1-41be-8559-2ca7a39c5b5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Belajar Di Rumah'])[2]/following::a[2]</value>
+      <webElementGuid>eb8f79f1-62bd-4250-9515-7513538d626f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tim Penulis'])[1]/preceding::a[1]</value>
+      <webElementGuid>d7f4ba83-315d-435d-a3b7-bda45ff14e73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ajeng Quamila'])[1]/preceding::a[2]</value>
+      <webElementGuid>95d2d120-f992-421a-b50e-0077a40821fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Beranda']/parent::*</value>
+      <webElementGuid>fab99eb5-80aa-4571-aaf6-31053b808eb0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/')])[50]</value>
+      <webElementGuid>91f295da-23a1-4b08-be69-71508a93dcfa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/ul/li/a</value>
+      <webElementGuid>0d108782-8187-4d6e-b998-39a50115abed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/' and (text() = 'Beranda' or . = 'Beranda')]</value>
+      <webElementGuid>c5da21bf-b010-4b78-ad10-8ab5b78b1fb5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

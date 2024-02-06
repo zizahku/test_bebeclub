@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Entry Point dari footer
+2. Entry Point by tap on artikel
+3. Verify section
+4. Verify Breadrumb
+5. Verify title text Tim Penulis
+6. Verify subtitle text penulis
+7. Verify total of card is align
+8. Verify each card is clickable
+9. Verify Text proses editorial
+10. Verify subtitle text proses editorial
+11. Verify button selengkapnya buka tutup
+12. Verify artikel lain
+13. Verify artikel
+14. Verify button selengkapnya</description>
+   <name>Annisa Amalia</name>
+   <tag>EEAT</tag>
+   <comment></comment>
+   <testCaseGuid>96f2f653-a746-47b3-bc18-0919fdd93795</testCaseGuid>
+</TestCaseEntity>

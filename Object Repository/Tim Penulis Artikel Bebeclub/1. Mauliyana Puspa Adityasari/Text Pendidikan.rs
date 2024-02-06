@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Text Pendidikan</name>
+   <tag></tag>
+   <elementGuidId>f71213c7-5e35-4b34-84eb-a0023024a256</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Profil Profesional >'])[1]/following::h2[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>578caa0a-3334-40a5-8ea0-48a08a8a0775</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pendidikan</value>
+      <webElementGuid>9851cb1e-41d9-4984-82a3-411cea70a395</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;hero-contributor&quot;]/div[@class=&quot;hero-contributor__container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 col-xs-12 col-sm-12 col-md-6 col-lg-6&quot;]/h2[1]</value>
+      <webElementGuid>03758191-6fb6-4f5d-a7f1-ce8bd5b7aa56</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Profil Profesional >'])[1]/following::h2[1]</value>
+      <webElementGuid>a19628a3-818a-4e29-9548-a13900f81744</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mauliyana Puspa Adityasari'])[1]/following::h2[1]</value>
+      <webElementGuid>0939fa76-faac-48ed-ae7d-139162130721</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pengalaman'])[1]/preceding::h2[1]</value>
+      <webElementGuid>f11e9dd6-8e5d-453e-a344-82ee2de4784b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Pendidikan']/parent::*</value>
+      <webElementGuid>ce2759ca-a814-4772-82bf-6dfed3dcdf77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2</value>
+      <webElementGuid>f74e02c5-2117-4225-809f-71357143975b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'Pendidikan' or . = 'Pendidikan')]</value>
+      <webElementGuid>362490e9-0bb3-4af9-8de7-4cb8f2d72955</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

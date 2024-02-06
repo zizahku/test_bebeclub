@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Text Pengalaman</name>
+   <tag></tag>
+   <elementGuidId>63dfaa64-7309-47e7-8419-e3be37503dff</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Pendidikan'])[1]/following::h2[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h2.section-pengalaman</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>f799afbb-6a2b-4914-a4be-955d6d2dce15</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>section-pengalaman</value>
+      <webElementGuid>9d38b761-c4bd-42ad-ba41-6087de4ffed4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pengalaman</value>
+      <webElementGuid>3573cf53-c16c-47eb-898d-c94523f29831</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;hero-contributor&quot;]/div[@class=&quot;hero-contributor__container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 col-xs-12 col-sm-12 col-md-6 col-lg-6 jarak-reviewer&quot;]/h2[@class=&quot;section-pengalaman&quot;]</value>
+      <webElementGuid>20e923eb-f86f-45f8-84dd-097012d42385</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pendidikan'])[1]/following::h2[1]</value>
+      <webElementGuid>018018c2-32f0-462b-870f-c996af0dab8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Profil Profesional >'])[1]/following::h2[2]</value>
+      <webElementGuid>6dc96bd3-7018-4eed-9ee4-d936210f11fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Detikcom'])[1]/preceding::h2[1]</value>
+      <webElementGuid>9d9d0c38-ed22-469a-b870-707f4569ddb4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Pengalaman']/parent::*</value>
+      <webElementGuid>b2db563e-c463-4521-913f-e5a848ad2051</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/h2</value>
+      <webElementGuid>720abb61-fe2f-4f15-ace1-a9bf23389e6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'Pengalaman' or . = 'Pengalaman')]</value>
+      <webElementGuid>b3e44c45-539d-4ec1-bf5f-f88dc5bc1f63</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

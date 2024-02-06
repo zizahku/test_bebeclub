@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Text Penulis</name>
+   <tag></tag>
+   <elementGuidId>1fbe2395-670f-4920-a897-c4c26b19cd93</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Tim Penulis'])[1]/following::p[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>0c208e44-f6f5-4d81-bc04-4622a2ebf4e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Penulis</value>
+      <webElementGuid>b1ef214b-6810-4659-b400-c3ed656cde81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;hero-contributor&quot;]/div[@class=&quot;hero-contributor__container&quot;]/div[@class=&quot;row profiledesc&quot;]/div[@class=&quot;col-12 col-md-12 sol-sm-12 col-lg-6 col-xl-6&quot;]/div[@class=&quot;d-flex align-items-center&quot;]/div[@class=&quot;hero-contributor__info&quot;]/div[1]/p[1]</value>
+      <webElementGuid>e7c0d810-1f9a-4e1c-8155-dffa2cc7632e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tim Penulis'])[1]/following::p[1]</value>
+      <webElementGuid>3aa82ef5-dfb4-45e3-bf7c-3a7d126dbdf2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Beranda'])[1]/following::p[1]</value>
+      <webElementGuid>976e29d9-ee2f-4409-b97c-2ede7baafd51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Annisa Amalia Ikhsania'])[1]/preceding::p[1]</value>
+      <webElementGuid>a4ec9218-2ee9-4006-af20-ab35d80712a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Profil Profesional >'])[1]/preceding::p[1]</value>
+      <webElementGuid>9c4985a3-f6f6-4d87-a406-44971620137a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Penulis']/parent::*</value>
+      <webElementGuid>e64462d1-c4d9-4e5f-a8b3-e51ee45120ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>1b164270-12c0-4788-abf7-b39be591491d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Penulis' or . = 'Penulis')]</value>
+      <webElementGuid>be39f2f2-1796-419e-abc2-5b3d00a36b63</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
