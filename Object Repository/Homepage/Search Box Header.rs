@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Search Box Header</name>
+   <tag></tag>
+   <elementGuidId>eef85f1d-e7cb-41ca-ae5d-6372bf71878b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@type='text']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.searchDo</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>d87caa35-5d2b-4224-962b-29277058d037</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>89334307-d9f6-4961-be7d-d4c4b2e5cd8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>searchDo</value>
+      <webElementGuid>f0f49de3-e434-4cfb-bff0-299b7200d374</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Cari artikel yang Ibu butuhkan</value>
+      <webElementGuid>39890637-1ddd-4e59-a553-0f4951150c51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;headers-menu&quot;]/div[@class=&quot;headers-menu_iner&quot;]/div[@class=&quot;container_fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6 hidden-sm&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;headers-menu_search&quot;]/input[@class=&quot;searchDo&quot;]</value>
+      <webElementGuid>c4a7e6cc-778c-451d-92c9-018dbb78a8d7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@type='text']</value>
+      <webElementGuid>873965e8-087c-460d-83ca-c62ade22ad7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/input</value>
+      <webElementGuid>64a24142-488f-48ca-8087-1816a5c6b4d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @placeholder = 'Cari artikel yang Ibu butuhkan']</value>
+      <webElementGuid>84c2ffa3-81a3-46ca-94fd-ca09ffcaa485</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

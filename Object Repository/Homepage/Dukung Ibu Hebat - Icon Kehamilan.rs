@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Dukung Ibu Hebat - Icon Kehamilan</name>
+   <tag></tag>
+   <elementGuidId>922ed6f6-8468-425f-90bd-e4d94fa86a48</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[@alt='Icon Kehamilan']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>571c5652-2007-4b65-a281-db60a97c5fee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>25px</value>
+      <webElementGuid>f0833425-7919-42ef-8bd1-b2d3b42df790</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>25px</value>
+      <webElementGuid>dfc0dc1e-c066-419f-a578-d99c69f936f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>loading</name>
+      <type>Main</type>
+      <value>lazy</value>
+      <webElementGuid>600d9bd1-11ab-4a0e-9892-28d0fb31a8a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> ls-is-cached lazyloaded</value>
+      <webElementGuid>0882c7fb-77ac-4b00-a650-8bc53ae7d098</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-src</name>
+      <type>Main</type>
+      <value>https://d24eqpince6acm.cloudfront.net/assets/reskin/doodle-assets/icon-kehamilan.png</value>
+      <webElementGuid>b51be692-0261-491e-98ca-858f5b938872</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://d24eqpince6acm.cloudfront.net/assets/reskin/doodle-assets/icon-kehamilan.png</value>
+      <webElementGuid>1831be06-1321-411a-8e57-19c36b85dc10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Icon Kehamilan</value>
+      <webElementGuid>519fcd18-7caf-448f-a8d8-7d2ed9408324</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Icon Kehamilan</value>
+      <webElementGuid>f688c58c-2301-4528-a97e-403728e4d0f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;pimcore_area_home-article-category pimcore_area_content&quot;]/div[@class=&quot;article-category sect&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;article-category_content&quot;]/div[@class=&quot;pb-5&quot;]/div[@class=&quot;article-category_content_card&quot;]/a[1]/div[@class=&quot;article-btn-card_hover kehamilan&quot;]/div[@class=&quot;article-btn-card&quot;]/div[@class=&quot;icon-category&quot;]/img[@class=&quot;ls-is-cached lazyloaded&quot;]</value>
+      <webElementGuid>4a6294e4-b603-410f-83de-ec2a9748af5f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Icon Kehamilan']</value>
+      <webElementGuid>025eea9f-b14c-42fa-aa06-68409a054a24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div/div/div/img</value>
+      <webElementGuid>1a35772e-3a12-4bfc-9075-744056e45f91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://d24eqpince6acm.cloudfront.net/assets/reskin/doodle-assets/icon-kehamilan.png' and @alt = 'Icon Kehamilan' and @title = 'Icon Kehamilan']</value>
+      <webElementGuid>c8dfa07b-fb85-4e45-814e-c2d6e23a68ce</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

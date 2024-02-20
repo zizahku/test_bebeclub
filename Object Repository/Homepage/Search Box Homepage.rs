@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Search Box Homepage</name>
+   <tag></tag>
+   <elementGuidId>29577134-7f52-4ed5-9c4f-d1bff24fa34a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@type='text'])[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.search-after_banner_input > div.headers-menu_search > input.searchDo</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>7ff0d8e6-42da-41de-8aeb-79d88e252097</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>97921428-6fa7-49a9-afd5-da970c7f0463</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>searchDo</value>
+      <webElementGuid>0c01db99-812b-4529-9e3a-2c8b92a5e805</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Cari artikel yang Ibu butuhkan</value>
+      <webElementGuid>db6ea77a-dc11-4f35-a4d3-798bcbfcf20a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;pimcore_area_home-search pimcore_area_content&quot;]/div[@class=&quot;search-after_banner&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;search-after_banner_input&quot;]/div[@class=&quot;headers-menu_search&quot;]/input[@class=&quot;searchDo&quot;]</value>
+      <webElementGuid>602ba997-b549-4c99-a5db-b32167c9c6f2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='text'])[3]</value>
+      <webElementGuid>cc1fd82c-c46a-492f-901d-ece57e9afb15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/input</value>
+      <webElementGuid>60e66c63-2c9b-4ca9-9454-a9ade87257ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @placeholder = 'Cari artikel yang Ibu butuhkan']</value>
+      <webElementGuid>e7b91583-b401-4bbb-8ec9-5890b133dd30</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

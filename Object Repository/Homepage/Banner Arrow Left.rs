@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Banner Arrow Left</name>
+   <tag></tag>
+   <elementGuidId>c1cc70ca-7091-460a-95cc-35d07834aadb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[2]/div/div/div[3]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.img-arrow</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>162fc89a-091e-44e1-ac15-bc583c14bec3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>img-arrow</value>
+      <webElementGuid>a8824854-f834-4675-99b8-b0d10ad3931c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;pimcore_area_home-banner pimcore_area_content&quot;]/div[1]/div[@class=&quot;js-slider-hero swiper-container swiper-container-initialized swiper-container-horizontal swiper-container-pointer-events&quot;]/div[@class=&quot;container button-icon&quot;]/div[@class=&quot;js-slider-hero-prev swiper-button-disabled&quot;]/div[@class=&quot;img-arrow&quot;]</value>
+      <webElementGuid>ecae89b5-963a-4d9c-945b-2e82cd823240</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[3]/div/div</value>
+      <webElementGuid>bfcd97e7-ba20-430e-beef-af18a7ecfbf3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

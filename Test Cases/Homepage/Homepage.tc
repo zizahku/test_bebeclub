@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Ensure the homepage of bebeclub will display properly after user landing on bebeclub website
+1. Ensure the banner is displaying
+2. Banner auto play
+3. Ensure copy highlight Temukan Inspirasi in blue color
+4. Ensure copy highlight Stimulasi in white color
+5. Ensure the search box is typeable
+6. Ensure the copy of GroGreat is match
+7. Ensure the button is clickable and will navigate to Produk Parent Page
+8. Ensure the copy is match Beragam Fitur in yellow color
+9. Ensure the copy is match Untuk Si Kecil in Blue color
+10. Ensure the Tools Section is display properly
+- Bebestory (Copy, Navigated to Bebestory page)
+- Bebe Journey (Copy, Navigated to Bebe Journey page)
+- TummyPedia (Copy, Navigated to Tummypedia page)
+- Allergy Tummy (Copy, Navigated to Tummypedia page)
+- ensure arrow slider is working properly
+11. Ensure copy Berbagi Tips in yellow color
+12. Ensure copy dukung ibu in blue color
+13. Ensure the Berbagi tips is display 6 item
+- Kehamilan -> copy, icon, color, navigate to ibu-perlu-tahu/kehamilan-menyusui
+- Dari ibu untuk ibu -> copy, icon, color, navigate to ibu-perlu-tahu
+- Tumbuh Kembang -> copy, icon, color, navigate to tumbuh-kembang
+- Pencernaan -> copy, icon, color, navigate to pencernaan-alergi
+- Belajar di rumah -> copy, icon, color, navigate to belajar-dirumah
+- Resep &amp; Nutrisi -> copy, icon, color, navigate to resep
+14. Ensure copy Artikel Terbaru in blue color
+15. Artikel terbaru section (arrow and slider ga infinite)
+16. Ensure product section
+17. Display product and will navigate related produk
+Membership section</description>
+   <name>Homepage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a06cf0b5-c219-4edc-98f2-811cd008cf67</testCaseGuid>
+</TestCaseEntity>

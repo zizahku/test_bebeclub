@@ -97,19 +97,19 @@ List<TestObject> expectedFontInfo = [['16px', 'rgba(0, 0, 0, 1)', 'Beranda'], ['
         , 'Pengalaman'], ['14px', 'rgba(0, 0, 0, 1)', '2015 - 2016'], ['14px', 'rgba(0, 0, 0, 1)', 'Penulis Konten'], ['12px'
         , 'rgba(0, 0, 0, 1)', 'Foodpanda'], ['16px', 'rgba(0, 0, 0, 1)', 'Lihat Lebih Banyak']]
 
-//Print the size of fontInfoList to check if it's properly populated
-println("Size of fontInfoList: $fontInfoList.size()")
-
-//Print the font information for each element in fontInfoList
-for (int i = 0; i < fontInfoList.size(); i++) {
-    println("Font Info for Element $(i + 1):")
-
-    println("   Font Size: $fontInfoList[i][fontSize]")
-
-    println("   Font Color: $fontInfoList[i][fontColor]")
-
-    println("	Text: $fontInfoList[i][text]")
-}
+////Print the size of fontInfoList to check if it's properly populated
+//println("Size of fontInfoList: ${fontInfoList.size()}")
+//
+////Print the font information for each element in fontInfoList
+//for (int i = 0; i < fontInfoList.size(); i++) {
+//    println("Font Info for Element ${i + 1}:")
+//
+//    println("   Font Size: ${fontInfoList[i]['fontSize']}")
+//
+//    println("   Font Color: ${fontInfoList[i]['fontColor']}")
+//
+//    println("	Text: ${fontInfoList[i]['text']}")
+//}
 
 //Assertion
 for (int i = 0; i < fontInfoList.size(); i++) {

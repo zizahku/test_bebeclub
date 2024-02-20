@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Cloud Section - Image GroGreat</name>
+   <tag></tag>
+   <elementGuidId>5d4503f8-d1ab-4309-895e-b46c8c9f6772</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[@alt='GroGreat+ logo segitiga']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.image-gogreat.ls-is-cached.lazyloaded</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>5b4d0bb2-b636-4fc7-bfad-d4e795c3175f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>loading</name>
+      <type>Main</type>
+      <value>lazy</value>
+      <webElementGuid>58f1b4d1-04f3-4f2c-8d63-a5615ef4d3b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>180px</value>
+      <webElementGuid>baa454bb-512f-40ba-8bd2-5582794c785a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>160px</value>
+      <webElementGuid>795ccf66-f8d7-4483-8040-8f331ee71dbf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>image-gogreat ls-is-cached lazyloaded</value>
+      <webElementGuid>bb8247c9-f859-4033-b578-1cd798eae1a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-src</name>
+      <type>Main</type>
+      <value>https://d24eqpince6acm.cloudfront.net/_default_upload_bucket/GroGreat%20Logo%20%281%29.webp</value>
+      <webElementGuid>96d0ea13-8084-481f-82c4-84caf9359cbd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://d24eqpince6acm.cloudfront.net/_default_upload_bucket/GroGreat%20Logo%20%281%29.webp</value>
+      <webElementGuid>9430a88c-5358-48ff-a1e8-d6d659d6e1da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>GroGreat+ logo segitiga</value>
+      <webElementGuid>e065fa62-faf9-4b1c-ab65-20bf35dbc9fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>GroGreat+ logo segitiga</value>
+      <webElementGuid>54faffd3-288e-40c8-9b89-aa75bc861ad8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;pimcore_area_home-gogreat-area pimcore_area_content&quot;]/div[@class=&quot;home-gogreat-area sect&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-4&quot;]/div[@class=&quot;image-home-gogreat&quot;]/img[@class=&quot;image-gogreat ls-is-cached lazyloaded&quot;]</value>
+      <webElementGuid>5da93611-bec6-40af-9b2f-abed35fa2dd6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='GroGreat+ logo segitiga']</value>
+      <webElementGuid>23f2646d-b3dd-4ce3-a95b-f0c91b2092f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/img</value>
+      <webElementGuid>64c0f765-cfe5-4a55-9b62-991bff0e9839</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://d24eqpince6acm.cloudfront.net/_default_upload_bucket/GroGreat%20Logo%20%281%29.webp' and @alt = 'GroGreat+ logo segitiga' and @title = 'GroGreat+ logo segitiga']</value>
+      <webElementGuid>74ee72e0-95db-4e16-a788-cb341ec76799</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

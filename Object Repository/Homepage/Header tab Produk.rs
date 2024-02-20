@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Header tab Produk</name>
+   <tag></tag>
+   <elementGuidId>77814780-faa9-4e23-be99-8d80815ec7ea</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Produk')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.headers-menu_items_li.have-sub > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a2ce5922-fe1b-4d28-b2fc-c94d2f07906b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/produk</value>
+      <webElementGuid>c18dff9f-ef6b-4234-919e-39fec8f8f262</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Produk</value>
+      <webElementGuid>36a0cbbf-27d8-4839-b6b4-3baed8863188</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;headers-menu&quot;]/div[@class=&quot;headers-menu_iner&quot;]/div[@class=&quot;container_fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col&quot;]/div[@class=&quot;headers-menu_logo&quot;]/div[@class=&quot;headers-menu_items&quot;]/ul[@class=&quot;headers-menu_items_nav&quot;]/li[@class=&quot;headers-menu_items_li have-sub&quot;]/a[1]</value>
+      <webElementGuid>dd15f0cd-0a45-42c7-940b-1f0c13197ad1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Produk')]</value>
+      <webElementGuid>80b6790d-bcf0-43c5-b963-0ca3ab793571</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Register'])[1]/following::a[1]</value>
+      <webElementGuid>263e3275-f7a3-4377-95ad-c2ce733986af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[1]/following::a[2]</value>
+      <webElementGuid>6f181753-2553-403f-a2db-d1417e129ce1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bebelac 3'])[1]/preceding::a[1]</value>
+      <webElementGuid>2dce0408-836c-46a1-a29b-3f088e466d5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bebelac 4'])[1]/preceding::a[2]</value>
+      <webElementGuid>fe3cd0fa-60e3-4f27-8f2f-815b98a50232</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Produk']/parent::*</value>
+      <webElementGuid>4325963b-b180-4269-9eae-3d1e97e3c2e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/produk')]</value>
+      <webElementGuid>f0f82b08-e17a-4521-aedc-168896519e4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/a</value>
+      <webElementGuid>a6f59a39-7dcb-4d9d-b1de-da800cfd8850</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/produk' and (text() = 'Produk' or . = 'Produk')]</value>
+      <webElementGuid>308fc3ff-98df-4a70-8de7-8d4c643cc9b6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

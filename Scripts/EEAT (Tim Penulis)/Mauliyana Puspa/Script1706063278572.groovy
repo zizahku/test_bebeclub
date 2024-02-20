@@ -104,13 +104,13 @@ println("Size of fontInfoList: $fontInfoList.size()")
 
 //Print the font information for each element in fontInfoList
 for (int i = 0; i < fontInfoList.size(); i++) {
-    println("Font Info for Element $(i + 1):")
+    println("Font Info for Element ${i + 1}:")
 
-    println("   Font Size: $fontInfoList[i][fontSize]")
+    println("   Font Size: $fontInfoList[i]['fontSize']")
 
-    println("   Font Color: $fontInfoList[i][fontColor]")
+    println("   Font Color: $fontInfoList[i]['fontColor']")
 
-    println("	Text: $fontInfoList[i][text]")
+    println("	Text: $fontInfoList[i]['text']")
 }
 
 //Assertion

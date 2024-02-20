@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Text Temukan Inspirasi Seputar Nutrisi dan</name>
+   <tag></tag>
+   <elementGuidId>76ef02e2-ae5a-4ec1-b759-5889ce6159ba</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//b[@id='docs-internal-guid-d727bbf1-7fff-4290-f393-3a4dbeec0514']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#docs-internal-guid-d727bbf1-7fff-4290-f393-3a4dbeec0514 > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>825dd19b-43c9-4ae4-95ec-40a78678856c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Temukan Inspirasi Seputar Nutrisi dan </value>
+      <webElementGuid>06bd2726-32e3-4421-98c3-e3defdcb8db9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;docs-internal-guid-d727bbf1-7fff-4290-f393-3a4dbeec0514&quot;)/span[1]</value>
+      <webElementGuid>bc42baec-3c75-4870-aa39-803b53207d71</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//b[@id='docs-internal-guid-d727bbf1-7fff-4290-f393-3a4dbeec0514']/span</value>
+      <webElementGuid>022fdce9-7eb5-4477-b147-2fc1f2a047cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Resep'])[2]/following::span[7]</value>
+      <webElementGuid>67ddc0a0-0ca6-43ac-a9ba-e51a532d0f0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bebelac'])[1]/preceding::span[1]</value>
+      <webElementGuid>77d88795-796f-406d-828a-7bb46c790493</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Temukan Inspirasi Seputar Nutrisi dan']/parent::*</value>
+      <webElementGuid>f4edbd7e-f078-4c77-816f-5633b860791e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//b/span</value>
+      <webElementGuid>f449047f-3792-443a-bd1a-f0c4b6a4abb9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Temukan Inspirasi Seputar Nutrisi dan ' or . = 'Temukan Inspirasi Seputar Nutrisi dan ')]</value>
+      <webElementGuid>ba83a1d3-8081-4337-9648-c86e955049d6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
