@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Dukung Ibu Hebat Section - Text Kehamilan</name>
+   <tag></tag>
+   <elementGuidId>ed9d5f76-b133-4b85-bde7-3f3786c3ed74</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Berbagai Tips &amp; artikel'])[1]/following::p[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.kehamilan</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>af080956-ef20-491c-ad11-d38a3b924761</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>kehamilan</value>
+      <webElementGuid>7da2dee3-87cb-48f3-bf40-fea4cde021a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kehamilan</value>
+      <webElementGuid>cb085b7a-c53e-4ffb-b6db-c3121b52bae5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;pimcore_area_home-article-category pimcore_area_content&quot;]/div[@class=&quot;article-category sect&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;article-category_content&quot;]/div[@class=&quot;pb-5&quot;]/div[@class=&quot;article-category_content_card&quot;]/a[1]/div[@class=&quot;article-btn-card_hover kehamilan&quot;]/div[@class=&quot;article-btn-card&quot;]/p[@class=&quot;kehamilan&quot;]</value>
+      <webElementGuid>abb6562d-f4ed-4d68-b15a-0e4ae43928e6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Berbagai Tips &amp; artikel'])[1]/following::p[1]</value>
+      <webElementGuid>a1cd4e35-1eb6-497e-8fe0-156f3471cfb1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Artikel Terbaru'])[1]/preceding::p[12]</value>
+      <webElementGuid>7d5e513f-eecb-459f-9344-2a5856734c6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tumbuh Kembang'])[3]/preceding::p[12]</value>
+      <webElementGuid>4b96453e-5fb9-4700-bae9-e0cb458393f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Kehamilan']/parent::*</value>
+      <webElementGuid>ab0b96bf-3dc6-41e2-8bc4-5ec713f2559c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/a/div/div/p</value>
+      <webElementGuid>1cccce4e-5004-4ad1-a7cc-a97a7cb6db28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Kehamilan' or . = 'Kehamilan')]</value>
+      <webElementGuid>c309e7f6-089d-4ff8-ba67-33e46fd0fc77</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

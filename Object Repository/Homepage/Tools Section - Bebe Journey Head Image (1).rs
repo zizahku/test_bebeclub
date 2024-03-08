@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Tools Section - Bebe Journey Head Image (1)</name>
+   <tag></tag>
+   <elementGuidId>00082ef8-773a-441b-bfc0-8d1d300da45a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[@alt='Bebejourney, Partner Tepercaya Ibu Dampingi Momen Pertama si Kecil']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.swiper-slide.swiper-slide-duplicate.swiper-slide-prev > a > div.tools-card > div.tools-card_img > picture > img.banner-desktop.ls-is-cached.lazyloaded</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>e72d977d-1f91-4b08-b678-9b29da586943</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>loading</name>
+      <type>Main</type>
+      <value>lazy</value>
+      <webElementGuid>5c4ee0c5-06b3-4ac0-ab72-f06c587bafbf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>banner-desktop ls-is-cached lazyloaded</value>
+      <webElementGuid>8a196bfe-a0b2-49f0-a39e-f46e75673778</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Bebejourney, Partner Tepercaya Ibu Dampingi Momen Pertama si Kecil</value>
+      <webElementGuid>dba52864-92ea-4baa-90f6-023e3074ccae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Bebejourney, Partner Tepercaya Ibu Dampingi Momen Pertama si Kecil</value>
+      <webElementGuid>25a7c590-6c97-43e0-9b03-424eafd332e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>155</value>
+      <webElementGuid>a6cf3780-8eb4-408f-ae6a-f85e2e373128</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>130</value>
+      <webElementGuid>4b3a6451-17d4-45c2-990b-5128fe5520c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-src</name>
+      <type>Main</type>
+      <value>https://d24eqpince6acm.cloudfront.net/Artikel/Slider%20Home/Desktop%20-%20Partner%20Terpercaya_4.webp</value>
+      <webElementGuid>98a9b323-e33c-4677-b597-142f31a069c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://d24eqpince6acm.cloudfront.net/Artikel/Slider%20Home/Desktop%20-%20Partner%20Terpercaya_4.webp</value>
+      <webElementGuid>937f5c7f-4b14-45d0-8241-e85f8d3713c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;pimcore_area_home-tools pimcore_area_content&quot;]/div[@class=&quot;tools-ibu-hebat sect&quot;]/div[1]/div[@class=&quot;tools-ibu-hebat_content&quot;]/div[@class=&quot;slider-tools-ibu swiper-container swiper-container-initialized swiper-container-horizontal swiper-container-pointer-events&quot;]/div[@class=&quot;swiper-wrapper&quot;]/div[@class=&quot;swiper-slide swiper-slide-duplicate swiper-slide-prev&quot;]/a[1]/div[@class=&quot;tools-card&quot;]/div[@class=&quot;tools-card_img&quot;]/picture[1]/img[@class=&quot;banner-desktop ls-is-cached lazyloaded&quot;]</value>
+      <webElementGuid>3a7a7b01-623a-4aae-a707-fc25b1073019</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Bebejourney, Partner Tepercaya Ibu Dampingi Momen Pertama si Kecil']</value>
+      <webElementGuid>4e404774-1de3-4d70-a346-fc2ddbcd53ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/a/div/div/picture/img</value>
+      <webElementGuid>5493adc1-a058-43ac-b13f-d9302f6dbd20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = 'Bebejourney, Partner Tepercaya Ibu Dampingi Momen Pertama si Kecil' and @title = 'Bebejourney, Partner Tepercaya Ibu Dampingi Momen Pertama si Kecil' and @src = 'https://d24eqpince6acm.cloudfront.net/Artikel/Slider%20Home/Desktop%20-%20Partner%20Terpercaya_4.webp']</value>
+      <webElementGuid>a81cb325-edfd-4a21-9226-a008c439a29d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

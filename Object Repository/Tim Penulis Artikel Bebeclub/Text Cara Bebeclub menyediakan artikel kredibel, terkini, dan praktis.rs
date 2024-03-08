@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Text Cara Bebeclub menyediakan artikel kredibel, terkini, dan praktis</name>
+   <tag></tag>
+   <elementGuidId>5aa2871d-c9b6-42d9-ae80-a72e17a30462</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//b[@id='docs-internal-guid-bb08ab8d-7fff-2e1c-c93a-90f854c755bf']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#docs-internal-guid-bb08ab8d-7fff-2e1c-c93a-90f854c755bf</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>16cf1800-8fdc-426d-a03e-c781bfe5ca2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>docs-internal-guid-bb08ab8d-7fff-2e1c-c93a-90f854c755bf</value>
+      <webElementGuid>536bf635-de45-477e-b657-52e59d649a10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cara Bebeclub menyediakan artikel kredibel, terkini, dan praktis</value>
+      <webElementGuid>b4a25c4b-8d9f-4aa6-a066-211f983666a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;docs-internal-guid-bb08ab8d-7fff-2e1c-c93a-90f854c755bf&quot;)</value>
+      <webElementGuid>0096111c-7ae6-4c4b-add5-c3d3e26a5e8d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//b[@id='docs-internal-guid-bb08ab8d-7fff-2e1c-c93a-90f854c755bf']</value>
+      <webElementGuid>088b6de0-0c4c-463a-8e38-9b3af10192cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='eeat-editorial']/div[2]/div/div/div[2]/h3/b</value>
+      <webElementGuid>e29ebeca-3433-4782-a33d-6d408262fcb1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Proses Editorial Bebeclub'])[1]/following::b[1]</value>
+      <webElementGuid>4667672e-ecaa-4b06-982f-d3ae045f4431</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ajeng Quamila'])[1]/following::b[1]</value>
+      <webElementGuid>28b1a949-da65-4b57-8b01-dedc0efa3928</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Menjaga praktik jurnalisme yang sehat sesuai aturan yang berlaku.'])[1]/preceding::b[1]</value>
+      <webElementGuid>a4749bd2-5104-48eb-a9ac-fd6e46e0e903</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terus-menerus meneliti dan mengamati kebutuhan dari setiap pembaca kami.'])[1]/preceding::b[1]</value>
+      <webElementGuid>413c06e9-5230-4c94-aaf4-2c62fada00fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Cara Bebeclub menyediakan artikel kredibel, terkini, dan praktis']/parent::*</value>
+      <webElementGuid>a3c11969-996e-4ff3-bd25-a1b64e2c7f1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//b</value>
+      <webElementGuid>ba604e55-f644-4859-9cf0-90ca525cf890</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[@id = 'docs-internal-guid-bb08ab8d-7fff-2e1c-c93a-90f854c755bf' and (text() = 'Cara Bebeclub menyediakan artikel kredibel, terkini, dan praktis' or . = 'Cara Bebeclub menyediakan artikel kredibel, terkini, dan praktis')]</value>
+      <webElementGuid>725ed304-69d0-4d89-a9b4-334a47e6af73</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

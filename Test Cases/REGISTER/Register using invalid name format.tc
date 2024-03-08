@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Register using invalid name format</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>02a10778-d591-4a6b-adfe-a3600321b6c0</testCaseGuid>
+</TestCaseEntity>

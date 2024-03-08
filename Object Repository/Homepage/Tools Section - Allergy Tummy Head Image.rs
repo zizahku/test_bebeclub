@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Tools Section - Allergy Tummy Head Image</name>
+   <tag></tag>
+   <elementGuidId>e058dadf-5525-4bf1-9c16-5d886ebc080c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[@alt='Allergy Tummy Checker']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.swiper-slide.swiper-slide-duplicate.swiper-slide-prev > a > div.tools-card > div.tools-card_img > picture > img.banner-desktop.ls-is-cached.lazyloaded</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>6a9d0272-0942-4261-ab11-5c743a8e1693</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>loading</name>
+      <type>Main</type>
+      <value>lazy</value>
+      <webElementGuid>71039da6-2de2-4c89-9b5f-b527bdc711eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>banner-desktop ls-is-cached lazyloaded</value>
+      <webElementGuid>0cd90963-1c3d-45fa-8852-a1a1b14176b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Allergy Tummy Checker</value>
+      <webElementGuid>3443403e-b120-45f6-89dd-18181f791e68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Allergy Tummy Checker</value>
+      <webElementGuid>6f1390eb-4fa7-43a1-b15a-caf1a28b4131</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>155</value>
+      <webElementGuid>d60f3344-e42c-476f-b23f-c15b9b998667</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>130</value>
+      <webElementGuid>917c9158-7333-4a93-a409-45b2ba3d468a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-src</name>
+      <type>Main</type>
+      <value>https://d24eqpince6acm.cloudfront.net/Artikel/Slider%20Home/Desktop%20-%20Alergi.webp</value>
+      <webElementGuid>f47605d0-c564-4294-8ba4-f6b8ae096523</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://d24eqpince6acm.cloudfront.net/Artikel/Slider%20Home/Desktop%20-%20Alergi.webp</value>
+      <webElementGuid>6187f064-8649-421f-8fb7-9859bdfe8380</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;pimcore_area_home-tools pimcore_area_content&quot;]/div[@class=&quot;tools-ibu-hebat sect&quot;]/div[1]/div[@class=&quot;tools-ibu-hebat_content&quot;]/div[@class=&quot;slider-tools-ibu swiper-container swiper-container-initialized swiper-container-horizontal swiper-container-pointer-events&quot;]/div[@class=&quot;swiper-wrapper&quot;]/div[@class=&quot;swiper-slide swiper-slide-duplicate swiper-slide-prev&quot;]/a[1]/div[@class=&quot;tools-card&quot;]/div[@class=&quot;tools-card_img&quot;]/picture[1]/img[@class=&quot;banner-desktop ls-is-cached lazyloaded&quot;]</value>
+      <webElementGuid>afc8cb31-1783-4268-8fee-ef40b898decc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Allergy Tummy Checker']</value>
+      <webElementGuid>195c15d3-b3ba-44ec-8e77-a018b48d9741</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/a/div/div/picture/img</value>
+      <webElementGuid>8f8b9b3e-f8c3-4c3c-8b91-a5677b94b6bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = 'Allergy Tummy Checker' and @title = 'Allergy Tummy Checker' and @src = 'https://d24eqpince6acm.cloudfront.net/Artikel/Slider%20Home/Desktop%20-%20Alergi.webp']</value>
+      <webElementGuid>2b95e47e-6275-43f9-87fe-c0d4e7d67e8b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,30 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+LOGIN,Chrome 119.0.0.0,,,2023-11-21 11:01:33,2023-11-21 11:03:28,1m - 55.511s,PASSED
+,,,,,,,
+Test Cases/LOGIN/Login OTP via BBJ,Chrome 119.0.0.0,,,2023-11-21 11:01:33,2023-11-21 11:02:08,34.780s,PASSED
+openBrowser(URL),Chrome 119.0.0.0,,,2023-11-21 11:01:34,2023-11-21 11:01:48,14.675s,PASSED
+"mouseOver(findTestObject(""Header/a_Tools""))",Chrome 119.0.0.0,,,2023-11-21 11:01:48,2023-11-21 11:01:49,0.806s,PASSED
+"click(findTestObject(""Header/Dropdown Tools - Bebejourney""))",Chrome 119.0.0.0,,,2023-11-21 11:01:49,2023-11-21 11:01:53,4.150s,PASSED
+"click(findTestObject(""Bebe Journey page/Banner click - Yuk, Cek di sini""))",Chrome 119.0.0.0,,,2023-11-21 11:01:53,2023-11-21 11:01:54,0.714s,PASSED
+"setText(findTestObject(""Bebe Journey page/Form Nomor Handphone""), ""085784018007"")",Chrome 119.0.0.0,,,2023-11-21 11:01:54,2023-11-21 11:01:57,2.636s,PASSED
+"setEncryptedText(findTestObject(""Bebe Journey page/Form Kata Sandi_password""), ""iFGeFYmXIrUhQZHvW7P22w=="")",Chrome 119.0.0.0,,,2023-11-21 11:01:57,2023-11-21 11:01:58,1.351s,PASSED
+"click(findTestObject(""Bebe Journey page/Button Login""))",Chrome 119.0.0.0,,,2023-11-21 11:01:58,2023-11-21 11:01:58,0.548s,PASSED
+"verifyTextPresent(""Selamat Datang"", false)",Chrome 119.0.0.0,,,2023-11-21 11:01:58,2023-11-21 11:02:07,8.862s,PASSED
+"click(findTestObject(""Bebe Journey page/close greeting popup""))",Chrome 119.0.0.0,,,2023-11-21 11:02:07,2023-11-21 11:02:08,0.467s,PASSED
+,,,,,,,
+Test Cases/LOGIN/Login OTP via header,Chrome 119.0.0.0,,,2023-11-21 11:02:08,2023-11-21 11:02:41,33.485s,PASSED
+openBrowser(URL),Chrome 119.0.0.0,,,2023-11-21 11:02:08,2023-11-21 11:02:28,19.917s,PASSED
+"click(findTestObject(""Header/a_Login""))",Chrome 119.0.0.0,,,2023-11-21 11:02:28,2023-11-21 11:02:32,4.294s,PASSED
+"click(findTestObject(""Login Page/buttonLoginTanpaPassword""))",Chrome 119.0.0.0,,,2023-11-21 11:02:32,2023-11-21 11:02:35,2.893s,PASSED
+"setText(findTestObject(""Login Tanpa Password/form_Nomor HP""), ""085784018007"")",Chrome 119.0.0.0,,,2023-11-21 11:02:35,2023-11-21 11:02:38,2.778s,PASSED
+"click(findTestObject(""Login Tanpa Password/button_Kirim Kode OTP""))",Chrome 119.0.0.0,,,2023-11-21 11:02:38,2023-11-21 11:02:39,1.045s,PASSED
+"verifyTextPresent(""OTP Telah Dikirimkan Ke Nomor Handphone Ibu"", false)",Chrome 119.0.0.0,,,2023-11-21 11:02:39,2023-11-21 11:02:41,1.744s,PASSED
+"click(findTestObject(""Login Tanpa Password/close popup""))",Chrome 119.0.0.0,,,2023-11-21 11:02:41,2023-11-21 11:02:41,0.428s,PASSED
+,,,,,,,
+Test Cases/LOGIN/Login via header,Chrome 119.0.0.0,,,2023-11-21 11:02:41,2023-11-21 11:03:28,46.813s,PASSED
+openBrowser(URL),Chrome 119.0.0.0,,,2023-11-21 11:02:42,2023-11-21 11:02:54,12.485s,PASSED
+"click(findTestObject(""Header/a_Login""))",Chrome 119.0.0.0,,,2023-11-21 11:02:54,2023-11-21 11:02:58,3.642s,PASSED
+"setText(findTestObject(""Login Page/form input nomor hp""), ""085784018007"")",Chrome 119.0.0.0,,,2023-11-21 11:02:58,2023-11-21 11:02:59,1.572s,PASSED
+"setEncryptedText(findTestObject(""Login Page/form password""), ""iFGeFYmXIrUhQZHvW7P22w=="")",Chrome 119.0.0.0,,,2023-11-21 11:02:59,2023-11-21 11:03:00,0.674s,PASSED
+"click(findTestObject(""Login Page/buttonLogin""))",Chrome 119.0.0.0,,,2023-11-21 11:03:00,2023-11-21 11:03:01,1.136s,PASSED
+"verifyTextPresent(""Login Berhasil"", false)",Chrome 119.0.0.0,,,2023-11-21 11:03:01,2023-11-21 11:03:28,26.924s,PASSED

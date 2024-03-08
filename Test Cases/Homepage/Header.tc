@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Check the header is clickable and will redirect to related page (also hover is active)</description>
+   <name>Header</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c2442170-93b0-460b-801d-b580f88f0577</testCaseGuid>
+</TestCaseEntity>

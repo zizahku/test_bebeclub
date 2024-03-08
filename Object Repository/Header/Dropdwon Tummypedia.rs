@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Dropdwon Tummypedia</name>
+   <tag></tag>
+   <elementGuidId>911778f5-76e8-4725-9e0f-362b5810cbdb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Tummypedia')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ul.headers-menu_items_sub > li > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>bba61acd-3712-4074-9cd2-bcbfa731ee5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/tools/tummypedia</value>
+      <webElementGuid>c58afda2-e4bd-448b-a2cf-41579d975486</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tummypedia</value>
+      <webElementGuid>71c324a0-eaf9-4684-a084-e3e7fe089024</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;headers-menu&quot;]/div[@class=&quot;headers-menu_iner&quot;]/div[@class=&quot;container_fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col&quot;]/div[@class=&quot;headers-menu_logo&quot;]/div[@class=&quot;headers-menu_items&quot;]/ul[@class=&quot;headers-menu_items_nav&quot;]/li[@class=&quot;headers-menu_items_li have-sub&quot;]/ul[@class=&quot;headers-menu_items_sub&quot;]/li[1]/a[1]</value>
+      <webElementGuid>aaf34d01-082d-4b87-af50-58f9bd18b75a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Tummypedia')]</value>
+      <webElementGuid>362f0841-9912-4f98-a68b-7b7f0b578ce5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tools'])[1]/following::a[1]</value>
+      <webElementGuid>0bb157e2-0462-4bab-9913-ae7f9955647b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Register'])[1]/following::a[2]</value>
+      <webElementGuid>d22032c4-3ec3-4b96-b38e-b8907aebba1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BebeStory'])[1]/preceding::a[1]</value>
+      <webElementGuid>f482bdf2-e0a2-4cfb-9e1f-ad28bd3a65d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bebejourney'])[1]/preceding::a[2]</value>
+      <webElementGuid>f6e075ac-e527-42f8-ad41-35b41ab28148</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Tummypedia']/parent::*</value>
+      <webElementGuid>e737f3ad-8f87-4d41-9e8c-ecf7d4b795fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/tools/tummypedia')]</value>
+      <webElementGuid>212385c7-050c-4ebe-9d17-09ec7b96809d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/ul/li/a</value>
+      <webElementGuid>5f17c298-4d23-4d5b-8f13-577ace15a50b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/tools/tummypedia' and (text() = 'Tummypedia' or . = 'Tummypedia')]</value>
+      <webElementGuid>807dc7c4-f488-4dfd-88bb-7e4b8a3b28dd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

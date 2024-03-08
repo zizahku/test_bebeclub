@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Tools Section - Tummypedia Logo</name>
+   <tag></tag>
+   <elementGuidId>d9f4b333-31e9-484f-9792-e28702cf30e2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//img[@alt='tools logo bebeclub'])[6]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.swiper-slide.swiper-slide-prev > a > div.tools-card > div.tools-card_img-logo > img.logo-tools.ls-is-cached.lazyloaded</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>8e7ed684-07b0-4991-8079-07b8bcba8b9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>loading</name>
+      <type>Main</type>
+      <value>lazy</value>
+      <webElementGuid>6e51fe9c-fec1-4c18-8ed1-7beba9260e2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>logo-tools ls-is-cached lazyloaded</value>
+      <webElementGuid>f2850d93-3de2-4896-8d10-b381e8d95d7b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>tools logo bebeclub</value>
+      <webElementGuid>7d61a474-54ef-4509-bafe-fc5b94a8c7ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>tools logo bebeclub</value>
+      <webElementGuid>3eb377bc-5cea-499f-bd77-788ea8c63924</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>155</value>
+      <webElementGuid>a18b611d-65e9-414c-ac38-e680bb0bfb22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>130</value>
+      <webElementGuid>711b8b12-8c40-4268-80e2-b8afedaf0a84</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-src</name>
+      <type>Main</type>
+      <value>https://d24eqpince6acm.cloudfront.net/_default_upload_bucket/Tummy%20Pedia%20%281%29.png</value>
+      <webElementGuid>83e48280-24c2-4ba0-a893-5ec0638e6ec0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://d24eqpince6acm.cloudfront.net/_default_upload_bucket/Tummy%20Pedia%20%281%29.png</value>
+      <webElementGuid>fe4c4212-1572-49a3-9e07-36147992ea51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;pimcore_area_home-tools pimcore_area_content&quot;]/div[@class=&quot;tools-ibu-hebat sect&quot;]/div[1]/div[@class=&quot;tools-ibu-hebat_content&quot;]/div[@class=&quot;slider-tools-ibu swiper-container swiper-container-initialized swiper-container-horizontal swiper-container-pointer-events&quot;]/div[@class=&quot;swiper-wrapper&quot;]/div[@class=&quot;swiper-slide swiper-slide-prev&quot;]/a[1]/div[@class=&quot;tools-card&quot;]/div[@class=&quot;tools-card_img-logo&quot;]/img[@class=&quot;logo-tools ls-is-cached lazyloaded&quot;]</value>
+      <webElementGuid>48f5c350-1172-45f5-b7e3-43235a5fbee5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>(//img[@alt='tools logo bebeclub'])[6]</value>
+      <webElementGuid>91a8628c-a976-4081-898d-3c73a7585146</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/a/div/div[2]/img</value>
+      <webElementGuid>9519a9c9-6193-4a45-a139-0b4b08fd5df8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = 'tools logo bebeclub' and @title = 'tools logo bebeclub' and @src = 'https://d24eqpince6acm.cloudfront.net/_default_upload_bucket/Tummy%20Pedia%20%281%29.png']</value>
+      <webElementGuid>2e85db24-180d-4008-accc-3e84af429e13</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

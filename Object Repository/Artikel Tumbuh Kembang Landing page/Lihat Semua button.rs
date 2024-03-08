@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Lihat Semua button</name>
+   <tag></tag>
+   <elementGuidId>750be795-e071-4998-a932-57dce4baa6fd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='loadMore']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#loadMore</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>3532185c-389a-4063-b915-4f4e6a0145e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn --secondary</value>
+      <webElementGuid>36d71576-7900-418c-9aa0-01c8bdc3774c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>loadMore</value>
+      <webElementGuid>7d4e41ed-d08d-4460-97cb-943ccd385a83</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Lihat Semua</value>
+      <webElementGuid>aeb2d041-c483-43e8-86e9-fea7ddfcbd72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;loadMore&quot;)</value>
+      <webElementGuid>2bc577ec-af88-48cf-bdab-772334225620</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='loadMore']</value>
+      <webElementGuid>c10f44a8-554c-4995-acba-5c5da8ed0806</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Lihat Semua')]</value>
+      <webElementGuid>83010917-bb8c-4db8-b797-127d9c4f6b61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tim Penulis'])[4]/following::a[1]</value>
+      <webElementGuid>0cd1c695-da10-4aa8-ad36-89d9639fc446</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bebecare'])[1]/preceding::a[1]</value>
+      <webElementGuid>824b0197-cbdd-4427-adbc-13ad214beac1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Whatsapp'])[1]/preceding::a[2]</value>
+      <webElementGuid>e2a507f0-2039-4251-bfb8-9e4168c28d44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Lihat Semua']/parent::*</value>
+      <webElementGuid>f4ca6831-7314-460b-94d0-73a79f155f74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/div/div[2]/a</value>
+      <webElementGuid>7cc3a52b-53fc-454d-9c65-3d93da11e623</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'loadMore' and (text() = 'Lihat Semua' or . = 'Lihat Semua')]</value>
+      <webElementGuid>e8d8b428-52a9-43f4-bf47-37eab5b70623</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

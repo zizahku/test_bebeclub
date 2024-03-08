@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Tools Section - Logo Bebestory</name>
+   <tag></tag>
+   <elementGuidId>5d073926-788a-40ad-9d08-7321c4a3bb53</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//img[@alt='tools logo bebeclub'])[5]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.swiper-slide.swiper-slide-active > a > div.tools-card > div.tools-card_img-logo > img.logo-tools.ls-is-cached.lazyloaded</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>57839ae1-a031-4fc3-b562-bd7904f02002</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>loading</name>
+      <type>Main</type>
+      <value>lazy</value>
+      <webElementGuid>4f853cbe-698e-4736-8b43-d0127998315b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>logo-tools ls-is-cached lazyloaded</value>
+      <webElementGuid>d0c9770c-65ed-460e-94b5-88e89443689d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>tools logo bebeclub</value>
+      <webElementGuid>d753ce6e-2c7e-4654-87a1-113f2463a35e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>tools logo bebeclub</value>
+      <webElementGuid>bb8329fd-cd3a-4244-843e-47dbd4cac709</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>155</value>
+      <webElementGuid>1a35aaf5-6b86-492a-bb6b-8b63a17f9ac4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>130</value>
+      <webElementGuid>58d75e40-5d81-4bbd-8eb5-ec8adff3e09b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-src</name>
+      <type>Main</type>
+      <value>https://d24eqpince6acm.cloudfront.net/_default_upload_bucket/bebe%20%281%29%20%281%29.png</value>
+      <webElementGuid>0258be61-fc2e-40b7-905a-1e517c110892</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://d24eqpince6acm.cloudfront.net/_default_upload_bucket/bebe%20%281%29%20%281%29.png</value>
+      <webElementGuid>06e99e34-7e14-44e6-b6f7-3fdc43d8fcbb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;pimcore_area_home-tools pimcore_area_content&quot;]/div[@class=&quot;tools-ibu-hebat sect&quot;]/div[1]/div[@class=&quot;tools-ibu-hebat_content&quot;]/div[@class=&quot;slider-tools-ibu swiper-container swiper-container-initialized swiper-container-horizontal swiper-container-pointer-events&quot;]/div[@class=&quot;swiper-wrapper&quot;]/div[@class=&quot;swiper-slide swiper-slide-active&quot;]/a[1]/div[@class=&quot;tools-card&quot;]/div[@class=&quot;tools-card_img-logo&quot;]/img[@class=&quot;logo-tools ls-is-cached lazyloaded&quot;]</value>
+      <webElementGuid>77cbc2cf-1fae-4b04-8858-c8cd3ac772b6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>(//img[@alt='tools logo bebeclub'])[5]</value>
+      <webElementGuid>5c02c427-53e4-4237-9dff-cfc66a403e74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/a/div/div[2]/img</value>
+      <webElementGuid>21c6b270-f253-46ec-a03c-78adf7b31677</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = 'tools logo bebeclub' and @title = 'tools logo bebeclub' and @src = 'https://d24eqpince6acm.cloudfront.net/_default_upload_bucket/bebe%20%281%29%20%281%29.png']</value>
+      <webElementGuid>07e59905-ca47-4bd6-9da7-b168aa895b60</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

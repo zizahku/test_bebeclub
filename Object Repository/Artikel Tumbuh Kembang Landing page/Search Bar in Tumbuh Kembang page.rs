@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Search Bar in Tumbuh Kembang page</name>
+   <tag></tag>
+   <elementGuidId>263aa553-0aaf-40c5-bff4-58696c34b100</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@type='text'])[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.searchDo.--article-banner</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>b0d8a25b-f2e8-4a01-8008-0107d60b8f6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>b9325342-ab50-4d04-8400-d3cdee3f502f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>searchDo --article-banner</value>
+      <webElementGuid>0fbf896d-c84c-4d53-9044-a9694f5d601e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Cari tips pantau perkembangan si Kecil</value>
+      <webElementGuid>e4948cf3-e403-4638-a13b-29f4b3091346</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;article-landing-block&quot;]/div[@class=&quot;pimcore_area_landing-article-search pimcore_area_content&quot;]/div[@class=&quot;search-after_banner&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;search-after_banner_input&quot;]/div[@class=&quot;headers-menu_search&quot;]/input[@class=&quot;searchDo --article-banner&quot;]</value>
+      <webElementGuid>21a10525-272a-4185-819e-cea7c4041fc5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='text'])[3]</value>
+      <webElementGuid>04d14205-c4df-460a-9672-ad6352bbef08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/input</value>
+      <webElementGuid>c7308a30-b98c-4375-8a6c-af4eea8812f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @placeholder = 'Cari tips pantau perkembangan si Kecil']</value>
+      <webElementGuid>42ed4b21-4405-4a99-aea4-f5aed2e7fd19</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

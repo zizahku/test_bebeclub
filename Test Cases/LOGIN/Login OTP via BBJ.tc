@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login OTP via BBJ</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b589d24e-732c-4a31-9776-11e45dc141e8</testCaseGuid>
+</TestCaseEntity>

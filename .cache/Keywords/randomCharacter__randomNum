@@ -1,0 +1,21 @@
+{
+  "keywordFileContentHash": "F9DCF880A5F5177FAF9DFA0697468C10",
+  "keywordClasses": [
+    {
+      "name": "randomCharacter.CustomKeywords",
+      "keywordMethods": [
+        {
+          "name": "generateRandomPhoneNumber",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "generateRandomAddress",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

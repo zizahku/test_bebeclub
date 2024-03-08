@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Cloud section - Text Bebelac</name>
+   <tag></tag>
+   <elementGuidId>aece4200-3c97-45be-8e5d-d95e8cf16799</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Temukan Inspirasi Seputar Nutrisi dan'])[1]/following::h2[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h2.title-home-gogreat</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>39dc412f-81b2-4288-8def-e34b3b8f4b24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>title-home-gogreat</value>
+      <webElementGuid>3a3d7768-a7ab-4ef7-b8b0-1c72b09e35fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Bebelac</value>
+      <webElementGuid>12d729b6-26e6-41e9-b653-eb4f28dbe660</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;pimcore_area_home-gogreat-area pimcore_area_content&quot;]/div[@class=&quot;home-gogreat-area sect&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-8&quot;]/h2[@class=&quot;title-home-gogreat&quot;]</value>
+      <webElementGuid>52d375d6-019d-4813-8d99-bf9dcb236cd4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Temukan Inspirasi Seputar Nutrisi dan'])[1]/following::h2[1]</value>
+      <webElementGuid>52d1d235-fc57-4504-8438-9264524313c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kini Hadir dengan'])[1]/preceding::h2[1]</value>
+      <webElementGuid>371d40de-3902-44ac-bb6c-257bd4cd47ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Bebelac']/parent::*</value>
+      <webElementGuid>7296f096-6c1d-498d-9dba-f5bd47742e45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2</value>
+      <webElementGuid>f0f2757a-e2f9-4df2-a80a-83918b2c8453</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'Bebelac' or . = 'Bebelac')]</value>
+      <webElementGuid>d3d90ffc-666e-4360-995c-90999e01b61c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

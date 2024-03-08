@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Button Login</name>
+   <tag></tag>
+   <elementGuidId>d45e4dc0-ff32-4898-acf1-d952e36a20e9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='login-form-popup']/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.login-button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9e2932e7-c93b-4934-971c-004e9880ca04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>login-button</value>
+      <webElementGuid>145d01b6-cf3e-4ae0-afea-308ab1813014</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+LOGIN
+</value>
+      <webElementGuid>4d79914e-b116-4578-8308-efcb5de4ea56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;login-form-popup&quot;)/div[@class=&quot;login-button&quot;]</value>
+      <webElementGuid>ffdcd218-d21c-490d-8f35-3f1d7aaf32ad</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='login-form-popup']/div[3]</value>
+      <webElementGuid>2e2f7b42-2cc8-44f7-b9aa-3983fb35c309</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lupa Kata Sandi?'])[1]/following::div[1]</value>
+      <webElementGuid>a878d256-9457-4067-aec8-a1215d755408</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kata Sandi harus diisi'])[1]/following::div[1]</value>
+      <webElementGuid>a13fbcf4-7e52-41cb-b694-152bb45e3b47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar Disini'])[1]/preceding::div[1]</value>
+      <webElementGuid>8bf345b7-69fc-4bd8-a358-56a1d6ebc987</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/div[3]</value>
+      <webElementGuid>0897a324-d55b-422b-bbac-f617c3d8ed37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '
+LOGIN
+' or . = '
+LOGIN
+')]</value>
+      <webElementGuid>20b87026-8142-48ba-82c8-4ee7438ced6a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Tools Section - Arrow Kiri</name>
+   <tag></tag>
+   <elementGuidId>05cbb0e2-91fd-456f-b8d5-2fdba25a1b3d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[5]/div/div[3]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.js-slider-tools-ibu-prev > div.img-arrow</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>eb1068de-b842-473e-aa11-3e6fc27ceb44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>img-arrow</value>
+      <webElementGuid>c7d60481-3235-49d9-9f09-fe08be17165e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;pimcore_area_home-tools pimcore_area_content&quot;]/div[@class=&quot;tools-ibu-hebat sect&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;js-slider-tools-ibu-prev&quot;]/div[@class=&quot;img-arrow&quot;]</value>
+      <webElementGuid>b190fae6-ac53-48c3-b002-5a3a6b11898d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div[3]/div/div</value>
+      <webElementGuid>cc846ab3-f389-4ed5-be5b-0ea10c735d34</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

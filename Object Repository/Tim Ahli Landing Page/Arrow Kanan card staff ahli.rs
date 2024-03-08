@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Arrow Kanan card staff ahli</name>
+   <tag></tag>
+   <elementGuidId>29bc18aa-f43a-46d8-b7a8-790fe6cf9306</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.img-arrow.right</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[2]/div[2]/div[2]/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>352d43bb-ee18-427f-8ead-832686d8fdea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>img-arrow right</value>
+      <webElementGuid>44c2434c-4dab-4ac6-aeae-7c92584fd51d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/main[1]/div[@class=&quot;pimcore_area_eeat-team-reviewer pimcore_area_content&quot;]/section[@class=&quot;hero-contributor&quot;]/section[@class=&quot;greatness-hub-features&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12 features&quot;]/div[@class=&quot;container button-icon&quot;]/div[@class=&quot;js-eeat-team-writer-next&quot;]/div[@class=&quot;img-arrow right&quot;]</value>
+      <webElementGuid>bebd48b4-2e80-47cb-9fd9-81697b67167e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[2]/div[2]/div</value>
+      <webElementGuid>e2899615-96b4-4cac-8ec2-56110997cc0c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

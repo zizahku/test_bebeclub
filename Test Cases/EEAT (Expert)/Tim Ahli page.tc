@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Ensure the tim ahli page is displayed according the figma
+1. Breadcrumb (Verify the breadcrumb is unclickable on 2nd item)
+2. Head profile of Head Expert Team
+3. Tim Ahli card (shown dynamic based on tim ahli of bebelac)
+4. Editorial section : Accordion and verify text content (dynamic and adjustable by cms)
+5.</description>
+   <name>Tim Ahli page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d0291842-89b4-4c02-ba62-b96d4461c3b0</testCaseGuid>
+</TestCaseEntity>

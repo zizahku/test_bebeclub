@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Button Login</name>
+   <tag></tag>
+   <elementGuidId>69b5027d-d7eb-4684-a5e8-9160deffc70a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[contains(text(),'Login')])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.headers-menu_login > a.btn-login</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>01d3a65a-2fa3-47ba-bc78-9fb7ec14e676</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-login</value>
+      <webElementGuid>41ab58ae-6bc3-492f-9140-321ea03fb65d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/membership/login</value>
+      <webElementGuid>89e89328-583b-477d-818b-c738d4589012</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Login</value>
+      <webElementGuid>5b738ab7-5ff3-4cda-a262-af8cddb8de0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;headers-menu&quot;]/div[@class=&quot;headers-menu_iner&quot;]/div[@class=&quot;container_fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6 hidden-sm&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;headers-menu_login&quot;]/a[@class=&quot;btn-login&quot;]</value>
+      <webElementGuid>32b21932-d586-452b-9f40-b82ce20bcd47</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Login')])[2]</value>
+      <webElementGuid>b83f9bf1-ffc7-425a-ab29-d41fab3a6c15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hebatnya Bebelac'])[1]/following::a[1]</value>
+      <webElementGuid>e0db6efd-aeca-4bb5-82dd-87dade709c40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Promo &amp; Event'])[1]/following::a[2]</value>
+      <webElementGuid>781abba3-29fc-4417-ae85-cc2a1b4ace21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Register'])[2]/preceding::a[1]</value>
+      <webElementGuid>f2a91333-b10f-4307-81af-8256f94b5e52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pencernaan &amp; Alergi'])[1]/preceding::a[2]</value>
+      <webElementGuid>782bf5e8-9a95-46ed-b205-054fd7b0f527</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/membership/login')])[2]</value>
+      <webElementGuid>9a1d6cf7-a731-4417-94c6-60a484a4a873</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a</value>
+      <webElementGuid>090db65c-7bc2-451c-bb20-837e08038c42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/membership/login' and (text() = 'Login' or . = 'Login')]</value>
+      <webElementGuid>b5bfc687-8c2e-4438-b1fb-4d08808b4523</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

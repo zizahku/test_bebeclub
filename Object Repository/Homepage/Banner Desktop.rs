@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Banner Desktop</name>
+   <tag></tag>
+   <elementGuidId>aa1cc840-2b63-4758-9585-7d379c8481bb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[@alt='Bebelac 4 GroGreat+, Dukung Kehebatan Anak Prasekolah dengan Nutrisi Lanjutan Optimal. Lihat Hebatnya Bebelac 4!']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>6937dbc9-1299-48c3-a080-61ade2b96f09</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-src</name>
+      <type>Main</type>
+      <value>https://d24eqpince6acm.cloudfront.net/_default_upload_bucket/KV-Bebelac-4-home-desktop.webp</value>
+      <webElementGuid>9f16ce5a-0217-4baf-9911-23714a5977da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>banner-desktop ls-is-cached lazyloaded</value>
+      <webElementGuid>d2fa5086-6e40-43e0-8050-1c0cc976db13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Bebelac 4 GroGreat+, Dukung Kehebatan Anak Prasekolah dengan Nutrisi Lanjutan Optimal. Lihat Hebatnya Bebelac 4!</value>
+      <webElementGuid>5918b883-e1e0-44a4-a4ee-6f73beaf893e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Bebelac 4 GroGreat+, Dukung Kehebatan Anak Prasekolah dengan Nutrisi Lanjutan Optimal. Lihat Hebatnya Bebelac 4!</value>
+      <webElementGuid>9881e0cd-f391-4862-b241-f4c0aee319d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>1440</value>
+      <webElementGuid>a147f26c-5581-4a38-8b7a-fa3b1729e95c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>768</value>
+      <webElementGuid>bbf0dde5-3117-4164-915c-d6387c3ee743</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://d24eqpince6acm.cloudfront.net/_default_upload_bucket/KV-Bebelac-4-home-desktop.webp</value>
+      <webElementGuid>f89852ba-256d-4834-a4be-f422af01f701</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;pimcore_area_home-banner pimcore_area_content&quot;]/div[1]/div[@class=&quot;js-slider-hero swiper-container swiper-container-initialized swiper-container-horizontal swiper-container-pointer-events&quot;]/div[@class=&quot;swiper-wrapper&quot;]/a[@class=&quot;swiper-slide&quot;]/div[1]/picture[1]/img[@class=&quot;banner-desktop ls-is-cached lazyloaded&quot;]</value>
+      <webElementGuid>be227cdc-065e-48db-950b-6d52cf4fda22</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Bebelac 4 GroGreat+, Dukung Kehebatan Anak Prasekolah dengan Nutrisi Lanjutan Optimal. Lihat Hebatnya Bebelac 4!']</value>
+      <webElementGuid>6595ed40-29fa-484d-bfaf-75f121d1cda3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[5]/div/picture/img</value>
+      <webElementGuid>0e9e7f72-d8ae-4cf9-a5cf-016b64455fc0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = 'Bebelac 4 GroGreat+, Dukung Kehebatan Anak Prasekolah dengan Nutrisi Lanjutan Optimal. Lihat Hebatnya Bebelac 4!' and @title = 'Bebelac 4 GroGreat+, Dukung Kehebatan Anak Prasekolah dengan Nutrisi Lanjutan Optimal. Lihat Hebatnya Bebelac 4!' and @src = 'https://d24eqpince6acm.cloudfront.net/_default_upload_bucket/KV-Bebelac-4-home-desktop.webp']</value>
+      <webElementGuid>457a80cc-211f-472c-9f5c-3f9f0e73cfce</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
